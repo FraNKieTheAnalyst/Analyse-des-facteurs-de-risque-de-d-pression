@@ -1,0 +1,2055 @@
+Gender,Age,City,Profession,Work Pressure,Job Satisfaction,Sleep Duration,Dietary Habits,Have you ever had suicidal thoughts ?,Work/Study Hours,Financial Stress,Family History of Mental Illness,Depression
+Female,37,Ghaziabad,Teacher,2.0,4.0,7-8 hours,Moderate,No,6,2,No,No
+Male,60,Kalyan,Financial Analyst,4.0,3.0,5-6 hours,Unhealthy,Yes,0,4,Yes,No
+Female,42,Bhopal,Teacher,2.0,3.0,5-6 hours,Moderate,No,0,2,No,No
+Female,44,Thane,Teacher,3.0,5.0,7-8 hours,Healthy,Yes,1,2,Yes,No
+Male,48,Indore,UX/UI Designer,4.0,3.0,7-8 hours,Moderate,Yes,6,5,Yes,No
+Female,60,Bhopal,Civil Engineer,1.0,4.0,7-8 hours,Unhealthy,Yes,12,3,Yes,No
+Female,30,Pune,Accountant,4.0,2.0,More than 8 hours,Healthy,No,3,1,No,No
+Male,30,Bangalore,Teacher,1.0,2.0,More than 8 hours,Unhealthy,Yes,6,1,No,No
+Male,56,Hyderabad,Lawyer,1.0,2.0,More than 8 hours,Moderate,Yes,11,5,Yes,No
+Female,35,Srinagar,Content Writer,3.0,4.0,Less than 5 hours,Moderate,No,6,4,Yes,No
+Male,21,Nashik,Teacher,2.0,5.0,Less than 5 hours,Moderate,No,6,1,Yes,No
+Male,57,Pune,Content Writer,1.0,2.0,Less than 5 hours,Healthy,No,10,1,No,No
+Male,54,Kolkata,Pilot,3.0,2.0,7-8 hours,Healthy,No,11,4,No,No
+Male,51,Kalyan,Customer Support,2.0,3.0,Less than 5 hours,Healthy,No,8,5,No,No
+Male,18,Ahmedabad,Teacher,3.0,1.0,More than 8 hours,Unhealthy,Yes,7,3,No,Yes
+Female,51,Thane,Teacher,3.0,3.0,Less than 5 hours,Unhealthy,No,9,1,No,No
+Male,31,Kolkata,Judge,3.0,4.0,7-8 hours,Healthy,No,9,5,No,No
+Female,60,Varanasi,Architect,4.0,1.0,Less than 5 hours,Unhealthy,No,10,5,Yes,No
+Male,58,Kalyan,Teacher,1.0,2.0,More than 8 hours,Healthy,No,8,4,No,No
+Female,51,Chennai,HR Manager,5.0,5.0,5-6 hours,Healthy,No,11,2,No,No
+Male,47,Jaipur,UX/UI Designer,4.0,1.0,5-6 hours,Moderate,No,10,4,Yes,No
+Male,50,Surat,Digital Marketer,4.0,1.0,Less than 5 hours,Moderate,No,8,1,Yes,No
+Female,46,Hyderabad,Sales Executive,2.0,3.0,5-6 hours,Healthy,No,5,5,Yes,No
+Female,38,Indore,Teacher,2.0,5.0,5-6 hours,Unhealthy,Yes,9,3,Yes,No
+Female,54,Chennai,Lawyer,2.0,5.0,7-8 hours,Healthy,Yes,1,5,No,No
+Female,51,Vasai-Virar,Teacher,5.0,5.0,7-8 hours,Healthy,Yes,7,5,No,No
+Female,44,Patna,Business Analyst,3.0,3.0,Less than 5 hours,Moderate,Yes,11,1,Yes,No
+Female,45,Rajkot,Mechanical Engineer,4.0,1.0,Less than 5 hours,Moderate,No,6,4,Yes,No
+Male,58,Thane,Civil Engineer,3.0,5.0,5-6 hours,Unhealthy,No,7,1,Yes,No
+Female,45,Patna,Consultant,2.0,3.0,5-6 hours,Moderate,No,3,4,Yes,No
+Female,38,Vasai-Virar,Data Scientist,5.0,4.0,More than 8 hours,Moderate,No,2,5,Yes,No
+Male,31,Varanasi,Accountant,3.0,5.0,Less than 5 hours,Moderate,No,11,2,No,No
+Female,56,Bhopal,Pharmacist,4.0,5.0,More than 8 hours,Unhealthy,Yes,11,5,Yes,No
+Male,53,Bangalore,Software Engineer,1.0,3.0,More than 8 hours,Healthy,Yes,10,3,Yes,No
+Male,45,Lucknow,Teacher,5.0,1.0,Less than 5 hours,Healthy,No,9,5,Yes,No
+Male,49,Hyderabad,Teacher,1.0,5.0,5-6 hours,Unhealthy,No,2,5,Yes,No
+Female,57,Meerut,Travel Consultant,1.0,3.0,Less than 5 hours,Unhealthy,Yes,1,4,No,No
+Male,43,Nashik,Architect,1.0,2.0,5-6 hours,Moderate,No,0,5,No,No
+Female,22,Faridabad,Financial Analyst,4.0,5.0,5-6 hours,Unhealthy,Yes,12,3,Yes,Yes
+Male,56,Kalyan,Consultant,5.0,4.0,More than 8 hours,Healthy,No,3,2,Yes,No
+Male,30,Kanpur,Teacher,3.0,5.0,More than 8 hours,Moderate,No,1,2,No,No
+Male,57,Hyderabad,Content Writer,3.0,2.0,5-6 hours,Healthy,No,11,3,No,No
+Male,47,Visakhapatnam,Consultant,5.0,5.0,7-8 hours,Unhealthy,No,1,5,No,No
+Female,28,Ludhiana,Manager,2.0,3.0,Less than 5 hours,Unhealthy,Yes,8,1,No,No
+Female,54,Nashik,Teacher,2.0,4.0,5-6 hours,Healthy,No,9,3,Yes,No
+Female,49,Nashik,Pharmacist,5.0,3.0,Less than 5 hours,Moderate,Yes,10,3,Yes,No
+Male,37,Nagpur,Teacher,5.0,2.0,5-6 hours,Healthy,No,4,3,No,No
+Female,36,Mumbai,Data Scientist,5.0,4.0,5-6 hours,Healthy,No,7,5,No,No
+Male,46,Varanasi,Entrepreneur,3.0,1.0,7-8 hours,Moderate,Yes,1,2,Yes,No
+Male,51,Indore,Doctor,1.0,5.0,More than 8 hours,Moderate,No,9,4,Yes,No
+Male,42,Lucknow,Pharmacist,4.0,2.0,More than 8 hours,Moderate,No,8,1,Yes,No
+Male,46,Mumbai,Researcher,4.0,2.0,5-6 hours,Moderate,Yes,5,3,Yes,No
+Male,45,Indore,Plumber,5.0,1.0,7-8 hours,Moderate,Yes,0,1,Yes,No
+Female,50,Indore,Entrepreneur,5.0,2.0,7-8 hours,Healthy,Yes,5,5,No,No
+Female,35,Rajkot,Mechanical Engineer,3.0,2.0,7-8 hours,Unhealthy,Yes,8,1,Yes,No
+Female,20,Patna,Teacher,3.0,5.0,Less than 5 hours,Moderate,Yes,9,5,No,Yes
+Female,49,Ghaziabad,Teacher,1.0,1.0,5-6 hours,Moderate,No,9,2,No,No
+Male,43,Faridabad,Finanancial Analyst,1.0,3.0,More than 8 hours,Healthy,Yes,12,3,Yes,No
+Male,47,Ahmedabad,Teacher,2.0,1.0,7-8 hours,Healthy,Yes,11,1,No,No
+Male,42,Rajkot,Software Engineer,2.0,3.0,7-8 hours,Moderate,No,9,3,No,No
+Female,35,Surat,Marketing Manager,5.0,2.0,Less than 5 hours,Moderate,Yes,4,3,Yes,Yes
+Male,46,Ahmedabad,Software Engineer,2.0,2.0,Less than 5 hours,Unhealthy,No,6,2,No,No
+Female,48,Vadodara,Pilot,2.0,3.0,More than 8 hours,Moderate,No,6,1,No,No
+Male,19,Nagpur,Teacher,2.0,4.0,Less than 5 hours,Moderate,Yes,11,4,No,Yes
+Female,48,Vadodara,HR Manager,4.0,5.0,More than 8 hours,Moderate,Yes,12,2,Yes,No
+Female,35,Ludhiana,Manager,1.0,3.0,5-6 hours,Healthy,Yes,3,4,Yes,No
+Male,60,Nagpur,Software Engineer,1.0,5.0,7-8 hours,Moderate,Yes,4,5,No,No
+Male,33,Agra,Pilot,3.0,5.0,7-8 hours,Moderate,Yes,6,3,Yes,No
+Male,30,Srinagar,Teacher,4.0,1.0,More than 8 hours,Unhealthy,Yes,0,5,No,Yes
+Female,41,Kolkata,HR Manager,4.0,3.0,7-8 hours,Healthy,No,8,5,Yes,No
+Male,53,Patna,Teacher,5.0,5.0,5-6 hours,Moderate,No,12,4,Yes,No
+Male,27,Varanasi,Content Writer,3.0,5.0,More than 8 hours,Healthy,No,5,4,Yes,No
+Male,18,Rajkot,Teacher,4.0,2.0,More than 8 hours,Unhealthy,Yes,7,2,No,Yes
+Male,52,Mumbai,Entrepreneur,3.0,3.0,Less than 5 hours,Moderate,Yes,7,3,No,No
+Female,51,Meerut,Digital Marketer,2.0,5.0,7-8 hours,Healthy,No,9,3,No,No
+Female,43,Bangalore,Manager,1.0,4.0,Less than 5 hours,Healthy,No,9,3,No,No
+Male,26,Visakhapatnam,Doctor,2.0,1.0,7-8 hours,Healthy,No,5,5,No,No
+Male,22,Agra,Content Writer,1.0,4.0,7-8 hours,Moderate,Yes,8,4,Yes,No
+Female,34,Bhopal,Educational Consultant,3.0,4.0,Less than 5 hours,Moderate,No,8,1,No,No
+Female,59,Agra,Marketing Manager,1.0,4.0,7-8 hours,Healthy,Yes,7,2,Yes,No
+Female,50,Patna,Customer Support,3.0,2.0,7-8 hours,Healthy,No,7,3,No,No
+Male,44,Agra,Business Analyst,1.0,4.0,7-8 hours,Healthy,No,10,4,No,No
+Male,59,Nashik,Judge,4.0,2.0,7-8 hours,Moderate,Yes,5,3,Yes,No
+Male,58,Ludhiana,Financial Analyst,3.0,3.0,Less than 5 hours,Healthy,Yes,11,5,No,No
+Female,35,Agra,Judge,5.0,3.0,5-6 hours,Healthy,Yes,7,3,Yes,Yes
+Female,30,Ludhiana,Judge,2.0,1.0,7-8 hours,Moderate,Yes,2,4,Yes,Yes
+Male,49,Nashik,Chemist,5.0,2.0,More than 8 hours,Unhealthy,No,3,4,No,No
+Male,55,Patna,Educational Consultant,2.0,4.0,More than 8 hours,Moderate,No,10,1,Yes,No
+Female,45,Agra,Teacher,4.0,2.0,More than 8 hours,Healthy,Yes,12,1,Yes,No
+Male,37,Mumbai,Travel Consultant,4.0,4.0,7-8 hours,Unhealthy,No,12,2,No,No
+Male,35,Vasai-Virar,Content Writer,5.0,3.0,7-8 hours,Healthy,Yes,2,5,No,No
+Female,18,Chennai,Teacher,5.0,5.0,Less than 5 hours,Healthy,No,6,5,Yes,Yes
+Male,55,Pune,Data Scientist,1.0,5.0,More than 8 hours,Unhealthy,Yes,9,1,Yes,No
+Female,25,Ghaziabad,Teacher,5.0,1.0,More than 8 hours,Healthy,No,7,3,No,No
+Female,45,Ludhiana,Lawyer,1.0,2.0,7-8 hours,Moderate,Yes,9,3,Yes,No
+Female,44,Rajkot,Chemist,4.0,4.0,Less than 5 hours,Healthy,Yes,0,5,Yes,No
+Female,41,Ahmedabad,Teacher,3.0,4.0,More than 8 hours,Moderate,Yes,10,5,No,No
+Female,40,Ludhiana,Teacher,3.0,4.0,7-8 hours,Healthy,Yes,9,5,No,No
+Male,37,Lucknow,Teacher,3.0,5.0,7-8 hours,Unhealthy,Yes,2,4,No,No
+Male,48,Visakhapatnam,Teacher,4.0,4.0,5-6 hours,Healthy,Yes,0,1,No,No
+Female,58,Rajkot,Entrepreneur,2.0,2.0,7-8 hours,Unhealthy,Yes,1,2,Yes,No
+Female,56,Vasai-Virar,Research Analyst,2.0,5.0,More than 8 hours,Healthy,Yes,4,5,Yes,No
+Male,26,Meerut,Software Engineer,3.0,3.0,Less than 5 hours,Healthy,Yes,2,1,Yes,No
+Male,49,Ahmedabad,Teacher,5.0,2.0,More than 8 hours,Unhealthy,No,9,5,Yes,No
+Male,41,Kalyan,Architect,1.0,2.0,5-6 hours,Moderate,No,10,1,No,No
+Female,19,Patna,Teacher,5.0,5.0,More than 8 hours,Moderate,No,11,5,Yes,Yes
+Female,47,Nagpur,Teacher,4.0,5.0,More than 8 hours,Unhealthy,Yes,5,1,Yes,No
+Male,38,Vadodara,Travel Consultant,2.0,4.0,7-8 hours,Healthy,No,5,2,Yes,No
+Female,51,Mumbai,Chef,5.0,1.0,Less than 5 hours,Moderate,No,2,2,No,No
+Female,49,Kanpur,Sales Executive,5.0,3.0,7-8 hours,Unhealthy,Yes,0,4,No,No
+Female,24,Surat,Chemist,3.0,1.0,7-8 hours,Moderate,Yes,10,5,Yes,Yes
+Female,47,Nashik,Lawyer,3.0,3.0,More than 8 hours,Moderate,No,0,1,Yes,No
+Female,47,Kanpur,Consultant,3.0,5.0,5-6 hours,Healthy,Yes,10,4,No,No
+Male,45,Mumbai,Content Writer,4.0,2.0,Less than 5 hours,Unhealthy,No,4,4,Yes,No
+Male,51,Chennai,Chef,3.0,3.0,More than 8 hours,Healthy,No,4,1,Yes,No
+Male,20,Mumbai,Teacher,3.0,1.0,Less than 5 hours,Unhealthy,No,6,4,Yes,Yes
+Female,55,Nashik,Business Analyst,2.0,4.0,More than 8 hours,Healthy,No,9,2,Yes,No
+Female,56,Visakhapatnam,Software Engineer,1.0,1.0,7-8 hours,Healthy,Yes,9,5,No,No
+Male,58,Vadodara,Civil Engineer,2.0,2.0,5-6 hours,Healthy,No,8,1,No,No
+Male,59,Pune,Chef,5.0,5.0,5-6 hours,Healthy,No,6,3,Yes,No
+Male,57,Pune,Content Writer,2.0,2.0,Less than 5 hours,Unhealthy,Yes,9,2,No,No
+Male,60,Bhopal,Chemist,5.0,3.0,Less than 5 hours,Moderate,No,7,3,No,No
+Female,18,Thane,Teacher,1.0,5.0,7-8 hours,Moderate,Yes,1,4,No,No
+Female,18,Bhopal,Teacher,5.0,4.0,5-6 hours,Unhealthy,No,10,4,No,Yes
+Female,44,Bhopal,Teacher,4.0,3.0,Less than 5 hours,Healthy,No,11,2,No,No
+Male,56,Bangalore,Content Writer,3.0,5.0,5-6 hours,Unhealthy,No,11,2,Yes,No
+Female,21,Visakhapatnam,Content Writer,2.0,4.0,Less than 5 hours,Healthy,Yes,7,1,Yes,No
+Female,49,Kolkata,Teacher,2.0,5.0,7-8 hours,Moderate,Yes,11,2,Yes,No
+Female,51,Varanasi,Financial Analyst,4.0,1.0,Less than 5 hours,Unhealthy,No,12,5,No,No
+Male,41,Vasai-Virar,Entrepreneur,3.0,1.0,More than 8 hours,Unhealthy,No,0,2,No,No
+Female,28,Ahmedabad,Plumber,1.0,1.0,5-6 hours,Moderate,Yes,3,5,No,Yes
+Female,37,Lucknow,Architect,4.0,4.0,Less than 5 hours,Moderate,Yes,0,4,No,No
+Male,36,Ghaziabad,Teacher,2.0,4.0,More than 8 hours,Healthy,No,1,5,Yes,No
+Female,35,Bangalore,Content Writer,4.0,5.0,5-6 hours,Unhealthy,No,0,5,Yes,No
+Female,46,Mumbai,Manager,2.0,2.0,More than 8 hours,Healthy,No,9,1,No,No
+Female,35,Kolkata,Teacher,1.0,3.0,Less than 5 hours,Unhealthy,No,12,3,Yes,No
+Female,24,Ahmedabad,Marketing Manager,2.0,1.0,More than 8 hours,Healthy,No,6,5,Yes,No
+Female,55,Visakhapatnam,Electrician,3.0,4.0,More than 8 hours,Unhealthy,No,3,5,Yes,No
+Male,28,Vasai-Virar,Software Engineer,4.0,4.0,7-8 hours,Unhealthy,No,1,2,No,No
+Female,51,Nashik,Graphic Designer,3.0,3.0,7-8 hours,Moderate,No,4,3,No,No
+Male,60,Rajkot,Teacher,5.0,1.0,Less than 5 hours,Healthy,Yes,4,4,Yes,No
+Female,27,Bhopal,HR Manager,3.0,1.0,5-6 hours,Unhealthy,No,12,4,Yes,Yes
+Male,37,Rajkot,Architect,2.0,4.0,7-8 hours,Moderate,Yes,2,1,Yes,No
+Female,45,Ahmedabad,Data Scientist,5.0,2.0,Less than 5 hours,Moderate,Yes,1,3,No,No
+Male,36,Meerut,Judge,5.0,4.0,7-8 hours,Healthy,Yes,4,4,No,No
+Male,51,Pune,Teacher,3.0,1.0,7-8 hours,Healthy,Yes,5,3,Yes,No
+Male,38,Bangalore,Teacher,2.0,1.0,More than 8 hours,Moderate,Yes,3,4,Yes,No
+Male,51,Ahmedabad,Educational Consultant,1.0,5.0,7-8 hours,Unhealthy,No,6,3,No,No
+Male,40,Pune,Investment Banker,5.0,3.0,Less than 5 hours,Healthy,No,9,5,No,No
+Male,57,Vadodara,Judge,1.0,4.0,Less than 5 hours,Unhealthy,Yes,5,4,Yes,No
+Male,38,Ghaziabad,Teacher,2.0,5.0,5-6 hours,Healthy,No,10,4,Yes,No
+Male,49,Bhopal,Entrepreneur,5.0,2.0,Less than 5 hours,Healthy,Yes,11,3,Yes,No
+Male,45,Mumbai,Civil Engineer,2.0,5.0,5-6 hours,Moderate,No,0,4,Yes,No
+Male,48,Vasai-Virar,Educational Consultant,2.0,2.0,Less than 5 hours,Moderate,No,0,2,No,No
+Female,43,Ghaziabad,Electrician,4.0,1.0,More than 8 hours,Healthy,No,5,1,No,No
+Male,39,Indore,Chemist,5.0,4.0,More than 8 hours,Unhealthy,No,4,3,No,No
+Female,49,Delhi,Educational Consultant,3.0,2.0,7-8 hours,Healthy,No,3,3,No,No
+Male,55,Nashik,Chef,3.0,3.0,5-6 hours,Unhealthy,No,6,1,Yes,No
+Male,37,Mumbai,Teacher,5.0,2.0,Less than 5 hours,Healthy,Yes,5,1,Yes,No
+Male,28,Mumbai,Content Writer,3.0,5.0,More than 8 hours,Moderate,No,3,1,Yes,No
+Male,35,Jaipur,Consultant,3.0,5.0,5-6 hours,Moderate,No,5,5,Yes,No
+Female,54,Bangalore,Doctor,1.0,4.0,5-6 hours,Moderate,No,12,5,No,No
+Male,53,Chennai,Researcher,5.0,3.0,Less than 5 hours,Healthy,No,5,3,No,No
+Male,21,Delhi,Civil Engineer,5.0,2.0,7-8 hours,Moderate,No,11,3,No,Yes
+Male,23,Nashik,Graphic Designer,3.0,2.0,5-6 hours,Healthy,Yes,7,5,No,Yes
+Male,53,Srinagar,Teacher,3.0,1.0,5-6 hours,Unhealthy,No,1,1,Yes,No
+Female,55,Ahmedabad,Teacher,5.0,1.0,More than 8 hours,Healthy,No,7,4,Yes,No
+Male,48,Jaipur,Business Analyst,4.0,3.0,5-6 hours,Moderate,Yes,2,2,Yes,No
+Female,31,Kolkata,HR Manager,3.0,5.0,5-6 hours,Unhealthy,Yes,11,5,No,Yes
+Female,35,Visakhapatnam,Content Writer,5.0,3.0,More than 8 hours,Healthy,No,2,4,Yes,No
+Male,46,Vadodara,Teacher,2.0,1.0,7-8 hours,Unhealthy,Yes,5,3,Yes,No
+Male,19,Ahmedabad,Teacher,3.0,2.0,More than 8 hours,Unhealthy,Yes,4,2,No,Yes
+Female,46,Visakhapatnam,Content Writer,1.0,4.0,7-8 hours,Moderate,No,9,2,Yes,No
+Female,47,Kanpur,Business Analyst,1.0,4.0,Less than 5 hours,Unhealthy,Yes,1,1,Yes,No
+Female,45,Delhi,Teacher,2.0,1.0,7-8 hours,Unhealthy,No,9,4,Yes,No
+Female,24,Rajkot,Chef,4.0,3.0,Less than 5 hours,Healthy,No,0,4,No,No
+Male,29,Nashik,Teacher,2.0,4.0,5-6 hours,Unhealthy,Yes,1,1,Yes,No
+Female,53,Ahmedabad,Research Analyst,1.0,1.0,More than 8 hours,Healthy,No,11,2,No,No
+Female,37,Jaipur,Teacher,4.0,5.0,7-8 hours,Unhealthy,Yes,12,2,No,No
+Male,51,Delhi,Consultant,5.0,2.0,More than 8 hours,Healthy,No,3,2,Yes,No
+Female,49,Vadodara,Lawyer,4.0,3.0,Less than 5 hours,Healthy,Yes,4,3,Yes,No
+Male,51,Nashik,Educational Consultant,3.0,5.0,7-8 hours,Healthy,No,9,3,No,No
+Male,53,Nashik,Data Scientist,5.0,2.0,Less than 5 hours,Moderate,No,0,3,Yes,No
+Male,48,Surat,HR Manager,2.0,2.0,7-8 hours,Healthy,No,0,5,Yes,No
+Male,43,Nashik,Researcher,3.0,5.0,Less than 5 hours,Healthy,No,7,1,No,No
+Male,56,Rajkot,Software Engineer,1.0,1.0,More than 8 hours,Moderate,No,10,3,No,No
+Male,51,Delhi,Content Writer,5.0,4.0,Less than 5 hours,Healthy,Yes,2,5,Yes,No
+Male,20,Kalyan,Teacher,3.0,5.0,Less than 5 hours,Moderate,No,1,4,No,No
+Female,58,Bangalore,Teacher,2.0,4.0,Less than 5 hours,Moderate,Yes,2,5,No,No
+Female,36,Lucknow,Marketing Manager,1.0,2.0,5-6 hours,Unhealthy,Yes,9,3,Yes,No
+Female,40,Kanpur,Consultant,4.0,3.0,5-6 hours,Healthy,Yes,10,3,No,No
+Male,56,Bangalore,Chef,2.0,5.0,7-8 hours,Healthy,Yes,3,2,No,No
+Male,25,Delhi,Business Analyst,3.0,5.0,5-6 hours,Unhealthy,No,8,5,No,No
+Female,55,Kanpur,Digital Marketer,2.0,1.0,More than 8 hours,Unhealthy,No,4,1,No,No
+Male,41,Ahmedabad,Pharmacist,3.0,2.0,7-8 hours,Unhealthy,No,2,3,No,No
+Female,24,Kolkata,Entrepreneur,4.0,5.0,7-8 hours,Moderate,No,10,3,No,No
+Male,31,Patna,Travel Consultant,4.0,3.0,Less than 5 hours,Unhealthy,No,12,3,No,No
+Female,44,Varanasi,Digital Marketer,3.0,3.0,Less than 5 hours,Unhealthy,No,3,4,Yes,No
+Male,57,Meerut,Manager,2.0,1.0,5-6 hours,Unhealthy,No,4,4,No,No
+Female,30,Meerut,Graphic Designer,5.0,3.0,More than 8 hours,Unhealthy,Yes,6,3,No,Yes
+Male,23,Ludhiana,Graphic Designer,2.0,4.0,5-6 hours,Healthy,Yes,9,1,Yes,No
+Female,47,Vadodara,HR Manager,4.0,3.0,More than 8 hours,Healthy,No,3,5,Yes,No
+Male,60,Ludhiana,Teacher,4.0,1.0,5-6 hours,Moderate,Yes,12,1,Yes,No
+Female,25,Mumbai,Chemist,1.0,4.0,5-6 hours,Moderate,No,11,2,No,No
+Male,33,Varanasi,Doctor,2.0,5.0,More than 8 hours,Unhealthy,No,0,4,No,No
+Female,47,Faridabad,Plumber,3.0,4.0,More than 8 hours,Unhealthy,Yes,11,4,No,No
+Female,43,Varanasi,Pharmacist,1.0,3.0,7-8 hours,Moderate,No,6,3,No,No
+Male,54,Vasai-Virar,Teacher,1.0,1.0,Less than 5 hours,Moderate,Yes,7,3,Yes,No
+Female,47,Indore,Teacher,3.0,3.0,Less than 5 hours,Moderate,No,10,2,No,No
+Male,33,Ghaziabad,Doctor,2.0,5.0,Less than 5 hours,Unhealthy,No,12,2,No,No
+Male,52,Kolkata,Pharmacist,2.0,3.0,7-8 hours,Unhealthy,No,5,2,No,No
+Female,39,Kolkata,Manager,1.0,4.0,Less than 5 hours,Moderate,Yes,11,1,Yes,No
+Male,30,Ahmedabad,Teacher,2.0,2.0,5-6 hours,Healthy,Yes,0,2,No,No
+Male,55,Indore,Consultant,5.0,4.0,7-8 hours,Unhealthy,No,6,4,Yes,No
+Male,29,Pune,Lawyer,2.0,3.0,5-6 hours,Healthy,Yes,10,4,Yes,Yes
+Female,52,Vadodara,Researcher,3.0,4.0,Less than 5 hours,Unhealthy,No,4,1,No,No
+Male,22,Mumbai,Teacher,2.0,1.0,More than 8 hours,Healthy,Yes,9,1,No,No
+Female,52,Lucknow,Educational Consultant,1.0,2.0,More than 8 hours,Moderate,No,5,5,Yes,No
+Male,47,Rajkot,Pharmacist,3.0,3.0,Less than 5 hours,Moderate,Yes,8,5,No,No
+Male,52,Meerut,Digital Marketer,3.0,3.0,5-6 hours,Healthy,No,3,2,Yes,No
+Female,53,Vadodara,Chemist,5.0,4.0,7-8 hours,Moderate,No,11,2,No,No
+Male,25,Kanpur,Graphic Designer,3.0,3.0,More than 8 hours,Moderate,No,2,3,No,No
+Male,44,Kanpur,Data Scientist,1.0,4.0,More than 8 hours,Moderate,Yes,2,1,No,No
+Male,50,Vadodara,Graphic Designer,5.0,4.0,5-6 hours,Healthy,Yes,12,3,Yes,No
+Female,28,Delhi,Travel Consultant,5.0,2.0,7-8 hours,Healthy,No,9,4,No,No
+Female,48,Kolkata,Content Writer,3.0,4.0,5-6 hours,Moderate,Yes,1,4,No,No
+Female,50,Varanasi,Business Analyst,3.0,5.0,7-8 hours,Moderate,No,10,4,No,No
+Male,24,Hyderabad,Teacher,5.0,4.0,Less than 5 hours,Unhealthy,No,11,5,No,Yes
+Male,55,Chennai,Chemist,3.0,2.0,7-8 hours,Healthy,Yes,11,2,No,No
+Female,53,Patna,Teacher,2.0,4.0,More than 8 hours,Healthy,Yes,6,5,Yes,No
+Female,50,Chennai,Manager,4.0,3.0,5-6 hours,Healthy,Yes,9,4,Yes,No
+Male,46,Agra,Content Writer,1.0,2.0,7-8 hours,Unhealthy,No,12,5,Yes,No
+Female,43,Lucknow,Teacher,3.0,2.0,7-8 hours,Unhealthy,No,3,1,Yes,No
+Female,36,Ahmedabad,Travel Consultant,5.0,1.0,More than 8 hours,Healthy,No,11,5,No,No
+Female,50,Kanpur,Chef,2.0,3.0,Less than 5 hours,Unhealthy,Yes,0,3,No,No
+Female,54,Jaipur,Architect,5.0,5.0,7-8 hours,Healthy,Yes,1,4,No,No
+Female,45,Kanpur,Architect,3.0,2.0,7-8 hours,Unhealthy,No,11,3,Yes,No
+Female,29,Mumbai,Chemist,2.0,2.0,More than 8 hours,Unhealthy,No,12,1,Yes,No
+Male,54,Faridabad,Manager,4.0,3.0,More than 8 hours,Unhealthy,Yes,6,4,Yes,No
+Female,18,Vadodara,Teacher,2.0,5.0,7-8 hours,Unhealthy,Yes,4,4,Yes,Yes
+Female,19,Delhi,Teacher,3.0,5.0,More than 8 hours,Healthy,No,3,1,Yes,No
+Male,32,Faridabad,Pharmacist,5.0,4.0,5-6 hours,Unhealthy,Yes,1,3,No,No
+Female,37,Indore,Content Writer,2.0,5.0,7-8 hours,Healthy,No,11,3,Yes,No
+Female,35,Hyderabad,Finanancial Analyst,4.0,3.0,Less than 5 hours,Unhealthy,No,12,5,No,No
+Female,55,Kalyan,Finanancial Analyst,5.0,2.0,More than 8 hours,Unhealthy,No,5,2,Yes,No
+Female,37,Kalyan,Teacher,1.0,2.0,5-6 hours,Moderate,Yes,8,2,Yes,No
+Male,58,Varanasi,UX/UI Designer,2.0,1.0,Less than 5 hours,Unhealthy,Yes,1,1,No,No
+Male,53,Kolkata,Customer Support,3.0,2.0,Less than 5 hours,Unhealthy,No,4,1,Yes,No
+Female,44,Ahmedabad,Chemist,4.0,2.0,5-6 hours,Unhealthy,Yes,11,1,No,No
+Female,39,Pune,Plumber,5.0,2.0,Less than 5 hours,Healthy,No,0,2,Yes,No
+Male,45,Meerut,Consultant,3.0,5.0,5-6 hours,Unhealthy,Yes,8,3,Yes,No
+Female,41,Agra,Plumber,3.0,3.0,More than 8 hours,Moderate,No,2,2,Yes,No
+Male,53,Chennai,Teacher,4.0,2.0,7-8 hours,Healthy,Yes,10,2,No,No
+Male,53,Agra,Teacher,3.0,3.0,More than 8 hours,Moderate,No,0,4,Yes,No
+Male,53,Rajkot,Entrepreneur,1.0,4.0,5-6 hours,Healthy,No,4,5,Yes,No
+Female,53,Jaipur,Researcher,4.0,1.0,7-8 hours,Healthy,Yes,7,5,Yes,No
+Female,29,Varanasi,Judge,1.0,1.0,5-6 hours,Healthy,Yes,1,3,Yes,No
+Female,57,Delhi,Software Engineer,1.0,3.0,7-8 hours,Moderate,No,11,4,Yes,No
+Male,32,Mumbai,Teacher,5.0,5.0,7-8 hours,Unhealthy,Yes,7,5,No,Yes
+Female,44,Hyderabad,HR Manager,3.0,2.0,7-8 hours,Healthy,No,2,2,Yes,No
+Female,35,Visakhapatnam,Sales Executive,4.0,3.0,Less than 5 hours,Unhealthy,Yes,1,3,Yes,No
+Male,40,Hyderabad,Software Engineer,1.0,4.0,7-8 hours,Healthy,Yes,11,3,Yes,No
+Female,46,Visakhapatnam,Pilot,3.0,2.0,5-6 hours,Healthy,No,4,5,No,No
+Female,44,Pune,Teacher,3.0,5.0,5-6 hours,Unhealthy,No,6,5,No,No
+Male,56,Ludhiana,Business Analyst,1.0,5.0,7-8 hours,Healthy,No,5,5,No,No
+Male,32,Vasai-Virar,Business Analyst,5.0,5.0,7-8 hours,Unhealthy,No,11,3,Yes,No
+Male,18,Thane,Teacher,1.0,4.0,More than 8 hours,Unhealthy,Yes,2,4,Yes,No
+Male,31,Srinagar,Software Engineer,2.0,4.0,5-6 hours,Moderate,Yes,11,2,Yes,No
+Male,43,Ahmedabad,Teacher,5.0,2.0,More than 8 hours,Moderate,No,7,1,Yes,No
+Female,52,Agra,Content Writer,1.0,1.0,5-6 hours,Moderate,Yes,4,3,Yes,No
+Female,26,Jaipur,UX/UI Designer,3.0,4.0,Less than 5 hours,Unhealthy,No,1,1,No,No
+Male,44,Kalyan,Content Writer,3.0,1.0,More than 8 hours,Healthy,No,9,2,Yes,No
+Male,56,Srinagar,Teacher,5.0,1.0,7-8 hours,Unhealthy,Yes,1,5,Yes,No
+Male,56,Patna,Pharmacist,4.0,3.0,More than 8 hours,Moderate,Yes,9,5,Yes,No
+Male,40,Meerut,Content Writer,3.0,5.0,5-6 hours,Healthy,Yes,8,5,No,No
+Male,36,Srinagar,Teacher,3.0,3.0,7-8 hours,Healthy,No,11,3,Yes,No
+Male,23,Hyderabad,Entrepreneur,3.0,3.0,7-8 hours,Unhealthy,Yes,9,5,No,Yes
+Male,49,Srinagar,Teacher,1.0,1.0,5-6 hours,Moderate,Yes,3,4,Yes,No
+Male,47,Kalyan,Teacher,4.0,5.0,7-8 hours,Healthy,No,8,4,No,No
+Male,51,Patna,Teacher,3.0,3.0,Less than 5 hours,Healthy,No,7,5,Yes,No
+Male,39,Agra,Judge,4.0,4.0,More than 8 hours,Moderate,No,0,5,No,No
+Male,46,Ludhiana,Pharmacist,5.0,3.0,7-8 hours,Unhealthy,No,8,1,No,No
+Male,41,Mumbai,Architect,2.0,3.0,7-8 hours,Unhealthy,Yes,12,5,Yes,No
+Female,40,Ghaziabad,Chemist,1.0,1.0,7-8 hours,Unhealthy,No,7,5,Yes,No
+Female,50,Mumbai,Chemist,2.0,2.0,More than 8 hours,Healthy,Yes,11,1,Yes,No
+Male,56,Bhopal,Finanancial Analyst,5.0,3.0,More than 8 hours,Moderate,No,5,2,No,No
+Male,30,Varanasi,Judge,4.0,3.0,7-8 hours,Unhealthy,Yes,0,4,No,No
+Male,31,Srinagar,Pilot,1.0,4.0,Less than 5 hours,Unhealthy,No,10,5,No,No
+Male,39,Hyderabad,Entrepreneur,2.0,4.0,5-6 hours,Moderate,Yes,0,4,No,No
+Male,19,Mumbai,Teacher,1.0,3.0,Less than 5 hours,Moderate,Yes,10,4,Yes,Yes
+Female,55,Vasai-Virar,Financial Analyst,3.0,4.0,5-6 hours,Moderate,No,4,4,No,No
+Male,51,Ahmedabad,Content Writer,5.0,4.0,7-8 hours,Healthy,No,2,2,No,No
+Female,37,Patna,Content Writer,3.0,1.0,5-6 hours,Healthy,No,9,4,No,No
+Male,39,Kolkata,Teacher,4.0,4.0,Less than 5 hours,Healthy,No,0,5,Yes,No
+Male,31,Thane,Research Analyst,4.0,1.0,7-8 hours,Moderate,Yes,4,2,No,Yes
+Male,41,Hyderabad,Pharmacist,5.0,4.0,7-8 hours,Unhealthy,No,12,4,Yes,No
+Male,50,Vadodara,Teacher,3.0,2.0,More than 8 hours,Moderate,No,1,5,No,No
+Female,57,Nagpur,Teacher,4.0,1.0,More than 8 hours,Healthy,Yes,9,4,Yes,No
+Male,55,Ghaziabad,Architect,5.0,3.0,Less than 5 hours,Unhealthy,Yes,8,5,Yes,No
+Male,43,Ludhiana,Digital Marketer,4.0,4.0,More than 8 hours,Moderate,No,9,4,Yes,No
+Female,58,Surat,Teacher,4.0,2.0,5-6 hours,Moderate,Yes,7,4,No,No
+Female,56,Srinagar,Entrepreneur,3.0,2.0,Less than 5 hours,Unhealthy,No,8,2,Yes,No
+Female,20,Meerut,Teacher,5.0,2.0,More than 8 hours,Moderate,Yes,0,2,No,Yes
+Female,27,Patna,Financial Analyst,3.0,1.0,7-8 hours,Healthy,No,9,2,No,No
+Female,49,Faridabad,Civil Engineer,3.0,3.0,7-8 hours,Unhealthy,Yes,3,2,Yes,No
+Male,56,Srinagar,HR Manager,3.0,5.0,7-8 hours,Unhealthy,No,12,4,Yes,No
+Male,53,Kanpur,Pharmacist,5.0,4.0,5-6 hours,Unhealthy,Yes,4,1,Yes,No
+Male,42,Patna,Consultant,4.0,5.0,More than 8 hours,Unhealthy,No,3,4,No,No
+Female,48,Hyderabad,Manager,5.0,5.0,5-6 hours,Unhealthy,No,12,2,Yes,No
+Male,57,Kalyan,Teacher,2.0,2.0,5-6 hours,Moderate,Yes,7,5,No,No
+Female,36,Pune,Doctor,1.0,5.0,Less than 5 hours,Healthy,No,8,3,Yes,No
+Male,54,Bhopal,Pilot,1.0,1.0,5-6 hours,Moderate,No,3,3,No,No
+Female,49,Patna,Marketing Manager,3.0,2.0,5-6 hours,Moderate,Yes,1,2,Yes,No
+Male,52,Pune,Electrician,2.0,4.0,5-6 hours,Healthy,Yes,7,1,No,No
+Female,60,Indore,Lawyer,4.0,3.0,7-8 hours,Moderate,Yes,8,4,Yes,No
+Male,19,Vadodara,Teacher,1.0,2.0,More than 8 hours,Unhealthy,No,7,4,No,No
+Male,26,Hyderabad,Teacher,2.0,2.0,Less than 5 hours,Moderate,No,12,3,Yes,No
+Female,42,Rajkot,UX/UI Designer,5.0,3.0,More than 8 hours,Moderate,No,2,2,Yes,No
+Male,51,Varanasi,Doctor,2.0,1.0,7-8 hours,Healthy,Yes,10,2,No,No
+Male,54,Delhi,Chef,2.0,5.0,7-8 hours,Healthy,No,9,3,No,No
+Male,52,Faridabad,Business Analyst,4.0,4.0,More than 8 hours,Unhealthy,Yes,2,5,Yes,No
+Female,38,Visakhapatnam,Teacher,3.0,4.0,5-6 hours,Moderate,No,5,1,Yes,No
+Male,54,Visakhapatnam,Teacher,4.0,2.0,7-8 hours,Healthy,Yes,5,1,Yes,No
+Female,54,Bhopal,Consultant,1.0,1.0,7-8 hours,Unhealthy,Yes,7,5,No,No
+Female,36,Rajkot,Teacher,3.0,5.0,Less than 5 hours,Unhealthy,Yes,2,4,No,No
+Male,56,Ghaziabad,Marketing Manager,3.0,5.0,More than 8 hours,Moderate,No,6,1,Yes,No
+Male,43,Vasai-Virar,Financial Analyst,5.0,4.0,7-8 hours,Healthy,No,0,5,No,No
+Male,35,Srinagar,Chef,4.0,4.0,7-8 hours,Unhealthy,Yes,1,3,No,No
+Male,44,Pune,Consultant,3.0,5.0,Less than 5 hours,Healthy,Yes,12,1,No,No
+Male,19,Indore,Teacher,1.0,3.0,7-8 hours,Unhealthy,Yes,12,4,No,Yes
+Male,38,Agra,Doctor,5.0,1.0,Less than 5 hours,Healthy,No,1,4,No,No
+Male,46,Pune,Doctor,5.0,4.0,Less than 5 hours,Moderate,Yes,7,1,No,No
+Female,45,Ghaziabad,Lawyer,1.0,3.0,7-8 hours,Moderate,Yes,9,3,Yes,No
+Male,44,Agra,Manager,3.0,2.0,7-8 hours,Unhealthy,No,8,5,No,No
+Female,27,Rajkot,Business Analyst,1.0,3.0,Less than 5 hours,Unhealthy,No,8,4,Yes,No
+Male,29,Kolkata,Graphic Designer,5.0,1.0,More than 8 hours,Unhealthy,No,9,3,No,Yes
+Male,35,Faridabad,Chef,1.0,2.0,More than 8 hours,Unhealthy,Yes,10,5,No,No
+Male,51,Lucknow,Architect,5.0,1.0,7-8 hours,Moderate,Yes,10,5,Yes,Yes
+Female,57,Ludhiana,Investment Banker,5.0,5.0,More than 8 hours,Healthy,No,3,1,No,No
+Female,49,Kalyan,Manager,5.0,4.0,5-6 hours,Healthy,No,1,2,Yes,No
+Male,46,Surat,Pharmacist,2.0,3.0,7-8 hours,Unhealthy,Yes,8,2,Yes,No
+Male,52,Delhi,Graphic Designer,2.0,3.0,7-8 hours,Moderate,Yes,4,5,Yes,No
+Male,18,Ghaziabad,Teacher,5.0,5.0,Less than 5 hours,Moderate,Yes,11,1,No,Yes
+Female,38,Indore,Teacher,4.0,4.0,7-8 hours,Unhealthy,Yes,0,3,No,No
+Male,52,Pune,Architect,2.0,3.0,Less than 5 hours,Moderate,Yes,3,3,Yes,No
+Female,23,Pune,Consultant,4.0,2.0,7-8 hours,Healthy,Yes,6,4,No,Yes
+Male,39,Ahmedabad,Architect,2.0,5.0,5-6 hours,Healthy,No,5,2,Yes,No
+Male,42,Nagpur,Digital Marketer,3.0,4.0,5-6 hours,Healthy,No,12,2,Yes,No
+Male,48,Ahmedabad,Software Engineer,3.0,2.0,7-8 hours,Moderate,No,5,4,Yes,No
+Female,20,Chennai,Teacher,5.0,4.0,5-6 hours,Moderate,No,4,2,No,No
+Male,59,Pune,Teacher,4.0,3.0,5-6 hours,Healthy,No,6,2,Yes,No
+Male,51,Bangalore,Data Scientist,4.0,3.0,5-6 hours,Moderate,No,3,2,No,No
+Male,44,Ghaziabad,Customer Support,1.0,5.0,Less than 5 hours,Unhealthy,No,4,3,No,No
+Male,36,Ludhiana,Teacher,5.0,1.0,5-6 hours,Healthy,No,2,4,Yes,No
+Female,29,Thane,Research Analyst,5.0,1.0,5-6 hours,Healthy,Yes,2,1,No,Yes
+Male,34,Rajkot,Teacher,5.0,4.0,7-8 hours,Unhealthy,No,5,4,Yes,No
+Female,53,Vasai-Virar,Software Engineer,1.0,4.0,5-6 hours,Unhealthy,Yes,12,2,Yes,No
+Female,27,Kalyan,Business Analyst,5.0,1.0,Less than 5 hours,Unhealthy,No,10,1,No,Yes
+Male,50,Rajkot,HR Manager,4.0,4.0,Less than 5 hours,Moderate,No,1,5,No,No
+Female,20,Chennai,Teacher,5.0,5.0,5-6 hours,Unhealthy,Yes,12,4,No,Yes
+Male,28,Mumbai,Civil Engineer,2.0,2.0,5-6 hours,Healthy,No,7,3,Yes,No
+Male,34,Surat,Pharmacist,3.0,4.0,Less than 5 hours,Moderate,Yes,11,1,No,No
+Female,18,Ahmedabad,Teacher,1.0,1.0,5-6 hours,Unhealthy,No,9,3,Yes,Yes
+Male,24,Surat,Judge,3.0,3.0,Less than 5 hours,Moderate,Yes,8,2,Yes,Yes
+Male,53,Ahmedabad,Teacher,2.0,3.0,5-6 hours,Healthy,No,1,1,Yes,No
+Male,28,Vadodara,Digital Marketer,5.0,4.0,Less than 5 hours,Healthy,Yes,0,2,Yes,No
+Male,25,Ghaziabad,Doctor,1.0,2.0,Less than 5 hours,Healthy,Yes,6,5,No,Yes
+Male,26,Visakhapatnam,Teacher,2.0,1.0,7-8 hours,Moderate,No,6,3,Yes,No
+Male,20,Bangalore,Teacher,1.0,3.0,More than 8 hours,Unhealthy,No,7,3,Yes,No
+Female,59,Indore,Doctor,2.0,5.0,Less than 5 hours,Moderate,No,4,1,No,No
+Male,45,Srinagar,Teacher,2.0,4.0,7-8 hours,Healthy,No,0,5,No,No
+Male,54,Kanpur,HR Manager,4.0,3.0,5-6 hours,Unhealthy,No,4,4,No,No
+Female,38,Chennai,Educational Consultant,4.0,3.0,5-6 hours,Healthy,No,8,3,No,No
+Female,59,Nagpur,Lawyer,3.0,3.0,7-8 hours,Moderate,No,7,2,No,No
+Female,25,Lucknow,Educational Consultant,1.0,4.0,Less than 5 hours,Healthy,Yes,3,2,Yes,No
+Male,38,Varanasi,Researcher,3.0,2.0,More than 8 hours,Unhealthy,Yes,2,3,No,No
+Male,46,Nagpur,Mechanical Engineer,2.0,2.0,5-6 hours,Moderate,No,8,2,No,No
+Female,24,Faridabad,Pilot,5.0,4.0,7-8 hours,Moderate,No,6,5,Yes,No
+Male,40,Bangalore,Civil Engineer,1.0,4.0,7-8 hours,Healthy,No,11,4,Yes,No
+Female,59,Mumbai,Lawyer,4.0,5.0,Less than 5 hours,Healthy,No,4,2,Yes,No
+Male,56,Kalyan,Content Writer,5.0,2.0,5-6 hours,Moderate,No,9,3,No,No
+Male,42,Bangalore,Data Scientist,2.0,3.0,More than 8 hours,Healthy,No,0,2,No,No
+Male,47,Nashik,Teacher,4.0,1.0,5-6 hours,Unhealthy,Yes,9,4,Yes,Yes
+Female,18,Chennai,Teacher,1.0,3.0,7-8 hours,Healthy,Yes,12,3,Yes,Yes
+Male,52,Visakhapatnam,Teacher,1.0,5.0,Less than 5 hours,Moderate,No,5,4,Yes,No
+Male,26,Faridabad,Teacher,5.0,4.0,Less than 5 hours,Moderate,No,7,1,Yes,No
+Male,25,Lucknow,Doctor,4.0,2.0,7-8 hours,Moderate,Yes,11,2,Yes,Yes
+Female,20,Nagpur,Teacher,4.0,5.0,7-8 hours,Healthy,No,2,3,Yes,No
+Female,52,Ghaziabad,Sales Executive,2.0,5.0,More than 8 hours,Healthy,Yes,4,4,Yes,No
+Female,39,Agra,Teacher,2.0,2.0,5-6 hours,Unhealthy,Yes,5,1,Yes,No
+Female,33,Kanpur,Content Writer,4.0,2.0,Less than 5 hours,Healthy,Yes,11,1,Yes,Yes
+Female,45,Ghaziabad,HR Manager,2.0,2.0,More than 8 hours,Unhealthy,No,2,4,No,No
+Female,60,Vasai-Virar,HR Manager,2.0,2.0,More than 8 hours,Unhealthy,Yes,10,5,Yes,No
+Male,55,Faridabad,Civil Engineer,4.0,3.0,Less than 5 hours,Unhealthy,Yes,6,1,Yes,No
+Female,24,Ahmedabad,Teacher,1.0,3.0,Less than 5 hours,Healthy,No,9,1,Yes,No
+Female,43,Meerut,Teacher,3.0,1.0,Less than 5 hours,Moderate,No,2,1,Yes,No
+Female,45,Ghaziabad,Consultant,1.0,3.0,5-6 hours,Healthy,Yes,0,4,No,No
+Male,52,Kalyan,Customer Support,4.0,1.0,5-6 hours,Unhealthy,No,11,2,No,No
+Female,45,Jaipur,Content Writer,1.0,2.0,5-6 hours,Moderate,No,5,3,Yes,No
+Female,25,Kalyan,Entrepreneur,5.0,5.0,More than 8 hours,Healthy,Yes,3,3,No,No
+Female,40,Ahmedabad,HR Manager,2.0,3.0,7-8 hours,Healthy,Yes,12,4,Yes,No
+Female,53,Ludhiana,Researcher,2.0,1.0,7-8 hours,Healthy,No,12,5,Yes,No
+Female,54,Thane,Teacher,3.0,3.0,Less than 5 hours,Healthy,No,9,1,No,No
+Female,40,Srinagar,Teacher,3.0,2.0,5-6 hours,Healthy,Yes,3,2,No,No
+Male,58,Agra,Electrician,5.0,4.0,Less than 5 hours,Unhealthy,No,1,1,No,No
+Male,22,Agra,Data Scientist,2.0,1.0,Less than 5 hours,Healthy,No,2,4,No,No
+Male,58,Visakhapatnam,Pilot,2.0,2.0,5-6 hours,Healthy,No,10,4,Yes,No
+Male,59,Kanpur,Architect,2.0,5.0,5-6 hours,Moderate,Yes,1,2,No,No
+Male,38,Bangalore,Travel Consultant,1.0,2.0,Less than 5 hours,Unhealthy,No,9,2,Yes,No
+Female,56,Nagpur,Sales Executive,3.0,4.0,More than 8 hours,Unhealthy,No,6,4,No,No
+Male,39,Faridabad,HR Manager,2.0,1.0,More than 8 hours,Moderate,No,5,3,No,No
+Female,21,Srinagar,HR Manager,5.0,1.0,Less than 5 hours,Unhealthy,Yes,6,5,Yes,Yes
+Female,35,Varanasi,Judge,5.0,1.0,5-6 hours,Moderate,No,0,1,No,No
+Male,56,Patna,Teacher,2.0,5.0,5-6 hours,Healthy,Yes,12,4,No,No
+Female,59,Nagpur,Electrician,3.0,2.0,5-6 hours,Healthy,Yes,7,2,No,No
+Female,55,Srinagar,Teacher,4.0,3.0,5-6 hours,Healthy,No,6,3,Yes,No
+Female,23,Vasai-Virar,Teacher,5.0,1.0,More than 8 hours,Unhealthy,No,10,1,No,Yes
+Male,57,Bangalore,Entrepreneur,1.0,3.0,Less than 5 hours,Healthy,No,4,1,No,No
+Female,38,Lucknow,Architect,3.0,2.0,5-6 hours,Healthy,No,12,5,No,No
+Male,22,Meerut,Investment Banker,4.0,5.0,Less than 5 hours,Unhealthy,Yes,10,4,No,Yes
+Female,41,Varanasi,Content Writer,4.0,3.0,Less than 5 hours,Unhealthy,No,4,3,Yes,No
+Male,53,Kolkata,Judge,5.0,4.0,5-6 hours,Healthy,No,3,2,Yes,No
+Male,51,Bangalore,UX/UI Designer,5.0,2.0,7-8 hours,Healthy,No,1,5,Yes,No
+Male,50,Meerut,Teacher,3.0,3.0,More than 8 hours,Unhealthy,Yes,9,5,Yes,No
+Male,34,Vasai-Virar,Consultant,1.0,5.0,Less than 5 hours,Moderate,No,4,4,No,No
+Male,57,Patna,Business Analyst,1.0,4.0,More than 8 hours,Moderate,Yes,10,2,Yes,No
+Female,50,Nagpur,Investment Banker,3.0,4.0,7-8 hours,Moderate,Yes,2,1,No,No
+Male,46,Faridabad,Teacher,3.0,4.0,5-6 hours,Moderate,Yes,4,5,No,No
+Male,50,Jaipur,Finanancial Analyst,4.0,1.0,7-8 hours,Healthy,Yes,10,1,No,No
+Male,30,Nagpur,Content Writer,2.0,1.0,Less than 5 hours,Healthy,No,1,2,No,No
+Female,59,Vasai-Virar,Teacher,4.0,1.0,7-8 hours,Unhealthy,Yes,11,4,No,No
+Female,43,Bhopal,Researcher,3.0,3.0,5-6 hours,Healthy,No,3,3,No,No
+Male,31,Hyderabad,Teacher,4.0,1.0,Less than 5 hours,Unhealthy,Yes,3,4,Yes,Yes
+Female,47,Agra,Research Analyst,3.0,5.0,Less than 5 hours,Unhealthy,Yes,12,5,No,No
+Female,39,Ahmedabad,Researcher,2.0,3.0,Less than 5 hours,Unhealthy,Yes,4,5,No,No
+Female,45,Thane,Entrepreneur,4.0,1.0,5-6 hours,Unhealthy,No,4,3,Yes,No
+Female,51,Indore,Researcher,5.0,5.0,Less than 5 hours,Healthy,Yes,8,3,No,No
+Male,42,Patna,Teacher,1.0,1.0,7-8 hours,Unhealthy,Yes,7,3,Yes,No
+Female,50,Meerut,Investment Banker,1.0,3.0,Less than 5 hours,Unhealthy,Yes,6,4,No,No
+Female,59,Indore,Architect,5.0,1.0,More than 8 hours,Moderate,No,12,5,No,No
+Male,24,Pune,Graphic Designer,5.0,5.0,7-8 hours,Healthy,Yes,1,4,Yes,No
+Female,31,Chennai,Mechanical Engineer,5.0,4.0,Less than 5 hours,Healthy,No,9,2,Yes,No
+Female,25,Bangalore,Lawyer,3.0,5.0,Less than 5 hours,Healthy,No,0,2,Yes,No
+Male,42,Mumbai,Business Analyst,1.0,2.0,More than 8 hours,Unhealthy,No,2,3,Yes,No
+Male,23,Mumbai,Teacher,5.0,1.0,Less than 5 hours,Moderate,Yes,3,1,Yes,Yes
+Female,47,Kolkata,Teacher,2.0,5.0,5-6 hours,Moderate,No,6,5,Yes,No
+Female,42,Surat,Teacher,4.0,2.0,5-6 hours,Moderate,Yes,6,2,No,No
+Male,58,Kolkata,Data Scientist,1.0,4.0,5-6 hours,Moderate,No,0,4,Yes,No
+Male,57,Mumbai,Manager,4.0,1.0,7-8 hours,Healthy,Yes,11,4,Yes,No
+Male,43,Chennai,Teacher,5.0,3.0,Less than 5 hours,Moderate,No,1,4,No,No
+Female,50,Kanpur,Graphic Designer,4.0,2.0,5-6 hours,Moderate,No,2,4,No,No
+Female,28,Visakhapatnam,Pilot,4.0,2.0,Less than 5 hours,Healthy,Yes,10,5,Yes,Yes
+Female,56,Indore,Finanancial Analyst,1.0,1.0,Less than 5 hours,Healthy,No,9,4,Yes,No
+Male,55,Kanpur,Researcher,1.0,2.0,7-8 hours,Unhealthy,Yes,4,4,No,No
+Female,46,Surat,Teacher,4.0,3.0,More than 8 hours,Healthy,Yes,1,2,Yes,No
+Male,37,Nagpur,Business Analyst,2.0,5.0,5-6 hours,Healthy,No,3,1,Yes,No
+Female,46,Nagpur,Chemist,3.0,2.0,Less than 5 hours,Unhealthy,No,6,3,Yes,No
+Male,24,Srinagar,Marketing Manager,3.0,3.0,5-6 hours,Healthy,Yes,5,1,Yes,No
+Female,43,Srinagar,Teacher,5.0,1.0,5-6 hours,Moderate,Yes,12,3,No,Yes
+Male,50,Ghaziabad,Teacher,5.0,2.0,More than 8 hours,Healthy,Yes,0,1,No,No
+Male,59,Hyderabad,Consultant,5.0,1.0,7-8 hours,Unhealthy,Yes,11,5,Yes,No
+Female,59,Bangalore,Consultant,4.0,5.0,Less than 5 hours,Healthy,Yes,5,2,No,No
+Male,37,Rajkot,Travel Consultant,5.0,5.0,5-6 hours,Moderate,Yes,9,3,Yes,No
+Female,59,Nagpur,Researcher,1.0,5.0,Less than 5 hours,Moderate,Yes,6,1,Yes,No
+Female,36,Ludhiana,Teacher,5.0,5.0,7-8 hours,Moderate,No,4,4,No,No
+Female,59,Thane,Researcher,5.0,5.0,More than 8 hours,Healthy,No,10,3,No,No
+Female,41,Kolkata,Marketing Manager,4.0,2.0,5-6 hours,Moderate,Yes,2,4,No,No
+Female,30,Nashik,Teacher,5.0,3.0,Less than 5 hours,Unhealthy,No,7,2,Yes,No
+Male,58,Pune,Teacher,3.0,5.0,5-6 hours,Unhealthy,No,6,1,Yes,No
+Female,57,Srinagar,Business Analyst,3.0,2.0,7-8 hours,Healthy,No,2,2,No,No
+Male,56,Nagpur,Customer Support,5.0,1.0,7-8 hours,Healthy,Yes,0,1,Yes,No
+Female,31,Bangalore,Teacher,4.0,2.0,7-8 hours,Unhealthy,Yes,4,5,Yes,Yes
+Male,50,Indore,Electrician,1.0,1.0,Less than 5 hours,Healthy,No,3,5,No,No
+Female,35,Lucknow,Plumber,2.0,4.0,5-6 hours,Healthy,No,8,2,Yes,No
+Female,43,Kalyan,Software Engineer,2.0,3.0,Less than 5 hours,Unhealthy,Yes,2,5,Yes,No
+Female,37,Nashik,Data Scientist,1.0,2.0,Less than 5 hours,Unhealthy,Yes,0,5,Yes,No
+Female,53,Vasai-Virar,Business Analyst,3.0,4.0,7-8 hours,Healthy,Yes,6,3,Yes,No
+Male,26,Vadodara,Travel Consultant,3.0,3.0,Less than 5 hours,Unhealthy,No,10,3,No,No
+Female,42,Surat,Mechanical Engineer,4.0,1.0,7-8 hours,Moderate,Yes,11,4,No,Yes
+Male,58,Bangalore,Judge,3.0,1.0,More than 8 hours,Healthy,Yes,5,1,No,No
+Male,50,Ahmedabad,Researcher,5.0,3.0,More than 8 hours,Healthy,Yes,10,4,No,No
+Female,44,Patna,Financial Analyst,1.0,2.0,Less than 5 hours,Moderate,No,1,1,Yes,No
+Male,40,Kolkata,Pilot,2.0,4.0,Less than 5 hours,Moderate,No,8,2,No,No
+Female,51,Nagpur,Travel Consultant,4.0,5.0,5-6 hours,Moderate,No,0,2,Yes,No
+Male,59,Vadodara,Architect,4.0,4.0,5-6 hours,Unhealthy,Yes,12,1,Yes,No
+Female,43,Pune,Judge,4.0,3.0,7-8 hours,Moderate,No,0,5,No,No
+Male,56,Lucknow,Customer Support,2.0,5.0,More than 8 hours,Healthy,No,1,5,No,No
+Male,43,Srinagar,Pharmacist,5.0,5.0,5-6 hours,Moderate,No,9,2,Yes,No
+Female,25,Kanpur,Pharmacist,3.0,4.0,Less than 5 hours,Moderate,No,4,1,Yes,No
+Female,42,Ahmedabad,Teacher,4.0,5.0,5-6 hours,Healthy,No,4,2,Yes,No
+Female,56,Srinagar,Entrepreneur,1.0,4.0,More than 8 hours,Unhealthy,No,7,2,Yes,No
+Female,28,Mumbai,Content Writer,2.0,2.0,Less than 5 hours,Healthy,No,8,1,Yes,No
+Female,36,Varanasi,Chef,5.0,4.0,Less than 5 hours,Healthy,Yes,2,3,Yes,No
+Male,19,Agra,Teacher,5.0,1.0,Less than 5 hours,Healthy,No,3,5,Yes,Yes
+Female,50,Lucknow,Content Writer,5.0,5.0,Less than 5 hours,Moderate,Yes,3,5,Yes,No
+Male,53,Indore,Content Writer,4.0,3.0,More than 8 hours,Moderate,Yes,11,5,Yes,No
+Male,44,Lucknow,Pilot,2.0,3.0,7-8 hours,Moderate,No,11,3,Yes,No
+Female,52,Kalyan,Travel Consultant,4.0,4.0,5-6 hours,Moderate,No,3,2,Yes,No
+Female,20,Varanasi,Teacher,3.0,3.0,Less than 5 hours,Healthy,No,8,5,No,No
+Male,23,Ahmedabad,Teacher,2.0,2.0,5-6 hours,Moderate,No,2,1,Yes,No
+Female,49,Faridabad,Doctor,4.0,1.0,5-6 hours,Unhealthy,Yes,0,4,Yes,No
+Female,59,Mumbai,Educational Consultant,3.0,2.0,7-8 hours,Unhealthy,Yes,10,5,No,No
+Male,24,Lucknow,Doctor,1.0,5.0,Less than 5 hours,Healthy,Yes,10,1,Yes,No
+Male,42,Kanpur,Consultant,1.0,4.0,Less than 5 hours,Moderate,No,2,5,Yes,No
+Male,38,Nashik,Consultant,5.0,2.0,More than 8 hours,Healthy,Yes,6,4,No,No
+Male,44,Jaipur,Educational Consultant,3.0,5.0,Less than 5 hours,Healthy,No,6,4,No,No
+Female,38,Nashik,Consultant,1.0,2.0,Less than 5 hours,Unhealthy,No,6,2,Yes,No
+Female,51,Ghaziabad,Teacher,3.0,1.0,Less than 5 hours,Moderate,No,0,1,No,No
+Female,28,Thane,Travel Consultant,1.0,3.0,More than 8 hours,Unhealthy,Yes,0,2,No,No
+Female,53,Indore,Entrepreneur,1.0,2.0,7-8 hours,Unhealthy,No,10,5,Yes,No
+Female,36,Kanpur,Pharmacist,1.0,4.0,More than 8 hours,Moderate,No,12,3,Yes,No
+Male,56,Nashik,Civil Engineer,5.0,1.0,5-6 hours,Moderate,No,1,4,No,No
+Male,57,Pune,HR Manager,1.0,3.0,7-8 hours,Moderate,No,6,5,No,No
+Male,39,Rajkot,Consultant,2.0,1.0,Less than 5 hours,Healthy,No,10,2,No,No
+Male,20,Rajkot,Teacher,3.0,5.0,7-8 hours,Unhealthy,No,6,1,Yes,No
+Male,46,Hyderabad,Content Writer,2.0,4.0,More than 8 hours,Moderate,No,3,5,Yes,No
+Female,45,Agra,Content Writer,4.0,2.0,Less than 5 hours,Healthy,No,2,2,No,No
+Male,42,Visakhapatnam,Teacher,1.0,5.0,More than 8 hours,Healthy,No,12,4,No,No
+Male,20,Kalyan,Teacher,5.0,5.0,7-8 hours,Healthy,No,11,3,No,No
+Female,58,Visakhapatnam,Consultant,3.0,4.0,5-6 hours,Moderate,Yes,3,2,No,No
+Male,39,Faridabad,Teacher,3.0,5.0,More than 8 hours,Healthy,No,10,5,No,No
+Female,53,Kalyan,Researcher,5.0,1.0,7-8 hours,Moderate,No,4,3,No,No
+Female,30,Nashik,Chef,3.0,2.0,7-8 hours,Moderate,Yes,3,5,Yes,Yes
+Male,54,Vasai-Virar,Research Analyst,5.0,1.0,7-8 hours,Moderate,Yes,10,2,Yes,No
+Female,48,Agra,Teacher,4.0,4.0,5-6 hours,Healthy,No,11,2,No,No
+Female,43,Thane,Business Analyst,4.0,2.0,Less than 5 hours,Unhealthy,Yes,1,3,No,No
+Male,48,Nagpur,Entrepreneur,5.0,5.0,5-6 hours,Moderate,No,1,3,Yes,No
+Male,41,Indore,Business Analyst,2.0,1.0,7-8 hours,Moderate,No,11,2,No,No
+Female,31,Ahmedabad,HR Manager,4.0,1.0,7-8 hours,Healthy,Yes,1,4,Yes,Yes
+Female,52,Vasai-Virar,Content Writer,2.0,1.0,More than 8 hours,Healthy,No,9,5,Yes,No
+Female,35,Delhi,Financial Analyst,3.0,4.0,Less than 5 hours,Healthy,No,10,3,No,No
+Male,29,Chennai,Civil Engineer,5.0,1.0,Less than 5 hours,Healthy,No,10,2,No,No
+Male,59,Nashik,Customer Support,5.0,1.0,More than 8 hours,Healthy,No,11,3,Yes,No
+Female,34,Surat,Teacher,2.0,2.0,5-6 hours,Unhealthy,Yes,2,5,Yes,Yes
+Female,46,Meerut,Marketing Manager,2.0,5.0,7-8 hours,Healthy,Yes,0,5,No,No
+Female,37,Surat,Teacher,2.0,5.0,More than 8 hours,Moderate,Yes,0,3,Yes,No
+Male,38,Visakhapatnam,Architect,2.0,2.0,7-8 hours,Healthy,Yes,11,1,No,No
+Male,38,Faridabad,Mechanical Engineer,4.0,5.0,7-8 hours,Moderate,No,9,5,No,No
+Female,52,Rajkot,Doctor,1.0,2.0,7-8 hours,Moderate,Yes,5,3,No,No
+Male,59,Kolkata,Teacher,2.0,5.0,7-8 hours,Healthy,Yes,9,5,Yes,No
+Male,59,Chennai,Travel Consultant,5.0,2.0,5-6 hours,Unhealthy,No,2,2,No,No
+Female,48,Vasai-Virar,Content Writer,5.0,2.0,More than 8 hours,Healthy,Yes,4,1,No,No
+Female,56,Indore,Teacher,4.0,1.0,5-6 hours,Unhealthy,No,11,1,Yes,No
+Male,38,Thane,Travel Consultant,3.0,4.0,7-8 hours,Healthy,No,0,2,No,No
+Male,35,Faridabad,Pharmacist,4.0,3.0,Less than 5 hours,Moderate,No,9,5,Yes,No
+Male,60,Hyderabad,Teacher,1.0,4.0,More than 8 hours,Unhealthy,No,2,1,No,No
+Female,29,Ghaziabad,Teacher,2.0,3.0,Less than 5 hours,Healthy,No,4,3,No,No
+Female,42,Bhopal,Architect,1.0,5.0,7-8 hours,Healthy,Yes,7,4,Yes,No
+Female,36,Ludhiana,UX/UI Designer,5.0,1.0,More than 8 hours,Unhealthy,Yes,5,5,No,Yes
+Male,57,Kolkata,Teacher,3.0,2.0,5-6 hours,Moderate,Yes,0,3,No,No
+Female,38,Faridabad,Consultant,2.0,5.0,Less than 5 hours,Unhealthy,Yes,7,5,No,No
+Female,45,Hyderabad,Teacher,5.0,3.0,Less than 5 hours,Healthy,No,2,2,Yes,No
+Male,57,Faridabad,Data Scientist,4.0,3.0,5-6 hours,Healthy,No,5,4,No,No
+Male,60,Surat,Architect,2.0,1.0,More than 8 hours,Unhealthy,Yes,10,3,Yes,No
+Female,31,Pune,Lawyer,5.0,2.0,7-8 hours,Unhealthy,Yes,1,1,No,No
+Male,37,Nagpur,Chemist,1.0,3.0,7-8 hours,Moderate,Yes,8,5,No,No
+Female,35,Thane,Architect,5.0,5.0,7-8 hours,Moderate,No,6,2,Yes,No
+Male,18,Visakhapatnam,Teacher,5.0,5.0,5-6 hours,Unhealthy,No,3,4,No,No
+Male,42,Kanpur,Consultant,2.0,4.0,5-6 hours,Healthy,No,3,1,No,No
+Male,23,Vasai-Virar,Teacher,1.0,1.0,7-8 hours,Unhealthy,Yes,7,5,No,Yes
+Female,56,Meerut,Teacher,3.0,1.0,7-8 hours,Healthy,No,8,5,Yes,No
+Female,59,Ghaziabad,Sales Executive,3.0,4.0,Less than 5 hours,Healthy,Yes,0,4,Yes,No
+Male,38,Nagpur,Researcher,2.0,3.0,More than 8 hours,Moderate,Yes,7,2,No,No
+Female,54,Visakhapatnam,Consultant,4.0,1.0,7-8 hours,Moderate,No,9,2,Yes,No
+Male,24,Pune,Content Writer,1.0,4.0,7-8 hours,Moderate,Yes,8,1,No,No
+Male,54,Indore,Pilot,2.0,2.0,More than 8 hours,Unhealthy,Yes,5,3,No,No
+Female,56,Indore,Judge,2.0,5.0,5-6 hours,Healthy,No,7,5,No,No
+Male,18,Kolkata,Teacher,5.0,5.0,More than 8 hours,Unhealthy,Yes,12,2,Yes,Yes
+Male,22,Lucknow,Financial Analyst,1.0,5.0,More than 8 hours,Healthy,Yes,5,5,No,No
+Male,36,Varanasi,Accountant,5.0,2.0,5-6 hours,Moderate,Yes,8,5,Yes,Yes
+Female,42,Patna,Data Scientist,5.0,4.0,5-6 hours,Healthy,No,1,4,Yes,No
+Female,40,Rajkot,Judge,5.0,1.0,7-8 hours,Unhealthy,Yes,8,3,No,Yes
+Male,52,Pune,Chef,4.0,3.0,More than 8 hours,Unhealthy,Yes,9,1,No,No
+Male,35,Kolkata,Chemist,4.0,3.0,7-8 hours,Unhealthy,No,11,4,No,No
+Male,37,Bhopal,Teacher,5.0,1.0,5-6 hours,Unhealthy,Yes,9,3,Yes,Yes
+Male,18,Surat,Teacher,5.0,1.0,Less than 5 hours,Moderate,No,7,2,No,Yes
+Female,42,Agra,Electrician,3.0,5.0,Less than 5 hours,Unhealthy,No,6,3,Yes,No
+Female,46,Vadodara,Finanancial Analyst,1.0,2.0,More than 8 hours,Healthy,Yes,12,4,No,No
+Male,39,Kolkata,Electrician,4.0,3.0,5-6 hours,Unhealthy,No,10,2,No,No
+Female,41,Bhopal,Pharmacist,2.0,2.0,5-6 hours,Moderate,No,3,3,Yes,No
+Male,54,Visakhapatnam,Sales Executive,2.0,2.0,7-8 hours,Unhealthy,Yes,0,5,No,No
+Female,49,Surat,Civil Engineer,1.0,3.0,More than 8 hours,Healthy,No,7,1,Yes,No
+Male,44,Rajkot,Teacher,3.0,4.0,Less than 5 hours,Healthy,Yes,9,3,No,No
+Male,46,Mumbai,Mechanical Engineer,4.0,5.0,Less than 5 hours,Moderate,Yes,8,2,No,No
+Male,49,Visakhapatnam,Pharmacist,3.0,4.0,Less than 5 hours,Moderate,No,3,5,Yes,No
+Female,50,Rajkot,Doctor,5.0,2.0,7-8 hours,Moderate,Yes,5,5,Yes,No
+Male,40,Vadodara,Teacher,1.0,5.0,5-6 hours,Moderate,No,3,5,No,No
+Male,47,Ludhiana,Entrepreneur,2.0,1.0,More than 8 hours,Moderate,No,6,3,Yes,No
+Male,39,Pune,Entrepreneur,3.0,1.0,Less than 5 hours,Moderate,Yes,8,2,Yes,No
+Female,49,Surat,Teacher,4.0,5.0,7-8 hours,Moderate,No,2,4,No,No
+Male,48,Hyderabad,Finanancial Analyst,3.0,4.0,Less than 5 hours,Moderate,No,11,2,Yes,No
+Male,20,Srinagar,Teacher,5.0,1.0,5-6 hours,Healthy,Yes,1,5,No,Yes
+Male,42,Mumbai,Researcher,3.0,1.0,Less than 5 hours,Healthy,Yes,2,4,No,No
+Male,36,Surat,Consultant,2.0,3.0,Less than 5 hours,Moderate,Yes,3,4,No,No
+Female,30,Ludhiana,Business Analyst,2.0,1.0,More than 8 hours,Healthy,No,9,1,Yes,No
+Male,34,Rajkot,Customer Support,4.0,3.0,5-6 hours,Unhealthy,Yes,6,1,No,No
+Male,46,Delhi,Teacher,4.0,1.0,7-8 hours,Unhealthy,No,4,3,No,No
+Female,38,Kanpur,Architect,3.0,3.0,5-6 hours,Moderate,No,0,4,Yes,No
+Female,57,Delhi,Pilot,1.0,5.0,7-8 hours,Healthy,No,9,4,Yes,No
+Male,53,Patna,Content Writer,1.0,3.0,7-8 hours,Unhealthy,No,11,1,Yes,No
+Female,39,Kanpur,Teacher,4.0,2.0,More than 8 hours,Healthy,No,3,4,No,No
+Female,29,Visakhapatnam,Chemist,4.0,2.0,7-8 hours,Moderate,Yes,2,2,No,No
+Male,35,Vasai-Virar,Content Writer,1.0,5.0,More than 8 hours,Moderate,No,3,3,Yes,No
+Female,39,Kanpur,Teacher,1.0,4.0,More than 8 hours,Healthy,Yes,4,1,Yes,No
+Male,55,Ludhiana,Pilot,4.0,1.0,More than 8 hours,Unhealthy,No,12,5,Yes,No
+Female,58,Surat,Content Writer,5.0,4.0,More than 8 hours,Unhealthy,No,10,3,No,No
+Female,40,Delhi,Entrepreneur,1.0,1.0,5-6 hours,Moderate,Yes,2,3,No,No
+Male,41,Delhi,Marketing Manager,5.0,2.0,7-8 hours,Unhealthy,No,9,5,Yes,No
+Male,38,Bangalore,Digital Marketer,2.0,2.0,5-6 hours,Moderate,Yes,11,3,No,No
+Male,40,Nashik,HR Manager,3.0,3.0,7-8 hours,Healthy,No,11,3,No,No
+Male,48,Visakhapatnam,Mechanical Engineer,2.0,1.0,More than 8 hours,Moderate,No,2,2,No,No
+Male,36,Chennai,HR Manager,5.0,4.0,More than 8 hours,Unhealthy,No,9,2,No,No
+Female,43,Pune,Architect,2.0,4.0,More than 8 hours,Moderate,Yes,5,1,Yes,No
+Female,46,Chennai,Teacher,3.0,4.0,7-8 hours,Unhealthy,No,5,2,No,No
+Female,50,Ludhiana,Content Writer,4.0,2.0,5-6 hours,Unhealthy,Yes,7,5,No,No
+Female,52,Varanasi,Teacher,2.0,5.0,5-6 hours,Healthy,Yes,6,5,No,No
+Male,48,Chennai,Teacher,5.0,5.0,Less than 5 hours,Healthy,No,3,4,No,No
+Male,41,Meerut,Travel Consultant,4.0,5.0,5-6 hours,Unhealthy,No,8,4,No,No
+Male,53,Vasai-Virar,Business Analyst,2.0,2.0,7-8 hours,Moderate,No,9,2,Yes,No
+Female,59,Bangalore,Doctor,2.0,2.0,More than 8 hours,Healthy,No,1,4,No,No
+Male,47,Rajkot,Plumber,1.0,5.0,7-8 hours,Healthy,Yes,6,4,Yes,No
+Female,27,Agra,Graphic Designer,4.0,2.0,Less than 5 hours,Unhealthy,No,2,5,Yes,Yes
+Male,48,Mumbai,Teacher,4.0,3.0,Less than 5 hours,Moderate,No,3,5,No,No
+Female,23,Kalyan,Architect,1.0,5.0,7-8 hours,Unhealthy,Yes,1,2,No,No
+Male,58,Kolkata,Research Analyst,1.0,4.0,7-8 hours,Healthy,No,5,4,Yes,No
+Male,54,Meerut,Researcher,4.0,2.0,Less than 5 hours,Moderate,Yes,6,3,No,No
+Female,45,Ahmedabad,Educational Consultant,4.0,2.0,5-6 hours,Healthy,Yes,1,4,No,No
+Male,28,Mumbai,Teacher,3.0,5.0,Less than 5 hours,Unhealthy,Yes,12,2,Yes,Yes
+Male,55,Srinagar,Civil Engineer,2.0,4.0,Less than 5 hours,Moderate,Yes,4,3,No,No
+Female,38,Lucknow,Travel Consultant,1.0,4.0,5-6 hours,Unhealthy,No,5,2,No,No
+Male,45,Bhopal,Entrepreneur,3.0,3.0,More than 8 hours,Moderate,Yes,12,2,No,No
+Female,41,Ahmedabad,HR Manager,5.0,2.0,7-8 hours,Unhealthy,Yes,0,5,No,No
+Male,24,Jaipur,Manager,3.0,1.0,More than 8 hours,Unhealthy,No,5,1,Yes,No
+Female,42,Rajkot,Architect,4.0,4.0,Less than 5 hours,Unhealthy,No,5,2,No,No
+Male,56,Agra,Pharmacist,3.0,2.0,Less than 5 hours,Moderate,Yes,0,2,Yes,No
+Male,47,Meerut,Electrician,1.0,1.0,Less than 5 hours,Healthy,Yes,10,5,No,No
+Female,40,Nashik,Financial Analyst,5.0,3.0,Less than 5 hours,Healthy,No,9,3,No,No
+Female,41,Srinagar,Travel Consultant,4.0,4.0,7-8 hours,Unhealthy,Yes,7,4,Yes,No
+Female,44,Patna,Pharmacist,1.0,1.0,5-6 hours,Moderate,Yes,12,1,No,No
+Female,45,Kanpur,Electrician,5.0,4.0,7-8 hours,Moderate,Yes,11,2,Yes,No
+Female,50,Thane,Sales Executive,3.0,2.0,More than 8 hours,Moderate,Yes,5,5,No,No
+Male,23,Ghaziabad,Marketing Manager,3.0,3.0,7-8 hours,Healthy,Yes,9,5,Yes,Yes
+Male,21,Srinagar,Doctor,4.0,2.0,7-8 hours,Unhealthy,Yes,5,5,No,Yes
+Female,35,Visakhapatnam,Graphic Designer,4.0,5.0,7-8 hours,Unhealthy,No,1,2,Yes,No
+Male,60,Kalyan,Entrepreneur,2.0,3.0,5-6 hours,Moderate,Yes,4,2,Yes,No
+Female,57,Jaipur,Manager,4.0,4.0,Less than 5 hours,Unhealthy,No,7,1,Yes,No
+Female,27,Visakhapatnam,Architect,4.0,1.0,Less than 5 hours,Healthy,No,6,3,Yes,Yes
+Female,51,Kolkata,Marketing Manager,4.0,4.0,Less than 5 hours,Unhealthy,Yes,2,2,No,No
+Male,28,Bhopal,Entrepreneur,1.0,5.0,Less than 5 hours,Unhealthy,Yes,8,1,Yes,No
+Male,54,Thane,Electrician,3.0,3.0,More than 8 hours,Unhealthy,Yes,10,4,Yes,No
+Male,50,Ahmedabad,Electrician,4.0,3.0,More than 8 hours,Healthy,Yes,2,5,Yes,No
+Female,39,Rajkot,Architect,5.0,5.0,5-6 hours,Unhealthy,No,1,3,No,No
+Male,49,Thane,Travel Consultant,4.0,5.0,More than 8 hours,Moderate,No,5,4,No,No
+Male,47,Jaipur,Travel Consultant,2.0,2.0,5-6 hours,Healthy,No,9,5,Yes,No
+Female,43,Ghaziabad,Chemist,2.0,1.0,5-6 hours,Moderate,Yes,9,1,Yes,No
+Male,37,Kolkata,Teacher,1.0,4.0,7-8 hours,Healthy,Yes,5,2,Yes,No
+Female,32,Vadodara,Digital Marketer,2.0,3.0,More than 8 hours,Unhealthy,No,2,3,Yes,No
+Male,36,Meerut,Teacher,2.0,5.0,5-6 hours,Healthy,No,3,2,Yes,No
+Male,44,Srinagar,Teacher,5.0,3.0,Less than 5 hours,Healthy,No,8,3,No,No
+Male,18,Nagpur,Teacher,4.0,1.0,5-6 hours,Healthy,Yes,4,1,No,Yes
+Male,52,Meerut,Content Writer,5.0,5.0,Less than 5 hours,Moderate,Yes,0,2,No,No
+Male,42,Nagpur,Doctor,5.0,4.0,7-8 hours,Unhealthy,Yes,8,2,Yes,No
+Female,39,Meerut,Business Analyst,1.0,1.0,Less than 5 hours,Moderate,Yes,1,1,Yes,No
+Female,42,Vadodara,Content Writer,4.0,5.0,Less than 5 hours,Moderate,No,0,1,No,No
+Male,35,Srinagar,Educational Consultant,4.0,1.0,More than 8 hours,Moderate,No,0,5,Yes,No
+Male,37,Visakhapatnam,Chef,3.0,3.0,Less than 5 hours,Moderate,Yes,4,1,Yes,No
+Male,45,Faridabad,UX/UI Designer,4.0,1.0,Less than 5 hours,Healthy,No,0,2,Yes,No
+Female,43,Nashik,Customer Support,4.0,2.0,More than 8 hours,Unhealthy,No,6,5,No,No
+Male,60,Thane,Teacher,5.0,5.0,5-6 hours,Unhealthy,Yes,3,1,No,No
+Male,42,Ludhiana,Financial Analyst,5.0,2.0,5-6 hours,Unhealthy,No,3,5,Yes,No
+Male,32,Kolkata,Software Engineer,1.0,5.0,5-6 hours,Moderate,No,6,2,No,No
+Female,34,Surat,UX/UI Designer,1.0,5.0,Less than 5 hours,Unhealthy,No,11,4,No,No
+Female,39,Thane,Business Analyst,3.0,4.0,Less than 5 hours,Unhealthy,Yes,11,4,No,No
+Female,50,Vadodara,Teacher,1.0,4.0,5-6 hours,Unhealthy,Yes,10,4,Yes,No
+Female,59,Visakhapatnam,Entrepreneur,3.0,5.0,5-6 hours,Healthy,No,1,1,No,No
+Male,57,Vasai-Virar,Business Analyst,2.0,1.0,More than 8 hours,Healthy,No,2,5,Yes,No
+Male,56,Vasai-Virar,Teacher,2.0,2.0,Less than 5 hours,Unhealthy,Yes,12,3,Yes,No
+Female,54,Kolkata,Electrician,5.0,1.0,7-8 hours,Moderate,Yes,0,2,Yes,No
+Female,57,Chennai,Teacher,4.0,2.0,7-8 hours,Healthy,Yes,10,4,Yes,No
+Male,47,Patna,Teacher,2.0,5.0,Less than 5 hours,Moderate,Yes,9,5,No,No
+Female,27,Kolkata,Data Scientist,5.0,2.0,5-6 hours,Moderate,Yes,8,5,Yes,Yes
+Female,54,Pune,Teacher,3.0,3.0,More than 8 hours,Healthy,No,3,5,No,No
+Male,53,Vadodara,Teacher,3.0,1.0,Less than 5 hours,Moderate,No,0,5,No,No
+Female,21,Nashik,Teacher,1.0,3.0,Less than 5 hours,Unhealthy,No,9,3,No,No
+Male,59,Pune,Teacher,2.0,4.0,5-6 hours,Healthy,No,9,1,Yes,No
+Male,33,Surat,Teacher,3.0,1.0,Less than 5 hours,Unhealthy,No,4,4,Yes,No
+Female,50,Pune,Chef,5.0,3.0,5-6 hours,Healthy,No,11,3,No,No
+Male,49,Patna,Teacher,5.0,3.0,More than 8 hours,Healthy,Yes,3,1,No,No
+Male,56,Kolkata,Teacher,5.0,2.0,5-6 hours,Healthy,Yes,2,5,No,No
+Male,42,Rajkot,Consultant,4.0,5.0,7-8 hours,Unhealthy,No,9,3,Yes,No
+Female,57,Ghaziabad,Teacher,2.0,1.0,5-6 hours,Healthy,No,7,1,Yes,No
+Female,57,Patna,Pharmacist,5.0,5.0,Less than 5 hours,Unhealthy,No,9,1,No,No
+Female,21,Visakhapatnam,Content Writer,3.0,3.0,Less than 5 hours,Healthy,Yes,9,2,No,Yes
+Male,50,Kanpur,Researcher,5.0,4.0,More than 8 hours,Moderate,No,0,1,No,No
+Male,44,Chennai,Financial Analyst,1.0,2.0,Less than 5 hours,Moderate,No,8,4,Yes,No
+Male,23,Rajkot,Content Writer,4.0,2.0,7-8 hours,Unhealthy,No,7,1,Yes,No
+Male,42,Rajkot,Digital Marketer,4.0,2.0,5-6 hours,Moderate,No,2,4,Yes,No
+Female,48,Lucknow,Entrepreneur,5.0,1.0,5-6 hours,Healthy,Yes,5,1,Yes,No
+Male,53,Delhi,Plumber,2.0,5.0,7-8 hours,Unhealthy,Yes,12,5,No,No
+Female,49,Indore,Manager,5.0,1.0,7-8 hours,Healthy,No,9,2,No,No
+Male,46,Patna,Pilot,2.0,3.0,7-8 hours,Unhealthy,No,6,2,Yes,No
+Female,57,Meerut,Data Scientist,4.0,5.0,Less than 5 hours,Healthy,No,12,2,No,No
+Male,58,Lucknow,Pilot,4.0,5.0,More than 8 hours,Moderate,Yes,5,5,Yes,No
+Male,37,Kalyan,Content Writer,1.0,1.0,5-6 hours,Unhealthy,Yes,4,2,Yes,No
+Female,56,Bangalore,HR Manager,4.0,4.0,5-6 hours,Moderate,No,9,2,Yes,No
+Male,47,Surat,Pharmacist,4.0,4.0,5-6 hours,Unhealthy,Yes,3,4,No,No
+Male,31,Jaipur,Teacher,3.0,5.0,7-8 hours,Moderate,No,4,2,No,No
+Female,51,Kolkata,HR Manager,1.0,1.0,5-6 hours,Moderate,No,6,5,No,No
+Male,55,Visakhapatnam,Doctor,4.0,3.0,5-6 hours,Moderate,Yes,7,3,No,No
+Male,49,Ahmedabad,Lawyer,3.0,2.0,7-8 hours,Moderate,No,10,1,Yes,No
+Male,21,Meerut,Software Engineer,2.0,4.0,7-8 hours,Healthy,No,2,5,Yes,No
+Female,33,Kolkata,Business Analyst,5.0,4.0,More than 8 hours,Moderate,Yes,3,3,No,No
+Male,55,Meerut,Chemist,3.0,5.0,7-8 hours,Unhealthy,Yes,5,1,Yes,No
+Male,37,Meerut,Pilot,5.0,3.0,7-8 hours,Unhealthy,Yes,9,3,No,Yes
+Male,41,Rajkot,Teacher,5.0,1.0,More than 8 hours,Unhealthy,Yes,1,5,No,Yes
+Female,41,Kolkata,Data Scientist,1.0,3.0,5-6 hours,Unhealthy,Yes,11,4,No,No
+Female,27,Vadodara,Chemist,2.0,4.0,7-8 hours,Moderate,Yes,8,4,No,No
+Male,33,Varanasi,Judge,2.0,5.0,7-8 hours,Moderate,Yes,2,4,Yes,No
+Female,43,Jaipur,Pilot,3.0,3.0,Less than 5 hours,Unhealthy,No,11,2,Yes,No
+Male,42,Vasai-Virar,Teacher,2.0,4.0,7-8 hours,Unhealthy,No,7,5,No,No
+Female,57,Lucknow,Entrepreneur,3.0,2.0,More than 8 hours,Unhealthy,Yes,10,3,Yes,No
+Female,49,Vadodara,HR Manager,2.0,5.0,More than 8 hours,Healthy,Yes,1,2,Yes,No
+Female,43,Vadodara,Teacher,3.0,1.0,More than 8 hours,Healthy,Yes,8,1,No,No
+Female,49,Ahmedabad,Teacher,4.0,5.0,7-8 hours,Unhealthy,No,3,4,No,No
+Female,42,Meerut,Civil Engineer,2.0,1.0,5-6 hours,Unhealthy,No,7,2,Yes,No
+Female,52,Patna,Content Writer,3.0,3.0,7-8 hours,Moderate,Yes,7,2,Yes,No
+Male,42,Visakhapatnam,Electrician,5.0,5.0,Less than 5 hours,Moderate,No,7,2,Yes,No
+Female,38,Nagpur,Teacher,1.0,4.0,7-8 hours,Healthy,Yes,4,2,No,No
+Female,57,Kolkata,Travel Consultant,4.0,3.0,More than 8 hours,Healthy,Yes,12,1,Yes,No
+Male,39,Hyderabad,HR Manager,5.0,2.0,7-8 hours,Unhealthy,No,10,4,Yes,No
+Female,46,Ludhiana,Teacher,1.0,3.0,Less than 5 hours,Healthy,Yes,7,2,No,No
+Male,41,Varanasi,Teacher,3.0,2.0,5-6 hours,Healthy,Yes,12,3,Yes,No
+Female,26,Vasai-Virar,Entrepreneur,1.0,4.0,Less than 5 hours,Unhealthy,No,5,2,Yes,No
+Female,56,Faridabad,Pharmacist,1.0,3.0,7-8 hours,Unhealthy,No,12,5,No,No
+Male,47,Kalyan,Teacher,5.0,1.0,Less than 5 hours,Unhealthy,Yes,11,5,Yes,Yes
+Female,42,Meerut,Teacher,3.0,2.0,Less than 5 hours,Unhealthy,Yes,5,4,No,No
+Male,18,Agra,Teacher,2.0,3.0,7-8 hours,Healthy,Yes,9,4,Yes,Yes
+Male,24,Delhi,Teacher,4.0,3.0,Less than 5 hours,Healthy,Yes,9,1,Yes,Yes
+Female,57,Chennai,Marketing Manager,5.0,3.0,7-8 hours,Healthy,No,7,3,No,No
+Female,30,Varanasi,Entrepreneur,5.0,5.0,5-6 hours,Healthy,Yes,2,4,No,No
+Female,38,Vadodara,Doctor,3.0,5.0,Less than 5 hours,Healthy,No,10,3,Yes,No
+Female,25,Lucknow,Customer Support,5.0,2.0,5-6 hours,Moderate,Yes,0,2,No,Yes
+Female,35,Chennai,Content Writer,2.0,4.0,5-6 hours,Moderate,No,2,1,Yes,No
+Female,25,Bhopal,Finanancial Analyst,4.0,2.0,5-6 hours,Moderate,Yes,5,1,No,Yes
+Male,40,Agra,Teacher,5.0,2.0,5-6 hours,Moderate,No,10,1,No,No
+Female,40,Vasai-Virar,Teacher,2.0,2.0,Less than 5 hours,Unhealthy,Yes,11,5,Yes,Yes
+Male,37,Rajkot,Digital Marketer,3.0,3.0,Less than 5 hours,Healthy,No,2,2,Yes,No
+Male,18,Kanpur,Teacher,5.0,5.0,Less than 5 hours,Healthy,Yes,12,2,No,Yes
+Male,27,Meerut,Pharmacist,4.0,3.0,More than 8 hours,Unhealthy,No,6,3,No,No
+Male,48,Mumbai,Teacher,1.0,5.0,5-6 hours,Unhealthy,Yes,11,1,Yes,No
+Female,59,Bhopal,Chemist,3.0,2.0,More than 8 hours,Unhealthy,Yes,3,4,Yes,No
+Male,47,Kalyan,Customer Support,5.0,1.0,Less than 5 hours,Healthy,Yes,5,4,No,No
+Male,32,Kolkata,Finanancial Analyst,3.0,4.0,More than 8 hours,Unhealthy,Yes,1,4,Yes,No
+Male,41,Delhi,Lawyer,2.0,3.0,5-6 hours,Unhealthy,Yes,8,1,No,No
+Male,26,Jaipur,Architect,1.0,1.0,Less than 5 hours,Moderate,Yes,4,1,Yes,No
+Female,37,Vadodara,Teacher,2.0,2.0,Less than 5 hours,Unhealthy,No,2,4,No,No
+Male,48,Hyderabad,Customer Support,2.0,1.0,More than 8 hours,Moderate,Yes,5,2,Yes,No
+Male,54,Nagpur,Researcher,1.0,1.0,Less than 5 hours,Unhealthy,No,0,2,No,No
+Female,35,Delhi,Teacher,3.0,1.0,Less than 5 hours,Unhealthy,No,6,3,Yes,No
+Female,33,Kanpur,Manager,3.0,2.0,7-8 hours,Healthy,Yes,7,2,No,No
+Male,48,Jaipur,Chemist,4.0,3.0,Less than 5 hours,Unhealthy,No,12,3,No,No
+Female,43,Bangalore,Lawyer,3.0,3.0,More than 8 hours,Unhealthy,No,4,4,No,No
+Male,57,Patna,HR Manager,1.0,4.0,More than 8 hours,Healthy,Yes,1,5,Yes,No
+Female,32,Kolkata,Content Writer,1.0,5.0,Less than 5 hours,Moderate,No,10,2,Yes,No
+Female,49,Jaipur,Consultant,5.0,5.0,5-6 hours,Unhealthy,No,7,5,No,No
+Male,57,Ghaziabad,Financial Analyst,4.0,4.0,Less than 5 hours,Unhealthy,Yes,2,3,No,No
+Female,29,Ludhiana,Teacher,5.0,1.0,7-8 hours,Healthy,No,3,2,No,No
+Male,32,Ludhiana,Pharmacist,5.0,2.0,Less than 5 hours,Unhealthy,No,1,5,No,No
+Female,22,Patna,Marketing Manager,1.0,3.0,Less than 5 hours,Moderate,Yes,1,5,No,No
+Male,56,Kalyan,Doctor,2.0,2.0,5-6 hours,Moderate,Yes,0,3,Yes,No
+Female,34,Nashik,Consultant,1.0,4.0,Less than 5 hours,Healthy,Yes,5,5,Yes,No
+Female,47,Rajkot,Civil Engineer,1.0,2.0,More than 8 hours,Unhealthy,No,12,3,Yes,No
+Male,60,Agra,Data Scientist,5.0,4.0,5-6 hours,Moderate,Yes,9,2,Yes,No
+Female,40,Srinagar,Business Analyst,5.0,3.0,7-8 hours,Healthy,Yes,0,4,No,No
+Female,43,Mumbai,Finanancial Analyst,1.0,2.0,7-8 hours,Moderate,No,9,4,Yes,No
+Female,39,Ahmedabad,Chef,2.0,5.0,5-6 hours,Healthy,No,6,5,No,No
+Female,58,Faridabad,Consultant,5.0,2.0,5-6 hours,Healthy,No,12,4,No,No
+Male,46,Surat,Content Writer,5.0,3.0,More than 8 hours,Moderate,Yes,0,4,No,No
+Male,51,Faridabad,Entrepreneur,4.0,2.0,5-6 hours,Moderate,No,12,1,No,No
+Male,35,Kalyan,Mechanical Engineer,2.0,2.0,More than 8 hours,Moderate,Yes,0,4,No,No
+Male,37,Lucknow,Mechanical Engineer,4.0,2.0,More than 8 hours,Unhealthy,Yes,0,2,Yes,No
+Male,53,Varanasi,Teacher,4.0,5.0,More than 8 hours,Healthy,Yes,5,5,Yes,No
+Female,53,Rajkot,Investment Banker,4.0,1.0,5-6 hours,Healthy,No,3,1,No,No
+Female,19,Bhopal,Teacher,3.0,3.0,7-8 hours,Moderate,No,1,3,No,No
+Male,52,Ludhiana,Researcher,5.0,3.0,Less than 5 hours,Moderate,No,0,1,Yes,No
+Male,40,Mumbai,Chemist,3.0,5.0,Less than 5 hours,Unhealthy,No,6,4,No,No
+Female,52,Jaipur,Business Analyst,3.0,4.0,Less than 5 hours,Unhealthy,Yes,2,1,Yes,No
+Female,40,Surat,Manager,5.0,5.0,5-6 hours,Healthy,Yes,9,1,No,No
+Female,36,Rajkot,Consultant,4.0,3.0,More than 8 hours,Healthy,Yes,10,1,Yes,No
+Female,51,Indore,Entrepreneur,2.0,2.0,Less than 5 hours,Moderate,Yes,1,1,Yes,No
+Male,40,Delhi,Doctor,4.0,3.0,Less than 5 hours,Healthy,No,6,1,Yes,No
+Male,54,Mumbai,Chemist,2.0,5.0,Less than 5 hours,Healthy,Yes,6,5,Yes,No
+Male,45,Indore,Teacher,2.0,5.0,7-8 hours,Healthy,Yes,8,3,Yes,No
+Male,39,Jaipur,Consultant,1.0,5.0,5-6 hours,Unhealthy,No,7,3,Yes,No
+Female,27,Delhi,Business Analyst,3.0,2.0,More than 8 hours,Healthy,Yes,2,4,No,No
+Male,41,Visakhapatnam,Architect,3.0,3.0,7-8 hours,Healthy,Yes,4,1,No,No
+Male,25,Thane,Graphic Designer,4.0,2.0,Less than 5 hours,Unhealthy,Yes,1,4,Yes,Yes
+Male,42,Pune,Teacher,5.0,3.0,More than 8 hours,Moderate,No,2,1,Yes,No
+Female,42,Rajkot,UX/UI Designer,1.0,5.0,7-8 hours,Unhealthy,No,1,1,Yes,No
+Female,37,Thane,Doctor,4.0,4.0,More than 8 hours,Moderate,No,10,4,Yes,No
+Female,59,Ghaziabad,Teacher,2.0,1.0,5-6 hours,Unhealthy,Yes,8,3,No,No
+Female,59,Rajkot,UX/UI Designer,3.0,3.0,More than 8 hours,Unhealthy,No,8,4,Yes,No
+Male,38,Ghaziabad,Teacher,2.0,4.0,5-6 hours,Moderate,Yes,12,5,No,No
+Male,54,Jaipur,Civil Engineer,5.0,4.0,More than 8 hours,Healthy,No,2,4,No,No
+Male,21,Surat,Educational Consultant,2.0,1.0,7-8 hours,Moderate,Yes,10,1,Yes,Yes
+Male,54,Pune,Teacher,2.0,3.0,5-6 hours,Healthy,No,3,5,No,No
+Male,39,Srinagar,Entrepreneur,4.0,5.0,5-6 hours,Unhealthy,No,9,2,No,No
+Female,50,Mumbai,Teacher,3.0,3.0,More than 8 hours,Healthy,No,9,2,No,No
+Female,50,Rajkot,HR Manager,4.0,5.0,7-8 hours,Healthy,No,7,5,Yes,No
+Male,33,Rajkot,Architect,5.0,4.0,5-6 hours,Unhealthy,Yes,3,3,Yes,Yes
+Female,54,Patna,Customer Support,3.0,2.0,Less than 5 hours,Healthy,Yes,1,1,Yes,No
+Male,52,Meerut,Content Writer,5.0,1.0,7-8 hours,Moderate,Yes,9,4,No,No
+Male,53,Delhi,Teacher,2.0,5.0,5-6 hours,Moderate,No,10,5,Yes,No
+Female,57,Pune,Teacher,5.0,2.0,More than 8 hours,Unhealthy,No,12,3,No,No
+Female,53,Nashik,Content Writer,5.0,5.0,5-6 hours,Healthy,No,10,4,No,No
+Female,47,Faridabad,Business Analyst,2.0,4.0,More than 8 hours,Moderate,Yes,4,4,No,No
+Male,40,Meerut,Software Engineer,1.0,5.0,7-8 hours,Unhealthy,No,4,2,Yes,No
+Male,28,Lucknow,Teacher,3.0,4.0,More than 8 hours,Moderate,Yes,5,4,No,No
+Female,59,Rajkot,Sales Executive,2.0,3.0,More than 8 hours,Moderate,No,6,4,Yes,No
+Female,44,Hyderabad,Entrepreneur,1.0,1.0,Less than 5 hours,Moderate,Yes,5,4,No,No
+Female,51,Varanasi,Architect,5.0,5.0,7-8 hours,Unhealthy,Yes,7,1,No,No
+Female,34,Mumbai,Entrepreneur,4.0,3.0,More than 8 hours,Healthy,No,1,3,No,No
+Male,39,Surat,Business Analyst,2.0,2.0,7-8 hours,Healthy,No,3,5,Yes,No
+Female,37,Thane,Chef,1.0,4.0,Less than 5 hours,Moderate,Yes,5,1,No,No
+Female,42,Ahmedabad,Software Engineer,2.0,3.0,Less than 5 hours,Moderate,Yes,9,1,No,No
+Male,24,Bhopal,Pharmacist,1.0,3.0,Less than 5 hours,Healthy,No,0,2,No,No
+Male,44,Srinagar,Lawyer,4.0,4.0,More than 8 hours,Unhealthy,No,5,3,Yes,No
+Male,49,Visakhapatnam,Financial Analyst,4.0,4.0,Less than 5 hours,Healthy,No,0,4,No,No
+Male,53,Ahmedabad,Accountant,3.0,3.0,7-8 hours,Healthy,Yes,2,5,No,No
+Male,47,Thane,Pilot,3.0,1.0,Less than 5 hours,Healthy,Yes,5,1,No,No
+Male,37,Vasai-Virar,Lawyer,2.0,1.0,7-8 hours,Unhealthy,Yes,7,4,No,No
+Male,36,Lucknow,Software Engineer,1.0,1.0,5-6 hours,Healthy,No,4,2,No,No
+Male,44,Faridabad,Teacher,3.0,4.0,More than 8 hours,Moderate,No,10,2,No,No
+Female,45,Pune,Financial Analyst,4.0,1.0,7-8 hours,Healthy,No,9,2,Yes,No
+Male,24,Nagpur,Doctor,2.0,5.0,Less than 5 hours,Healthy,Yes,3,4,No,No
+Male,36,Nagpur,Manager,3.0,5.0,Less than 5 hours,Moderate,No,6,1,Yes,No
+Male,50,Hyderabad,Content Writer,5.0,3.0,More than 8 hours,Moderate,Yes,2,3,Yes,No
+Male,44,Mumbai,Chemist,1.0,2.0,More than 8 hours,Healthy,Yes,1,4,No,No
+Male,39,Mumbai,Consultant,5.0,2.0,Less than 5 hours,Healthy,Yes,9,3,Yes,Yes
+Male,38,Bangalore,Accountant,3.0,5.0,More than 8 hours,Moderate,Yes,4,4,Yes,No
+Female,25,Visakhapatnam,Electrician,2.0,1.0,Less than 5 hours,Unhealthy,Yes,3,5,Yes,Yes
+Female,20,Ludhiana,Teacher,3.0,2.0,5-6 hours,Healthy,No,11,2,Yes,No
+Male,39,Hyderabad,Educational Consultant,2.0,2.0,7-8 hours,Unhealthy,No,5,4,No,No
+Male,49,Kanpur,Content Writer,5.0,3.0,7-8 hours,Unhealthy,Yes,9,3,Yes,No
+Male,48,Kalyan,Chef,4.0,1.0,7-8 hours,Moderate,No,11,3,Yes,No
+Female,55,Varanasi,Educational Consultant,3.0,3.0,5-6 hours,Healthy,Yes,5,2,Yes,No
+Male,53,Varanasi,Chef,2.0,5.0,5-6 hours,Moderate,Yes,9,3,No,No
+Male,50,Agra,Business Analyst,1.0,5.0,More than 8 hours,Healthy,No,6,2,No,No
+Female,38,Rajkot,Marketing Manager,5.0,1.0,More than 8 hours,Moderate,No,2,4,No,No
+Female,53,Ludhiana,Pharmacist,3.0,1.0,Less than 5 hours,Healthy,No,2,5,Yes,No
+Female,31,Nashik,Doctor,5.0,2.0,5-6 hours,Moderate,No,0,1,No,No
+Male,23,Rajkot,Software Engineer,3.0,3.0,Less than 5 hours,Moderate,No,6,3,No,No
+Female,40,Visakhapatnam,Content Writer,2.0,2.0,7-8 hours,Healthy,Yes,2,2,No,No
+Male,45,Varanasi,Business Analyst,2.0,1.0,5-6 hours,Moderate,Yes,12,4,No,No
+Male,31,Faridabad,Judge,5.0,2.0,Less than 5 hours,Healthy,No,7,2,No,No
+Male,24,Ludhiana,Teacher,1.0,1.0,Less than 5 hours,Moderate,No,6,5,No,No
+Male,43,Patna,HR Manager,5.0,5.0,5-6 hours,Moderate,Yes,1,4,Yes,No
+Male,59,Vadodara,Finanancial Analyst,5.0,3.0,5-6 hours,Unhealthy,Yes,4,4,No,No
+Female,40,Vadodara,UX/UI Designer,1.0,5.0,5-6 hours,Unhealthy,No,10,3,No,No
+Female,57,Varanasi,Customer Support,1.0,2.0,7-8 hours,Unhealthy,Yes,4,1,Yes,No
+Female,39,Surat,Chef,4.0,4.0,More than 8 hours,Unhealthy,Yes,10,1,Yes,No
+Male,23,Pune,Business Analyst,1.0,4.0,More than 8 hours,Healthy,Yes,4,1,Yes,No
+Female,50,Nagpur,Chef,5.0,3.0,7-8 hours,Moderate,Yes,9,3,No,No
+Male,29,Ahmedabad,Data Scientist,2.0,3.0,7-8 hours,Unhealthy,No,3,5,No,No
+Female,50,Pune,Doctor,4.0,3.0,5-6 hours,Healthy,No,9,3,Yes,No
+Female,49,Hyderabad,Teacher,5.0,3.0,5-6 hours,Healthy,No,5,4,No,No
+Female,60,Lucknow,Educational Consultant,1.0,2.0,Less than 5 hours,Moderate,Yes,1,4,No,No
+Male,56,Ahmedabad,Consultant,5.0,3.0,More than 8 hours,Moderate,Yes,1,5,Yes,No
+Female,39,Bhopal,HR Manager,2.0,3.0,More than 8 hours,Healthy,Yes,8,5,No,No
+Female,26,Surat,Chemist,2.0,1.0,More than 8 hours,Healthy,No,8,5,Yes,No
+Female,40,Ghaziabad,Judge,4.0,2.0,5-6 hours,Unhealthy,Yes,11,5,No,Yes
+Female,55,Jaipur,Graphic Designer,1.0,2.0,More than 8 hours,Unhealthy,Yes,2,3,Yes,No
+Male,38,Bangalore,Teacher,2.0,5.0,7-8 hours,Moderate,No,11,1,No,No
+Female,20,Chennai,Teacher,4.0,4.0,5-6 hours,Moderate,No,0,2,Yes,No
+Female,54,Indore,Researcher,1.0,4.0,5-6 hours,Healthy,No,12,2,No,No
+Female,28,Indore,Financial Analyst,5.0,2.0,More than 8 hours,Unhealthy,No,11,2,No,No
+Male,18,Vadodara,Teacher,5.0,4.0,Less than 5 hours,Unhealthy,No,7,4,Yes,Yes
+Male,25,Jaipur,Teacher,1.0,4.0,5-6 hours,Unhealthy,Yes,3,4,No,No
+Female,59,Srinagar,Marketing Manager,3.0,5.0,More than 8 hours,Moderate,Yes,12,1,Yes,No
+Male,33,Pune,UX/UI Designer,5.0,4.0,7-8 hours,Healthy,Yes,7,2,Yes,No
+Female,48,Indore,Content Writer,3.0,3.0,5-6 hours,Moderate,Yes,2,1,No,No
+Male,43,Varanasi,Teacher,2.0,2.0,5-6 hours,Moderate,No,8,1,No,No
+Female,41,Ahmedabad,Consultant,1.0,2.0,More than 8 hours,Unhealthy,No,0,5,No,No
+Male,20,Thane,Teacher,3.0,2.0,7-8 hours,Moderate,No,8,2,No,No
+Male,31,Ludhiana,Accountant,3.0,5.0,5-6 hours,Healthy,Yes,6,5,No,No
+Female,54,Ghaziabad,Entrepreneur,5.0,5.0,More than 8 hours,Healthy,Yes,1,2,Yes,No
+Male,45,Mumbai,Architect,5.0,3.0,7-8 hours,Unhealthy,Yes,10,2,No,No
+Male,40,Vadodara,Teacher,3.0,3.0,More than 8 hours,Unhealthy,No,2,5,Yes,No
+Male,41,Ludhiana,Business Analyst,1.0,2.0,7-8 hours,Unhealthy,No,5,2,No,No
+Male,38,Hyderabad,Teacher,1.0,4.0,5-6 hours,Healthy,No,2,1,Yes,No
+Female,44,Thane,Financial Analyst,1.0,3.0,Less than 5 hours,Unhealthy,Yes,4,3,Yes,No
+Male,54,Pune,Manager,3.0,5.0,Less than 5 hours,Moderate,Yes,9,3,Yes,No
+Male,50,Meerut,Teacher,4.0,2.0,5-6 hours,Healthy,No,7,2,No,No
+Female,46,Jaipur,Teacher,1.0,3.0,More than 8 hours,Moderate,No,6,4,Yes,No
+Female,54,Mumbai,Customer Support,5.0,1.0,7-8 hours,Unhealthy,Yes,1,1,Yes,No
+Female,60,Kolkata,Plumber,5.0,1.0,Less than 5 hours,Unhealthy,Yes,12,3,Yes,No
+Male,25,Pune,Mechanical Engineer,4.0,3.0,More than 8 hours,Unhealthy,No,1,3,No,No
+Female,40,Bangalore,Consultant,5.0,5.0,More than 8 hours,Unhealthy,No,7,3,No,No
+Female,43,Pune,Educational Consultant,1.0,5.0,Less than 5 hours,Unhealthy,No,5,4,No,No
+Male,43,Ghaziabad,Business Analyst,5.0,2.0,More than 8 hours,Healthy,Yes,1,2,Yes,No
+Male,58,Varanasi,Finanancial Analyst,5.0,5.0,7-8 hours,Healthy,Yes,3,1,No,No
+Female,54,Kalyan,Entrepreneur,3.0,3.0,Less than 5 hours,Moderate,Yes,1,5,Yes,No
+Male,60,Vadodara,Manager,3.0,1.0,More than 8 hours,Healthy,Yes,2,2,No,No
+Male,22,Nagpur,Content Writer,1.0,1.0,Less than 5 hours,Unhealthy,Yes,0,2,No,Yes
+Male,49,Vadodara,Teacher,5.0,3.0,5-6 hours,Unhealthy,No,1,5,No,No
+Female,47,Nagpur,Travel Consultant,5.0,3.0,5-6 hours,Healthy,No,0,5,Yes,No
+Female,40,Hyderabad,Digital Marketer,2.0,5.0,7-8 hours,Healthy,Yes,4,4,No,No
+Male,48,Pune,Entrepreneur,4.0,2.0,More than 8 hours,Healthy,No,5,4,Yes,No
+Male,38,Surat,Teacher,5.0,5.0,7-8 hours,Unhealthy,No,8,2,No,No
+Female,33,Pune,Travel Consultant,4.0,5.0,5-6 hours,Healthy,Yes,5,1,Yes,No
+Female,23,Nashik,Finanancial Analyst,4.0,4.0,7-8 hours,Moderate,No,0,3,Yes,No
+Female,49,Mumbai,Sales Executive,1.0,5.0,Less than 5 hours,Unhealthy,No,5,1,No,No
+Female,49,Rajkot,Marketing Manager,4.0,2.0,Less than 5 hours,Unhealthy,Yes,5,5,Yes,Yes
+Female,19,Faridabad,Teacher,3.0,4.0,More than 8 hours,Healthy,No,2,2,Yes,No
+Female,39,Hyderabad,Finanancial Analyst,5.0,4.0,5-6 hours,Healthy,No,10,2,Yes,No
+Female,60,Delhi,Educational Consultant,1.0,3.0,More than 8 hours,Moderate,No,6,3,No,No
+Male,31,Delhi,Pharmacist,1.0,3.0,Less than 5 hours,Healthy,No,0,3,Yes,No
+Male,40,Hyderabad,Teacher,1.0,2.0,5-6 hours,Healthy,Yes,5,2,No,No
+Male,40,Srinagar,Customer Support,3.0,5.0,Less than 5 hours,Moderate,No,1,2,No,No
+Male,18,Bangalore,Teacher,2.0,3.0,5-6 hours,Unhealthy,No,10,5,No,Yes
+Male,45,Kalyan,Content Writer,1.0,4.0,Less than 5 hours,Unhealthy,Yes,9,2,No,No
+Female,42,Vasai-Virar,Doctor,5.0,5.0,7-8 hours,Moderate,No,11,2,No,No
+Female,54,Ludhiana,Accountant,3.0,2.0,More than 8 hours,Moderate,Yes,6,2,Yes,No
+Female,38,Meerut,Researcher,5.0,3.0,Less than 5 hours,Moderate,No,2,2,No,No
+Male,43,Delhi,Research Analyst,5.0,4.0,7-8 hours,Unhealthy,No,0,4,Yes,No
+Female,36,Visakhapatnam,Entrepreneur,5.0,3.0,More than 8 hours,Healthy,No,7,4,Yes,No
+Female,49,Faridabad,Teacher,1.0,4.0,More than 8 hours,Moderate,No,11,4,Yes,No
+Male,51,Mumbai,Business Analyst,3.0,2.0,Less than 5 hours,Moderate,Yes,5,5,Yes,No
+Male,58,Bhopal,Teacher,2.0,3.0,More than 8 hours,Unhealthy,Yes,4,5,Yes,No
+Female,48,Jaipur,Researcher,1.0,4.0,5-6 hours,Unhealthy,Yes,5,4,Yes,No
+Female,30,Vasai-Virar,Travel Consultant,1.0,3.0,5-6 hours,Healthy,Yes,6,5,Yes,No
+Female,40,Agra,Content Writer,1.0,5.0,7-8 hours,Healthy,No,1,2,Yes,No
+Female,45,Bhopal,Teacher,5.0,3.0,7-8 hours,Unhealthy,Yes,10,5,Yes,Yes
+Female,29,Jaipur,Chef,4.0,4.0,More than 8 hours,Unhealthy,Yes,9,2,No,No
+Female,42,Mumbai,Researcher,1.0,2.0,More than 8 hours,Unhealthy,No,10,2,Yes,No
+Male,54,Vadodara,Plumber,4.0,4.0,5-6 hours,Moderate,Yes,2,1,No,No
+Female,51,Rajkot,HR Manager,1.0,2.0,5-6 hours,Unhealthy,Yes,9,5,Yes,No
+Male,55,Agra,Content Writer,4.0,5.0,More than 8 hours,Moderate,Yes,12,5,No,No
+Male,56,Varanasi,Travel Consultant,3.0,5.0,7-8 hours,Moderate,No,2,1,Yes,No
+Male,47,Patna,Business Analyst,1.0,1.0,More than 8 hours,Moderate,Yes,11,2,Yes,No
+Female,58,Meerut,Doctor,4.0,4.0,Less than 5 hours,Unhealthy,No,1,1,No,No
+Female,31,Surat,Teacher,2.0,5.0,5-6 hours,Unhealthy,No,8,1,Yes,No
+Female,50,Ludhiana,Teacher,2.0,2.0,5-6 hours,Healthy,No,12,2,Yes,No
+Female,47,Bhopal,Chemist,5.0,5.0,7-8 hours,Healthy,No,11,4,No,No
+Male,56,Srinagar,Teacher,5.0,5.0,7-8 hours,Healthy,No,1,4,Yes,No
+Female,56,Vadodara,Pharmacist,5.0,1.0,Less than 5 hours,Unhealthy,No,3,4,Yes,No
+Female,52,Kolkata,Entrepreneur,5.0,1.0,More than 8 hours,Unhealthy,No,10,5,No,No
+Male,37,Visakhapatnam,Chemist,4.0,5.0,7-8 hours,Unhealthy,Yes,12,3,No,No
+Female,21,Jaipur,HR Manager,3.0,5.0,Less than 5 hours,Unhealthy,Yes,12,4,Yes,Yes
+Male,44,Visakhapatnam,Marketing Manager,5.0,3.0,Less than 5 hours,Healthy,No,0,4,Yes,No
+Female,35,Rajkot,Software Engineer,1.0,3.0,5-6 hours,Healthy,No,6,4,No,No
+Female,56,Faridabad,Teacher,4.0,2.0,7-8 hours,Unhealthy,No,9,5,No,No
+Male,52,Patna,Travel Consultant,2.0,3.0,More than 8 hours,Unhealthy,Yes,0,5,Yes,No
+Female,40,Chennai,HR Manager,5.0,1.0,Less than 5 hours,Unhealthy,Yes,11,1,No,Yes
+Female,35,Patna,UX/UI Designer,2.0,2.0,Less than 5 hours,Moderate,No,6,2,Yes,No
+Male,51,Kolkata,Teacher,4.0,2.0,Less than 5 hours,Healthy,Yes,0,5,Yes,No
+Female,36,Nagpur,Teacher,3.0,3.0,5-6 hours,Unhealthy,No,12,5,No,No
+Female,37,Vasai-Virar,Sales Executive,4.0,3.0,More than 8 hours,Moderate,No,6,2,No,No
+Female,20,Rajkot,Teacher,5.0,4.0,Less than 5 hours,Unhealthy,Yes,2,3,Yes,Yes
+Male,58,Surat,Financial Analyst,2.0,5.0,5-6 hours,Unhealthy,Yes,1,1,Yes,No
+Male,46,Rajkot,Teacher,1.0,3.0,5-6 hours,Unhealthy,Yes,12,4,Yes,No
+Male,23,Chennai,Judge,3.0,5.0,More than 8 hours,Healthy,Yes,10,1,No,No
+Female,53,Mumbai,Business Analyst,3.0,3.0,More than 8 hours,Healthy,No,5,5,Yes,No
+Male,54,Patna,Pilot,3.0,3.0,Less than 5 hours,Healthy,No,12,2,Yes,No
+Female,26,Hyderabad,Data Scientist,3.0,1.0,Less than 5 hours,Moderate,Yes,12,4,No,Yes
+Female,28,Agra,Civil Engineer,2.0,4.0,More than 8 hours,Healthy,No,6,3,Yes,No
+Female,49,Varanasi,Entrepreneur,1.0,1.0,More than 8 hours,Healthy,Yes,4,1,No,No
+Male,37,Vadodara,Customer Support,2.0,4.0,5-6 hours,Unhealthy,No,5,1,Yes,No
+Male,48,Agra,Research Analyst,5.0,5.0,5-6 hours,Healthy,Yes,5,5,No,No
+Female,26,Ahmedabad,Chef,4.0,5.0,7-8 hours,Healthy,No,10,2,Yes,No
+Male,58,Chennai,Consultant,3.0,4.0,Less than 5 hours,Moderate,Yes,12,5,No,No
+Male,53,Thane,Pharmacist,2.0,2.0,Less than 5 hours,Moderate,No,10,1,No,No
+Male,40,Nagpur,Chef,4.0,2.0,7-8 hours,Unhealthy,Yes,5,4,Yes,Yes
+Female,33,Surat,Teacher,4.0,3.0,7-8 hours,Unhealthy,No,4,2,No,No
+Female,49,Faridabad,Pharmacist,3.0,4.0,Less than 5 hours,Moderate,Yes,11,2,Yes,No
+Male,57,Meerut,Mechanical Engineer,2.0,2.0,5-6 hours,Moderate,Yes,2,5,Yes,No
+Male,33,Kanpur,Chef,2.0,5.0,7-8 hours,Unhealthy,Yes,0,4,No,No
+Male,34,Mumbai,Finanancial Analyst,5.0,2.0,5-6 hours,Healthy,No,8,1,No,No
+Male,53,Ghaziabad,Chef,5.0,5.0,5-6 hours,Healthy,Yes,4,2,Yes,No
+Female,53,Rajkot,Data Scientist,4.0,3.0,7-8 hours,Moderate,Yes,1,1,Yes,No
+Female,56,Pune,Teacher,2.0,2.0,Less than 5 hours,Moderate,No,12,2,No,No
+Male,37,Thane,Marketing Manager,2.0,4.0,7-8 hours,Unhealthy,Yes,1,5,No,No
+Male,39,Thane,Consultant,1.0,4.0,Less than 5 hours,Moderate,Yes,12,2,No,No
+Male,20,Mumbai,Teacher,3.0,2.0,Less than 5 hours,Healthy,No,0,5,No,No
+Female,28,Kolkata,Teacher,1.0,3.0,5-6 hours,Healthy,No,0,2,No,No
+Female,54,Vadodara,Marketing Manager,2.0,2.0,More than 8 hours,Healthy,Yes,0,4,Yes,No
+Male,36,Visakhapatnam,Business Analyst,4.0,3.0,More than 8 hours,Healthy,Yes,4,3,Yes,No
+Female,57,Vasai-Virar,Chemist,4.0,5.0,More than 8 hours,Healthy,No,1,5,No,No
+Male,28,Indore,Pharmacist,1.0,2.0,Less than 5 hours,Moderate,Yes,9,1,No,No
+Female,38,Delhi,Teacher,3.0,2.0,7-8 hours,Unhealthy,No,5,1,No,No
+Female,56,Kalyan,Educational Consultant,2.0,1.0,More than 8 hours,Healthy,Yes,0,5,Yes,No
+Male,25,Chennai,Doctor,4.0,2.0,More than 8 hours,Unhealthy,Yes,4,3,No,Yes
+Male,22,Vadodara,Teacher,5.0,1.0,5-6 hours,Moderate,Yes,2,5,No,Yes
+Male,29,Ludhiana,Content Writer,1.0,5.0,More than 8 hours,Unhealthy,No,4,1,No,No
+Female,35,Bhopal,Travel Consultant,2.0,2.0,7-8 hours,Moderate,Yes,0,1,No,No
+Female,41,Chennai,Plumber,2.0,5.0,Less than 5 hours,Unhealthy,Yes,2,2,No,No
+Male,42,Agra,Judge,5.0,4.0,Less than 5 hours,Unhealthy,Yes,12,3,No,No
+Male,28,Pune,HR Manager,4.0,5.0,Less than 5 hours,Healthy,No,5,2,No,No
+Female,40,Delhi,Doctor,2.0,1.0,7-8 hours,Healthy,No,11,5,No,No
+Male,55,Nashik,HR Manager,4.0,4.0,More than 8 hours,Healthy,Yes,8,1,No,No
+Male,22,Indore,Teacher,5.0,5.0,Less than 5 hours,Unhealthy,No,9,4,No,Yes
+Male,22,Nashik,Travel Consultant,3.0,4.0,7-8 hours,Healthy,Yes,10,2,Yes,Yes
+Male,31,Kalyan,Finanancial Analyst,5.0,5.0,5-6 hours,Unhealthy,Yes,12,2,Yes,Yes
+Male,41,Surat,HR Manager,1.0,1.0,More than 8 hours,Unhealthy,Yes,11,5,No,No
+Female,56,Thane,Teacher,5.0,3.0,5-6 hours,Unhealthy,No,2,3,No,No
+Male,21,Thane,HR Manager,2.0,5.0,Less than 5 hours,Unhealthy,No,12,4,No,No
+Male,27,Hyderabad,Educational Consultant,5.0,1.0,5-6 hours,Healthy,No,10,5,Yes,Yes
+Male,45,Ghaziabad,Civil Engineer,5.0,3.0,Less than 5 hours,Moderate,Yes,0,1,No,No
+Female,34,Pune,Consultant,2.0,1.0,More than 8 hours,Healthy,Yes,3,2,Yes,No
+Male,46,Meerut,Plumber,4.0,2.0,Less than 5 hours,Unhealthy,Yes,10,3,Yes,Yes
+Female,52,Srinagar,Teacher,5.0,2.0,7-8 hours,Unhealthy,Yes,1,3,No,No
+Male,47,Patna,Sales Executive,3.0,3.0,Less than 5 hours,Moderate,Yes,7,2,No,No
+Male,48,Pune,Teacher,1.0,4.0,Less than 5 hours,Moderate,Yes,2,4,Yes,No
+Female,35,Kalyan,Marketing Manager,1.0,3.0,Less than 5 hours,Unhealthy,Yes,12,3,No,No
+Male,39,Thane,Pharmacist,3.0,3.0,Less than 5 hours,Unhealthy,Yes,2,5,No,No
+Male,48,Lucknow,Digital Marketer,1.0,4.0,Less than 5 hours,Healthy,Yes,9,1,Yes,No
+Male,37,Kalyan,Marketing Manager,2.0,2.0,7-8 hours,Unhealthy,No,12,2,No,No
+Female,38,Chennai,Manager,2.0,4.0,More than 8 hours,Moderate,No,6,5,Yes,No
+Male,40,Meerut,Graphic Designer,3.0,2.0,Less than 5 hours,Moderate,No,4,4,Yes,No
+Female,40,Faridabad,Marketing Manager,2.0,4.0,More than 8 hours,Moderate,No,11,4,Yes,No
+Male,55,Chennai,Teacher,1.0,1.0,7-8 hours,Healthy,No,0,4,No,No
+Male,44,Indore,Teacher,4.0,3.0,Less than 5 hours,Healthy,No,1,2,No,No
+Female,33,Kanpur,Content Writer,3.0,2.0,5-6 hours,Moderate,Yes,9,3,No,No
+Male,52,Kanpur,Pharmacist,1.0,4.0,7-8 hours,Healthy,Yes,11,2,Yes,No
+Male,29,Ahmedabad,Consultant,5.0,3.0,7-8 hours,Healthy,No,3,2,No,No
+Female,33,Kolkata,Judge,2.0,5.0,Less than 5 hours,Healthy,Yes,7,2,No,No
+Male,43,Ludhiana,Mechanical Engineer,4.0,4.0,5-6 hours,Healthy,Yes,8,2,No,No
+Male,35,Kolkata,Teacher,4.0,3.0,More than 8 hours,Unhealthy,No,11,3,No,No
+Male,50,Delhi,Finanancial Analyst,2.0,5.0,7-8 hours,Unhealthy,Yes,1,2,No,No
+Female,30,Chennai,Teacher,5.0,5.0,5-6 hours,Moderate,Yes,3,4,No,No
+Female,27,Hyderabad,Content Writer,5.0,3.0,7-8 hours,Moderate,Yes,6,4,No,Yes
+Female,41,Vadodara,Lawyer,3.0,3.0,5-6 hours,Unhealthy,No,10,1,No,No
+Female,50,Meerut,Lawyer,4.0,3.0,5-6 hours,Healthy,No,12,3,Yes,No
+Female,53,Kanpur,Business Analyst,3.0,1.0,More than 8 hours,Healthy,Yes,6,3,No,No
+Male,35,Srinagar,Teacher,3.0,5.0,5-6 hours,Moderate,No,10,4,Yes,No
+Male,38,Thane,Manager,4.0,4.0,5-6 hours,Healthy,No,7,3,No,No
+Male,56,Faridabad,Accountant,2.0,4.0,7-8 hours,Moderate,No,5,1,Yes,No
+Male,55,Jaipur,Judge,5.0,1.0,5-6 hours,Unhealthy,Yes,0,4,No,No
+Male,26,Lucknow,Architect,4.0,5.0,5-6 hours,Moderate,No,4,3,Yes,No
+Female,56,Bangalore,Content Writer,5.0,2.0,5-6 hours,Unhealthy,Yes,3,5,Yes,No
+Male,51,Nagpur,Consultant,3.0,1.0,7-8 hours,Healthy,Yes,10,4,Yes,No
+Female,31,Indore,Pharmacist,4.0,5.0,More than 8 hours,Moderate,No,5,3,No,No
+Male,36,Faridabad,Teacher,1.0,3.0,7-8 hours,Moderate,No,10,3,Yes,No
+Female,39,Kolkata,Doctor,5.0,5.0,7-8 hours,Unhealthy,No,12,1,No,No
+Male,39,Lucknow,Doctor,1.0,5.0,More than 8 hours,Healthy,No,0,5,No,No
+Female,19,Vadodara,Teacher,2.0,1.0,7-8 hours,Unhealthy,Yes,12,4,Yes,Yes
+Male,42,Nagpur,Chemist,2.0,1.0,Less than 5 hours,Unhealthy,No,1,1,No,No
+Female,50,Varanasi,Travel Consultant,1.0,3.0,More than 8 hours,Healthy,Yes,6,5,No,No
+Male,53,Meerut,Architect,3.0,2.0,7-8 hours,Healthy,No,5,1,No,No
+Male,24,Meerut,Teacher,2.0,2.0,More than 8 hours,Healthy,Yes,10,3,Yes,Yes
+Female,37,Indore,Data Scientist,4.0,3.0,5-6 hours,Unhealthy,No,5,2,No,No
+Female,60,Kolkata,Doctor,1.0,3.0,Less than 5 hours,Healthy,Yes,11,3,Yes,No
+Male,40,Bhopal,Graphic Designer,3.0,1.0,Less than 5 hours,Healthy,No,11,4,No,No
+Female,52,Chennai,Business Analyst,3.0,3.0,7-8 hours,Moderate,Yes,6,3,Yes,No
+Male,19,Varanasi,Teacher,2.0,4.0,Less than 5 hours,Unhealthy,No,7,4,No,No
+Male,50,Nagpur,Investment Banker,3.0,2.0,7-8 hours,Unhealthy,Yes,8,1,No,No
+Female,33,Varanasi,Architect,2.0,4.0,More than 8 hours,Moderate,Yes,12,5,Yes,No
+Female,48,Vadodara,Customer Support,4.0,4.0,More than 8 hours,Healthy,Yes,9,4,Yes,No
+Male,38,Bhopal,Software Engineer,4.0,1.0,7-8 hours,Moderate,No,2,3,Yes,No
+Male,53,Vasai-Virar,Researcher,1.0,5.0,Less than 5 hours,Unhealthy,Yes,0,3,No,No
+Female,59,Pune,Customer Support,3.0,2.0,More than 8 hours,Moderate,Yes,8,5,Yes,No
+Female,36,Kolkata,Plumber,4.0,2.0,7-8 hours,Moderate,Yes,7,3,Yes,Yes
+Male,31,Vadodara,Chef,1.0,3.0,Less than 5 hours,Healthy,No,2,3,No,No
+Female,58,Vasai-Virar,Content Writer,5.0,1.0,5-6 hours,Healthy,No,3,4,Yes,No
+Female,26,Vasai-Virar,Digital Marketer,5.0,1.0,7-8 hours,Moderate,Yes,3,3,No,Yes
+Male,39,Surat,Pharmacist,3.0,4.0,7-8 hours,Healthy,No,5,1,Yes,No
+Male,39,Pune,Manager,4.0,1.0,7-8 hours,Moderate,No,1,1,Yes,No
+Male,44,Hyderabad,Financial Analyst,3.0,5.0,5-6 hours,Moderate,No,10,3,Yes,No
+Male,35,Kanpur,Electrician,4.0,3.0,More than 8 hours,Healthy,No,11,1,Yes,No
+Male,49,Rajkot,Content Writer,2.0,4.0,5-6 hours,Unhealthy,Yes,2,3,No,No
+Male,36,Meerut,Business Analyst,4.0,4.0,Less than 5 hours,Healthy,No,0,1,No,No
+Male,45,Patna,Doctor,2.0,1.0,More than 8 hours,Unhealthy,No,3,2,No,No
+Female,41,Srinagar,Architect,4.0,3.0,Less than 5 hours,Healthy,Yes,8,5,Yes,Yes
+Male,26,Patna,Architect,1.0,4.0,5-6 hours,Moderate,Yes,4,4,Yes,No
+Female,58,Bangalore,Chef,3.0,2.0,7-8 hours,Unhealthy,No,1,1,No,No
+Female,49,Rajkot,Lawyer,1.0,5.0,5-6 hours,Unhealthy,Yes,10,4,Yes,No
+Male,37,Meerut,HR Manager,4.0,3.0,Less than 5 hours,Healthy,No,8,1,Yes,No
+Female,21,Ludhiana,Data Scientist,3.0,4.0,7-8 hours,Healthy,Yes,11,4,No,Yes
+Female,22,Meerut,Teacher,2.0,4.0,Less than 5 hours,Healthy,Yes,4,2,Yes,No
+Male,49,Agra,Data Scientist,5.0,2.0,Less than 5 hours,Healthy,Yes,4,4,Yes,No
+Female,50,Bangalore,HR Manager,3.0,4.0,Less than 5 hours,Healthy,No,0,2,No,No
+Male,31,Ahmedabad,Pharmacist,4.0,4.0,7-8 hours,Unhealthy,Yes,3,5,No,No
+Male,53,Bangalore,Investment Banker,3.0,2.0,5-6 hours,Unhealthy,Yes,1,1,Yes,No
+Male,31,Pune,Manager,5.0,3.0,5-6 hours,Unhealthy,Yes,10,5,No,Yes
+Female,18,Indore,Teacher,3.0,2.0,7-8 hours,Unhealthy,Yes,1,4,No,Yes
+Female,41,Vadodara,Lawyer,5.0,1.0,Less than 5 hours,Healthy,Yes,9,5,No,Yes
+Female,51,Bangalore,Architect,2.0,3.0,More than 8 hours,Healthy,Yes,5,3,Yes,No
+Male,43,Chennai,Judge,4.0,5.0,More than 8 hours,Healthy,No,3,3,Yes,No
+Female,22,Surat,Sales Executive,5.0,3.0,7-8 hours,Healthy,Yes,0,1,Yes,No
+Female,31,Kolkata,Teacher,2.0,5.0,5-6 hours,Unhealthy,Yes,6,3,Yes,No
+Female,30,Agra,Researcher,3.0,4.0,7-8 hours,Moderate,Yes,4,4,No,No
+Male,60,Kolkata,Travel Consultant,2.0,4.0,5-6 hours,Healthy,No,8,2,Yes,No
+Male,35,Varanasi,Judge,5.0,5.0,7-8 hours,Moderate,No,12,1,Yes,No
+Female,43,Pune,Teacher,2.0,4.0,7-8 hours,Unhealthy,Yes,11,1,Yes,No
+Male,43,Ahmedabad,Teacher,3.0,2.0,Less than 5 hours,Unhealthy,Yes,6,4,No,No
+Female,46,Kalyan,HR Manager,5.0,2.0,5-6 hours,Healthy,No,0,3,No,No
+Female,38,Lucknow,Doctor,5.0,2.0,More than 8 hours,Moderate,No,11,4,Yes,No
+Male,20,Mumbai,Teacher,4.0,2.0,5-6 hours,Unhealthy,Yes,0,1,Yes,Yes
+Male,36,Meerut,Travel Consultant,4.0,5.0,Less than 5 hours,Healthy,Yes,8,1,No,No
+Male,36,Kalyan,Educational Consultant,2.0,4.0,Less than 5 hours,Unhealthy,No,10,4,No,No
+Female,60,Kanpur,Teacher,4.0,2.0,More than 8 hours,Healthy,No,9,2,No,No
+Male,23,Rajkot,Consultant,4.0,3.0,More than 8 hours,Unhealthy,No,3,1,No,No
+Male,27,Ghaziabad,Electrician,4.0,5.0,5-6 hours,Moderate,No,10,1,Yes,No
+Female,53,Bangalore,Teacher,3.0,4.0,5-6 hours,Moderate,Yes,4,1,No,No
+Female,40,Kanpur,Electrician,3.0,4.0,7-8 hours,Healthy,No,8,1,No,No
+Male,60,Ahmedabad,Teacher,2.0,3.0,Less than 5 hours,Unhealthy,Yes,2,2,Yes,No
+Male,50,Indore,Plumber,3.0,5.0,Less than 5 hours,Healthy,Yes,6,3,Yes,No
+Male,53,Bangalore,Teacher,1.0,2.0,5-6 hours,Healthy,Yes,2,5,No,No
+Male,41,Rajkot,Architect,2.0,1.0,5-6 hours,Unhealthy,No,4,1,Yes,No
+Male,26,Rajkot,Chemist,3.0,3.0,More than 8 hours,Healthy,No,3,1,No,No
+Female,24,Thane,Teacher,3.0,5.0,More than 8 hours,Unhealthy,No,3,1,Yes,No
+Female,46,Jaipur,Researcher,1.0,2.0,Less than 5 hours,Healthy,No,2,1,Yes,No
+Male,49,Jaipur,Teacher,2.0,5.0,Less than 5 hours,Unhealthy,Yes,2,4,No,No
+Female,18,Lucknow,Teacher,5.0,4.0,5-6 hours,Unhealthy,No,0,1,Yes,No
+Female,44,Mumbai,Electrician,2.0,2.0,Less than 5 hours,Unhealthy,No,10,5,No,No
+Male,45,Kalyan,Teacher,5.0,1.0,5-6 hours,Healthy,Yes,6,1,Yes,No
+Male,34,Visakhapatnam,Educational Consultant,2.0,5.0,7-8 hours,Moderate,Yes,10,2,Yes,No
+Female,31,Lucknow,Pharmacist,4.0,1.0,More than 8 hours,Unhealthy,No,1,5,Yes,No
+Male,22,Surat,Lawyer,2.0,1.0,7-8 hours,Moderate,No,8,5,No,No
+Female,24,Pune,Customer Support,4.0,3.0,More than 8 hours,Healthy,No,0,5,Yes,No
+Female,37,Lucknow,Chef,3.0,5.0,7-8 hours,Healthy,No,5,4,Yes,No
+Female,46,Delhi,Mechanical Engineer,4.0,2.0,5-6 hours,Healthy,No,2,2,No,No
+Male,38,Vadodara,Manager,4.0,2.0,5-6 hours,Moderate,Yes,9,3,Yes,Yes
+Female,46,Hyderabad,Teacher,2.0,5.0,More than 8 hours,Moderate,No,7,2,No,No
+Female,55,Jaipur,Pharmacist,1.0,2.0,7-8 hours,Moderate,No,8,3,Yes,No
+Male,48,Ahmedabad,Mechanical Engineer,1.0,5.0,5-6 hours,Unhealthy,Yes,2,5,No,No
+Female,33,Ludhiana,Financial Analyst,5.0,1.0,Less than 5 hours,Unhealthy,Yes,11,2,No,Yes
+Female,38,Thane,UX/UI Designer,3.0,2.0,Less than 5 hours,Healthy,No,5,4,No,No
+Male,18,Pune,Teacher,2.0,5.0,More than 8 hours,Moderate,No,5,1,Yes,No
+Female,26,Pune,Entrepreneur,3.0,5.0,More than 8 hours,Moderate,No,9,5,Yes,No
+Female,49,Patna,Plumber,5.0,2.0,More than 8 hours,Moderate,No,12,2,Yes,No
+Female,57,Kanpur,Entrepreneur,5.0,3.0,7-8 hours,Moderate,Yes,2,1,No,No
+Female,29,Faridabad,Customer Support,1.0,3.0,More than 8 hours,Healthy,Yes,6,3,Yes,No
+Female,40,Srinagar,Lawyer,1.0,1.0,Less than 5 hours,Unhealthy,No,3,1,No,No
+Male,49,Nagpur,Pilot,1.0,4.0,Less than 5 hours,Healthy,Yes,2,2,Yes,No
+Female,40,Indore,Pharmacist,5.0,5.0,5-6 hours,Unhealthy,Yes,6,1,Yes,No
+Male,46,Kanpur,Marketing Manager,2.0,3.0,More than 8 hours,Unhealthy,Yes,3,4,No,No
+Female,39,Thane,Digital Marketer,3.0,3.0,Less than 5 hours,Unhealthy,Yes,11,2,No,No
+Female,19,Delhi,Teacher,2.0,5.0,5-6 hours,Healthy,No,4,2,No,No
+Male,46,Ludhiana,Travel Consultant,3.0,4.0,5-6 hours,Unhealthy,No,3,3,Yes,No
+Female,51,Nagpur,Mechanical Engineer,4.0,1.0,Less than 5 hours,Healthy,No,6,2,Yes,No
+Female,48,Ahmedabad,Teacher,3.0,5.0,5-6 hours,Healthy,Yes,4,4,Yes,No
+Female,46,Meerut,Architect,2.0,3.0,Less than 5 hours,Healthy,No,5,1,Yes,No
+Female,24,Chennai,Teacher,1.0,5.0,5-6 hours,Unhealthy,No,12,4,No,No
+Female,57,Lucknow,Electrician,1.0,5.0,More than 8 hours,Healthy,No,7,1,No,No
+Male,54,Faridabad,Educational Consultant,3.0,3.0,5-6 hours,Unhealthy,Yes,9,1,No,No
+Male,56,Mumbai,Graphic Designer,5.0,2.0,7-8 hours,Moderate,Yes,2,3,No,No
+Male,59,Agra,Travel Consultant,5.0,5.0,5-6 hours,Moderate,Yes,1,5,No,No
+Female,54,Vadodara,Architect,3.0,2.0,5-6 hours,Healthy,Yes,6,2,Yes,No
+Male,47,Vasai-Virar,HR Manager,2.0,5.0,More than 8 hours,Unhealthy,Yes,4,4,Yes,No
+Female,49,Kalyan,Travel Consultant,5.0,5.0,5-6 hours,Unhealthy,Yes,1,3,No,No
+Male,35,Hyderabad,Sales Executive,4.0,5.0,Less than 5 hours,Unhealthy,No,8,1,Yes,No
+Female,38,Kolkata,Teacher,4.0,4.0,Less than 5 hours,Moderate,No,0,2,No,No
+Male,58,Indore,Consultant,4.0,3.0,More than 8 hours,Unhealthy,Yes,7,5,Yes,No
+Female,60,Thane,Marketing Manager,1.0,4.0,7-8 hours,Unhealthy,Yes,5,5,Yes,No
+Male,48,Varanasi,Doctor,4.0,2.0,7-8 hours,Moderate,Yes,11,2,Yes,No
+Male,56,Bangalore,Teacher,3.0,2.0,More than 8 hours,Moderate,Yes,7,5,No,No
+Male,31,Ghaziabad,Consultant,3.0,5.0,More than 8 hours,Healthy,No,7,5,Yes,No
+Female,27,Chennai,Accountant,2.0,2.0,Less than 5 hours,Moderate,No,3,3,Yes,No
+Female,34,Visakhapatnam,Teacher,4.0,2.0,Less than 5 hours,Healthy,No,7,1,No,No
+Male,55,Nashik,Sales Executive,5.0,5.0,7-8 hours,Moderate,Yes,10,2,No,No
+Male,59,Bangalore,Manager,4.0,1.0,Less than 5 hours,Unhealthy,No,4,4,No,No
+Male,22,Lucknow,Architect,4.0,1.0,7-8 hours,Healthy,Yes,3,5,No,Yes
+Female,28,Indore,Customer Support,2.0,1.0,7-8 hours,Moderate,Yes,5,5,No,Yes
+Male,52,Meerut,Teacher,2.0,2.0,7-8 hours,Moderate,No,11,5,No,No
+Female,58,Nashik,Teacher,5.0,2.0,Less than 5 hours,Unhealthy,No,3,4,Yes,No
+Female,49,Vasai-Virar,Content Writer,3.0,2.0,Less than 5 hours,Unhealthy,No,5,5,Yes,No
+Male,21,Bangalore,HR Manager,3.0,2.0,Less than 5 hours,Unhealthy,No,9,5,No,Yes
+Male,38,Chennai,Architect,1.0,5.0,5-6 hours,Unhealthy,No,7,2,Yes,No
+Male,24,Vasai-Virar,Plumber,5.0,4.0,More than 8 hours,Moderate,No,9,2,Yes,No
+Male,36,Bhopal,Business Analyst,1.0,2.0,Less than 5 hours,Healthy,No,5,1,Yes,No
+Male,57,Surat,Content Writer,1.0,5.0,More than 8 hours,Healthy,No,11,2,No,No
+Male,60,Chennai,Teacher,5.0,3.0,5-6 hours,Healthy,Yes,0,2,No,No
+Male,58,Pune,Teacher,3.0,3.0,5-6 hours,Unhealthy,No,4,4,No,No
+Male,56,Delhi,Chemist,1.0,3.0,More than 8 hours,Moderate,No,1,2,No,No
+Male,51,Varanasi,Content Writer,3.0,1.0,5-6 hours,Unhealthy,Yes,0,2,No,No
+Male,57,Meerut,Business Analyst,5.0,2.0,7-8 hours,Unhealthy,No,3,2,Yes,No
+Male,23,Bhopal,Teacher,5.0,5.0,Less than 5 hours,Healthy,No,6,1,No,No
+Male,52,Hyderabad,Electrician,3.0,1.0,More than 8 hours,Unhealthy,No,5,1,Yes,No
+Female,46,Varanasi,Teacher,5.0,4.0,7-8 hours,Moderate,Yes,0,2,No,No
+Female,30,Jaipur,Pharmacist,2.0,2.0,7-8 hours,Healthy,Yes,12,4,No,Yes
+Male,48,Delhi,Teacher,4.0,1.0,7-8 hours,Unhealthy,No,12,3,No,No
+Male,50,Meerut,Accountant,1.0,1.0,7-8 hours,Unhealthy,Yes,4,4,Yes,No
+Male,36,Indore,Teacher,4.0,3.0,7-8 hours,Moderate,No,12,1,No,No
+Male,53,Patna,Business Analyst,2.0,4.0,Less than 5 hours,Moderate,No,5,4,No,No
+Female,56,Nagpur,Mechanical Engineer,4.0,3.0,More than 8 hours,Moderate,Yes,9,3,No,No
+Male,18,Kolkata,Teacher,3.0,5.0,5-6 hours,Moderate,Yes,7,3,Yes,Yes
+Male,47,Kanpur,Content Writer,2.0,1.0,5-6 hours,Moderate,No,0,3,Yes,No
+Male,38,Agra,Educational Consultant,2.0,5.0,7-8 hours,Moderate,Yes,12,1,No,No
+Male,29,Ahmedabad,Chef,2.0,5.0,Less than 5 hours,Unhealthy,No,2,2,No,No
+Female,59,Meerut,Educational Consultant,4.0,4.0,More than 8 hours,Moderate,Yes,1,2,No,No
+Female,45,Kolkata,Finanancial Analyst,3.0,5.0,5-6 hours,Healthy,Yes,0,5,No,No
+Female,29,Kanpur,Teacher,1.0,1.0,7-8 hours,Healthy,No,11,2,Yes,No
+Male,30,Vasai-Virar,Customer Support,2.0,5.0,More than 8 hours,Unhealthy,No,11,4,No,No
+Male,40,Thane,Sales Executive,2.0,5.0,More than 8 hours,Unhealthy,No,3,2,No,No
+Female,60,Mumbai,Teacher,3.0,2.0,More than 8 hours,Moderate,Yes,5,3,Yes,No
+Female,48,Nashik,Lawyer,1.0,2.0,Less than 5 hours,Unhealthy,No,12,2,No,No
+Male,51,Kanpur,Marketing Manager,3.0,5.0,7-8 hours,Unhealthy,Yes,3,2,Yes,No
+Female,58,Agra,Chemist,4.0,3.0,More than 8 hours,Unhealthy,No,5,2,Yes,No
+Female,32,Jaipur,Teacher,5.0,4.0,7-8 hours,Unhealthy,Yes,3,4,No,No
+Male,54,Faridabad,Finanancial Analyst,1.0,1.0,7-8 hours,Moderate,Yes,0,4,No,No
+Female,58,Meerut,Finanancial Analyst,4.0,4.0,7-8 hours,Moderate,Yes,2,4,No,No
+Male,49,Nagpur,Doctor,1.0,1.0,5-6 hours,Unhealthy,No,12,5,No,No
+Female,26,Thane,Consultant,4.0,3.0,7-8 hours,Unhealthy,No,11,2,Yes,No
+Male,43,Meerut,Chef,5.0,1.0,Less than 5 hours,Unhealthy,Yes,8,4,No,Yes
+Male,59,Agra,Teacher,5.0,1.0,5-6 hours,Moderate,Yes,11,2,No,No
+Male,38,Nashik,Chef,2.0,4.0,More than 8 hours,Moderate,Yes,9,3,Yes,No
+Male,18,Ahmedabad,Teacher,1.0,4.0,Less than 5 hours,Healthy,No,0,1,Yes,No
+Female,60,Ahmedabad,Teacher,3.0,2.0,Less than 5 hours,Unhealthy,No,1,2,No,No
+Female,36,Visakhapatnam,Teacher,4.0,5.0,7-8 hours,Unhealthy,Yes,3,3,No,No
+Female,52,Visakhapatnam,Teacher,4.0,4.0,More than 8 hours,Moderate,Yes,11,4,No,No
+Male,24,Delhi,Financial Analyst,1.0,1.0,More than 8 hours,Healthy,Yes,5,1,No,No
+Female,46,Surat,Consultant,5.0,4.0,Less than 5 hours,Healthy,No,3,5,No,No
+Male,49,Ludhiana,Content Writer,1.0,3.0,5-6 hours,Moderate,Yes,0,1,No,No
+Male,18,Nagpur,Teacher,5.0,4.0,7-8 hours,Moderate,No,7,4,No,No
+Female,42,Pune,Teacher,3.0,4.0,More than 8 hours,Healthy,No,6,5,No,No
+Female,43,Rajkot,Business Analyst,4.0,5.0,5-6 hours,Unhealthy,No,7,3,Yes,No
+Female,55,Ahmedabad,Digital Marketer,3.0,3.0,7-8 hours,Unhealthy,No,1,4,No,No
+Male,51,Varanasi,Teacher,3.0,2.0,More than 8 hours,Moderate,Yes,8,4,Yes,No
+Male,42,Chennai,Teacher,5.0,1.0,5-6 hours,Moderate,Yes,2,2,Yes,No
+Female,48,Indore,Teacher,5.0,5.0,7-8 hours,Moderate,No,6,3,No,No
+Male,35,Hyderabad,Content Writer,3.0,2.0,7-8 hours,Healthy,Yes,11,1,No,No
+Male,59,Ludhiana,Marketing Manager,2.0,2.0,More than 8 hours,Moderate,No,3,5,Yes,No
+Male,55,Agra,Lawyer,3.0,5.0,7-8 hours,Moderate,Yes,6,3,No,No
+Female,57,Srinagar,Chef,3.0,1.0,5-6 hours,Unhealthy,No,7,2,Yes,No
+Male,24,Ahmedabad,Software Engineer,2.0,4.0,7-8 hours,Unhealthy,No,0,1,No,No
+Female,27,Visakhapatnam,Sales Executive,4.0,3.0,More than 8 hours,Moderate,Yes,2,4,Yes,Yes
+Female,33,Kolkata,Teacher,1.0,1.0,More than 8 hours,Moderate,No,2,3,Yes,No
+Female,30,Varanasi,Manager,3.0,3.0,More than 8 hours,Moderate,Yes,1,5,Yes,No
+Male,45,Visakhapatnam,Chef,5.0,5.0,5-6 hours,Unhealthy,No,3,2,No,No
+Female,41,Agra,Plumber,5.0,5.0,More than 8 hours,Healthy,No,0,2,No,No
+Male,21,Pune,Travel Consultant,2.0,5.0,7-8 hours,Unhealthy,No,3,3,Yes,No
+Male,36,Delhi,Digital Marketer,4.0,4.0,Less than 5 hours,Unhealthy,No,8,3,Yes,No
+Female,19,Varanasi,Teacher,3.0,3.0,Less than 5 hours,Moderate,Yes,9,2,No,Yes
+Female,51,Varanasi,Content Writer,1.0,2.0,5-6 hours,Moderate,Yes,9,2,No,No
+Male,40,Delhi,Chef,5.0,4.0,Less than 5 hours,Healthy,No,12,1,Yes,No
+Male,20,Visakhapatnam,Teacher,3.0,5.0,Less than 5 hours,Moderate,No,4,4,Yes,No
+Male,50,Rajkot,Judge,1.0,3.0,Less than 5 hours,Unhealthy,No,1,1,Yes,No
+Female,36,Delhi,Chef,1.0,1.0,5-6 hours,Healthy,No,12,1,No,No
+Female,30,Pune,Teacher,2.0,5.0,Less than 5 hours,Unhealthy,No,5,2,No,No
+Female,27,Hyderabad,Finanancial Analyst,4.0,5.0,More than 8 hours,Unhealthy,Yes,10,2,No,No
+Female,40,Meerut,Architect,5.0,5.0,More than 8 hours,Healthy,Yes,0,1,Yes,No
+Female,44,Delhi,Judge,2.0,2.0,5-6 hours,Unhealthy,No,1,1,Yes,No
+Female,49,Nashik,Teacher,3.0,2.0,More than 8 hours,Unhealthy,Yes,10,3,Yes,No
+Male,49,Srinagar,Pilot,1.0,5.0,More than 8 hours,Healthy,No,5,5,Yes,No
+Male,53,Nashik,Chef,5.0,1.0,More than 8 hours,Moderate,Yes,2,4,Yes,No
+Male,46,Bangalore,Pilot,5.0,4.0,5-6 hours,Unhealthy,No,0,2,No,No
+Male,42,Rajkot,Chemist,4.0,2.0,5-6 hours,Healthy,Yes,10,3,Yes,No
+Male,48,Bhopal,Teacher,5.0,2.0,5-6 hours,Moderate,Yes,6,2,Yes,No
+Male,52,Kalyan,Chef,4.0,1.0,7-8 hours,Moderate,Yes,5,2,No,No
+Female,28,Bhopal,Teacher,3.0,5.0,Less than 5 hours,Moderate,Yes,12,2,No,No
+Female,44,Kalyan,Judge,2.0,2.0,5-6 hours,Healthy,Yes,10,3,No,No
+Male,43,Agra,Judge,1.0,2.0,5-6 hours,Moderate,No,6,4,Yes,No
+Male,48,Nashik,Customer Support,4.0,5.0,More than 8 hours,Healthy,Yes,6,1,Yes,No
+Female,29,Faridabad,Teacher,4.0,1.0,7-8 hours,Unhealthy,No,4,4,No,No
+Male,39,Srinagar,HR Manager,2.0,1.0,7-8 hours,Moderate,No,12,1,Yes,No
+Female,35,Kolkata,Mechanical Engineer,5.0,1.0,More than 8 hours,Unhealthy,No,4,5,No,No
+Female,46,Patna,Content Writer,2.0,2.0,5-6 hours,Moderate,No,6,1,Yes,No
+Female,43,Srinagar,Manager,3.0,2.0,5-6 hours,Healthy,No,8,1,Yes,No
+Female,44,Lucknow,Pharmacist,4.0,1.0,Less than 5 hours,Moderate,Yes,1,5,No,No
+Male,45,Pune,Marketing Manager,4.0,1.0,5-6 hours,Healthy,No,10,5,Yes,No
+Female,49,Kalyan,Educational Consultant,4.0,4.0,More than 8 hours,Moderate,Yes,8,4,No,No
+Female,60,Nagpur,Pilot,5.0,4.0,More than 8 hours,Healthy,Yes,5,3,No,No
+Male,32,Patna,Content Writer,5.0,3.0,5-6 hours,Moderate,Yes,0,1,No,No
+Male,60,Surat,Financial Analyst,1.0,4.0,7-8 hours,Unhealthy,Yes,0,1,No,No
+Male,54,Chennai,Pharmacist,2.0,1.0,5-6 hours,Moderate,No,8,2,Yes,No
+Female,46,Ludhiana,Consultant,4.0,2.0,Less than 5 hours,Moderate,No,5,4,Yes,No
+Male,46,Faridabad,Electrician,2.0,3.0,5-6 hours,Healthy,No,6,4,Yes,No
+Male,45,Agra,Financial Analyst,4.0,5.0,More than 8 hours,Unhealthy,No,7,2,No,No
+Male,38,Patna,Architect,3.0,2.0,7-8 hours,Unhealthy,No,5,2,No,No
+Female,51,Kalyan,Chemist,5.0,1.0,5-6 hours,Healthy,No,11,4,Yes,No
+Female,33,Nagpur,Software Engineer,1.0,1.0,Less than 5 hours,Unhealthy,Yes,2,1,Yes,No
+Female,39,Kolkata,Civil Engineer,5.0,1.0,Less than 5 hours,Moderate,Yes,10,4,No,Yes
+Male,60,Patna,Customer Support,2.0,4.0,Less than 5 hours,Moderate,Yes,5,2,Yes,No
+Male,38,Kalyan,Data Scientist,5.0,3.0,Less than 5 hours,Moderate,Yes,4,2,No,No
+Male,38,Meerut,Financial Analyst,3.0,4.0,7-8 hours,Moderate,No,6,3,No,No
+Male,39,Nagpur,UX/UI Designer,1.0,4.0,More than 8 hours,Healthy,Yes,6,5,No,No
+Female,22,Kanpur,Marketing Manager,1.0,3.0,Less than 5 hours,Moderate,No,5,3,Yes,No
+Male,59,Meerut,Teacher,4.0,4.0,More than 8 hours,Unhealthy,No,7,3,Yes,No
+Female,39,Rajkot,Data Scientist,1.0,2.0,5-6 hours,Unhealthy,Yes,2,5,No,No
+Female,29,Thane,Finanancial Analyst,5.0,4.0,More than 8 hours,Unhealthy,Yes,0,4,No,No
+Male,23,Surat,Financial Analyst,4.0,3.0,5-6 hours,Moderate,No,9,3,Yes,No
+Male,31,Ludhiana,Doctor,3.0,3.0,5-6 hours,Healthy,No,2,3,Yes,No
+Male,55,Chennai,UX/UI Designer,4.0,5.0,More than 8 hours,Moderate,No,3,5,No,No
+Female,29,Kanpur,Teacher,1.0,3.0,Less than 5 hours,Unhealthy,No,9,2,Yes,No
+Female,52,Indore,Educational Consultant,2.0,3.0,5-6 hours,Moderate,Yes,7,3,No,No
+Female,33,Indore,Plumber,1.0,2.0,More than 8 hours,Unhealthy,Yes,9,5,No,No
+Male,22,Kanpur,Teacher,4.0,4.0,5-6 hours,Healthy,No,6,2,Yes,No
+Female,51,Patna,Doctor,3.0,5.0,More than 8 hours,Unhealthy,Yes,10,3,No,No
+Male,39,Surat,Pharmacist,2.0,3.0,More than 8 hours,Healthy,Yes,8,4,Yes,No
+Male,50,Thane,Entrepreneur,4.0,5.0,More than 8 hours,Unhealthy,No,4,4,No,No
+Male,51,Patna,Manager,3.0,5.0,Less than 5 hours,Moderate,Yes,1,3,No,No
+Male,49,Surat,Doctor,1.0,5.0,More than 8 hours,Unhealthy,Yes,6,3,Yes,No
+Male,41,Jaipur,Manager,2.0,1.0,5-6 hours,Healthy,Yes,3,4,No,No
+Male,56,Visakhapatnam,Consultant,2.0,5.0,More than 8 hours,Healthy,No,2,4,Yes,No
+Female,45,Vadodara,Teacher,5.0,1.0,Less than 5 hours,Unhealthy,Yes,0,5,No,Yes
+Female,34,Mumbai,Pilot,1.0,2.0,More than 8 hours,Unhealthy,Yes,0,2,Yes,No
+Female,38,Chennai,Plumber,1.0,4.0,5-6 hours,Unhealthy,No,4,5,Yes,No
+Male,53,Vadodara,Teacher,2.0,4.0,More than 8 hours,Unhealthy,Yes,1,5,No,No
+Male,59,Visakhapatnam,Educational Consultant,3.0,3.0,Less than 5 hours,Healthy,Yes,9,3,No,No
+Male,33,Faridabad,HR Manager,4.0,1.0,More than 8 hours,Unhealthy,No,4,1,Yes,No
+Male,52,Delhi,Entrepreneur,4.0,1.0,5-6 hours,Unhealthy,No,8,5,Yes,No
+Female,58,Varanasi,Educational Consultant,1.0,2.0,5-6 hours,Moderate,Yes,10,3,No,No
+Female,41,Agra,Researcher,5.0,1.0,More than 8 hours,Unhealthy,No,11,3,Yes,No
+Female,60,Kalyan,Research Analyst,4.0,1.0,7-8 hours,Moderate,Yes,0,2,Yes,No
+Male,57,Patna,Pilot,1.0,1.0,7-8 hours,Moderate,No,1,3,No,No
+Female,35,Ahmedabad,Teacher,3.0,3.0,5-6 hours,Healthy,Yes,8,3,Yes,No
+Male,27,Meerut,Sales Executive,5.0,2.0,5-6 hours,Healthy,No,3,2,Yes,No
+Female,35,Rajkot,Software Engineer,1.0,4.0,More than 8 hours,Moderate,No,9,2,Yes,No
+Male,51,Vadodara,Teacher,3.0,4.0,More than 8 hours,Moderate,Yes,9,5,No,No
+Female,19,Meerut,Teacher,3.0,2.0,Less than 5 hours,Healthy,Yes,3,5,No,Yes
+Female,50,Ahmedabad,Customer Support,5.0,2.0,More than 8 hours,Moderate,No,10,5,Yes,No
+Female,37,Pune,Software Engineer,4.0,5.0,More than 8 hours,Unhealthy,No,9,2,No,No
+Male,34,Meerut,Entrepreneur,1.0,4.0,7-8 hours,Healthy,No,3,4,No,No
+Female,43,Hyderabad,Content Writer,2.0,3.0,Less than 5 hours,Moderate,No,1,1,Yes,No
+Male,47,Kolkata,Lawyer,1.0,1.0,Less than 5 hours,Healthy,No,1,3,No,No
+Male,51,Faridabad,Content Writer,1.0,1.0,More than 8 hours,Unhealthy,Yes,12,1,Yes,No
+Female,23,Patna,Data Scientist,1.0,5.0,5-6 hours,Healthy,No,11,4,No,No
+Male,53,Meerut,HR Manager,4.0,5.0,7-8 hours,Healthy,No,11,2,No,No
+Female,57,Vasai-Virar,Chef,4.0,1.0,7-8 hours,Unhealthy,No,6,5,No,No
+Male,47,Faridabad,Consultant,1.0,2.0,5-6 hours,Unhealthy,Yes,3,5,Yes,No
+Female,55,Indore,Content Writer,1.0,4.0,More than 8 hours,Moderate,No,5,3,No,No
+Male,53,Vasai-Virar,Teacher,1.0,5.0,7-8 hours,Healthy,Yes,0,2,No,No
+Male,59,Ludhiana,Sales Executive,2.0,1.0,5-6 hours,Unhealthy,Yes,10,4,No,No
+Female,50,Kalyan,Entrepreneur,2.0,5.0,7-8 hours,Unhealthy,No,4,2,Yes,No
+Male,28,Ludhiana,Educational Consultant,2.0,5.0,More than 8 hours,Healthy,No,5,3,Yes,No
+Female,36,Ahmedabad,Travel Consultant,3.0,5.0,5-6 hours,Unhealthy,No,12,5,Yes,No
+Male,59,Jaipur,Educational Consultant,5.0,1.0,7-8 hours,Unhealthy,Yes,11,3,Yes,No
+Female,56,Indore,Entrepreneur,2.0,3.0,5-6 hours,Healthy,No,9,3,Yes,No
+Male,26,Thane,HR Manager,5.0,2.0,7-8 hours,Unhealthy,Yes,7,1,No,Yes
+Male,55,Bhopal,Teacher,5.0,2.0,7-8 hours,Moderate,No,11,1,Yes,No
+Female,39,Meerut,Finanancial Analyst,3.0,3.0,Less than 5 hours,Moderate,Yes,11,2,Yes,No
+Male,43,Ghaziabad,Teacher,4.0,2.0,More than 8 hours,Unhealthy,Yes,2,1,No,No
+Male,35,Kanpur,Researcher,2.0,3.0,Less than 5 hours,Unhealthy,No,2,5,No,No
+Female,40,Ahmedabad,Plumber,2.0,5.0,More than 8 hours,Healthy,No,10,5,Yes,No
+Female,49,Pune,Pharmacist,2.0,2.0,7-8 hours,Unhealthy,No,3,1,Yes,No
+Male,46,Kanpur,Teacher,4.0,2.0,More than 8 hours,Healthy,Yes,1,4,Yes,No
+Male,21,Faridabad,Consultant,4.0,2.0,7-8 hours,Healthy,No,11,4,Yes,Yes
+Female,21,Srinagar,Architect,5.0,2.0,Less than 5 hours,Unhealthy,Yes,3,3,Yes,Yes
+Female,53,Indore,Chef,1.0,1.0,More than 8 hours,Healthy,No,11,3,Yes,No
+Male,25,Ahmedabad,Mechanical Engineer,5.0,2.0,More than 8 hours,Healthy,Yes,12,1,No,Yes
+Male,28,Bhopal,Chemist,4.0,2.0,7-8 hours,Healthy,No,2,3,Yes,No
+Female,48,Rajkot,Teacher,5.0,5.0,Less than 5 hours,Unhealthy,No,11,5,No,No
+Female,46,Vasai-Virar,Chemist,5.0,3.0,7-8 hours,Healthy,No,1,4,Yes,No
+Male,29,Pune,Chemist,1.0,5.0,Less than 5 hours,Moderate,Yes,6,3,Yes,No
+Female,35,Delhi,Customer Support,4.0,1.0,Less than 5 hours,Healthy,No,8,2,No,No
+Male,50,Surat,Architect,1.0,2.0,5-6 hours,Moderate,Yes,7,5,Yes,No
+Male,31,Indore,Teacher,4.0,3.0,Less than 5 hours,Unhealthy,Yes,12,5,Yes,Yes
+Female,37,Ghaziabad,Architect,3.0,2.0,5-6 hours,Unhealthy,Yes,12,5,No,Yes
+Male,60,Chennai,Mechanical Engineer,4.0,1.0,7-8 hours,Healthy,Yes,4,3,No,No
+Female,40,Kanpur,Finanancial Analyst,2.0,1.0,7-8 hours,Healthy,No,0,3,No,No
+Female,34,Kolkata,Chef,3.0,1.0,Less than 5 hours,Unhealthy,No,11,1,Yes,No
+Male,56,Nashik,Customer Support,3.0,2.0,7-8 hours,Healthy,No,1,5,Yes,No
+Male,36,Ahmedabad,Teacher,2.0,5.0,7-8 hours,Moderate,Yes,5,1,No,No
+Male,49,Faridabad,Civil Engineer,2.0,2.0,Less than 5 hours,Healthy,No,10,2,Yes,No
+Female,50,Lucknow,Doctor,4.0,4.0,5-6 hours,Unhealthy,No,10,1,Yes,No
+Female,48,Faridabad,Manager,1.0,5.0,Less than 5 hours,Moderate,No,10,1,Yes,No
+Female,42,Meerut,Travel Consultant,1.0,2.0,5-6 hours,Moderate,Yes,5,2,Yes,No
+Male,45,Srinagar,Teacher,4.0,4.0,More than 8 hours,Healthy,No,6,1,Yes,No
+Female,27,Kalyan,HR Manager,5.0,5.0,Less than 5 hours,Moderate,Yes,7,3,Yes,Yes
+Male,18,Rajkot,Teacher,1.0,4.0,More than 8 hours,Moderate,Yes,10,4,Yes,Yes
+Female,36,Pune,Software Engineer,2.0,3.0,Less than 5 hours,Healthy,No,7,5,Yes,No
+Female,54,Agra,Content Writer,4.0,2.0,7-8 hours,Healthy,Yes,11,2,No,No
+Male,46,Chennai,Researcher,3.0,2.0,Less than 5 hours,Healthy,Yes,0,1,Yes,No
+Male,47,Kolkata,Civil Engineer,1.0,1.0,7-8 hours,Moderate,No,11,3,Yes,No
+Male,40,Mumbai,Electrician,4.0,2.0,7-8 hours,Unhealthy,No,6,3,Yes,No
+Female,44,Patna,Teacher,4.0,5.0,More than 8 hours,Unhealthy,No,3,5,No,No
+Male,53,Kalyan,Data Scientist,4.0,5.0,Less than 5 hours,Unhealthy,No,1,5,No,No
+Female,54,Thane,HR Manager,5.0,4.0,Less than 5 hours,Unhealthy,Yes,3,1,Yes,No
+Male,57,Bangalore,Doctor,5.0,4.0,7-8 hours,Healthy,No,2,1,No,No
+Male,47,Varanasi,Content Writer,1.0,3.0,More than 8 hours,Healthy,Yes,3,4,Yes,No
+Male,35,Visakhapatnam,HR Manager,2.0,3.0,More than 8 hours,Healthy,No,10,2,Yes,No
+Female,26,Varanasi,Civil Engineer,2.0,4.0,More than 8 hours,Healthy,Yes,8,4,Yes,No
+Female,35,Vasai-Virar,Chemist,2.0,5.0,Less than 5 hours,Moderate,Yes,10,1,No,No
+Female,59,Jaipur,Chemist,5.0,1.0,More than 8 hours,Unhealthy,Yes,8,1,No,No
+Female,57,Vasai-Virar,Doctor,5.0,5.0,5-6 hours,Unhealthy,Yes,12,4,Yes,No
+Male,46,Ghaziabad,Chef,1.0,3.0,7-8 hours,Moderate,Yes,8,4,Yes,No
+Male,38,Kolkata,Architect,4.0,4.0,7-8 hours,Moderate,No,1,4,No,No
+Female,49,Mumbai,Lawyer,1.0,5.0,Less than 5 hours,Moderate,Yes,12,2,Yes,No
+Female,42,Faridabad,Content Writer,4.0,4.0,7-8 hours,Unhealthy,Yes,9,1,No,No
+Male,24,Ghaziabad,Architect,1.0,5.0,7-8 hours,Unhealthy,No,2,3,No,No
+Female,23,Srinagar,Sales Executive,5.0,3.0,5-6 hours,Moderate,No,9,4,No,Yes
+Female,36,Vasai-Virar,Electrician,5.0,4.0,5-6 hours,Healthy,Yes,4,5,No,No
+Male,50,Nashik,Doctor,2.0,1.0,More than 8 hours,Moderate,Yes,4,2,No,No
+Male,48,Lucknow,Digital Marketer,2.0,4.0,More than 8 hours,Unhealthy,Yes,7,2,Yes,No
+Female,47,Visakhapatnam,Chef,1.0,1.0,Less than 5 hours,Moderate,Yes,5,5,Yes,No
+Male,42,Srinagar,Researcher,4.0,4.0,More than 8 hours,Unhealthy,No,9,1,No,No
+Female,47,Thane,Chemist,3.0,3.0,7-8 hours,Moderate,No,6,3,Yes,No
+Female,42,Bhopal,Content Writer,4.0,1.0,5-6 hours,Healthy,Yes,9,2,Yes,No
+Male,35,Rajkot,Teacher,3.0,1.0,More than 8 hours,Unhealthy,No,0,2,Yes,No
+Female,20,Thane,Teacher,5.0,5.0,More than 8 hours,Healthy,Yes,5,5,No,Yes
+Male,18,Vasai-Virar,Teacher,4.0,5.0,Less than 5 hours,Healthy,Yes,10,3,No,Yes
+Female,28,Srinagar,Business Analyst,4.0,2.0,Less than 5 hours,Unhealthy,Yes,4,4,No,Yes
+Female,50,Kalyan,Teacher,3.0,4.0,7-8 hours,Unhealthy,Yes,1,3,No,No
+Male,26,Hyderabad,Financial Analyst,5.0,1.0,More than 8 hours,Healthy,Yes,11,2,No,Yes
+Male,54,Patna,Customer Support,2.0,1.0,5-6 hours,Moderate,No,1,1,No,No
+Female,24,Nashik,Consultant,4.0,5.0,5-6 hours,Healthy,Yes,11,5,Yes,Yes
+Male,50,Agra,Entrepreneur,2.0,5.0,More than 8 hours,Healthy,No,11,5,No,No
+Female,43,Patna,Content Writer,3.0,2.0,Less than 5 hours,Healthy,Yes,9,3,Yes,No
+Male,57,Chennai,Finanancial Analyst,2.0,1.0,More than 8 hours,Healthy,No,2,4,No,No
+Female,27,Chennai,Mechanical Engineer,4.0,2.0,7-8 hours,Unhealthy,Yes,10,5,No,Yes
+Male,58,Hyderabad,Content Writer,2.0,4.0,5-6 hours,Healthy,No,7,3,No,No
+Female,58,Vadodara,Teacher,3.0,1.0,5-6 hours,Unhealthy,No,1,4,Yes,No
+Female,57,Kalyan,Accountant,3.0,3.0,5-6 hours,Moderate,Yes,9,2,No,No
+Male,38,Chennai,Teacher,4.0,5.0,5-6 hours,Moderate,Yes,8,2,Yes,No
+Female,29,Vadodara,Pharmacist,4.0,5.0,More than 8 hours,Moderate,No,1,3,No,No
+Male,32,Nashik,Pharmacist,1.0,3.0,Less than 5 hours,Healthy,Yes,0,3,No,No
+Female,46,Agra,Research Analyst,3.0,2.0,More than 8 hours,Healthy,No,7,4,Yes,No
+Female,51,Meerut,Civil Engineer,4.0,4.0,5-6 hours,Moderate,No,3,3,No,No
+Female,35,Nagpur,HR Manager,1.0,3.0,More than 8 hours,Moderate,Yes,11,1,Yes,No
+Male,41,Bhopal,Teacher,1.0,1.0,5-6 hours,Unhealthy,No,5,2,Yes,No
+Male,60,Varanasi,Doctor,2.0,1.0,7-8 hours,Healthy,Yes,12,1,No,No
+Female,45,Hyderabad,Chemist,5.0,1.0,More than 8 hours,Moderate,Yes,8,3,No,No
+Female,34,Ludhiana,Teacher,2.0,1.0,More than 8 hours,Unhealthy,No,3,2,No,No
+Female,48,Hyderabad,Lawyer,3.0,4.0,More than 8 hours,Moderate,Yes,2,4,Yes,No
+Male,56,Meerut,Manager,1.0,4.0,More than 8 hours,Unhealthy,No,8,3,Yes,No
+Male,47,Indore,Chemist,1.0,2.0,More than 8 hours,Healthy,No,11,4,No,No
+Male,55,Lucknow,Teacher,3.0,3.0,More than 8 hours,Unhealthy,Yes,10,4,No,No
+Male,43,Pune,Manager,2.0,4.0,5-6 hours,Unhealthy,No,12,4,No,No
+Male,60,Ludhiana,Manager,4.0,1.0,More than 8 hours,Healthy,No,1,5,No,No
+Female,50,Surat,Customer Support,2.0,4.0,More than 8 hours,Healthy,Yes,12,1,Yes,No
+Female,45,Ghaziabad,Teacher,2.0,1.0,7-8 hours,Moderate,No,1,5,No,No
+Female,38,Patna,Architect,1.0,2.0,7-8 hours,Healthy,Yes,5,2,Yes,No
+Male,47,Lucknow,Mechanical Engineer,5.0,1.0,More than 8 hours,Unhealthy,Yes,10,4,No,Yes
+Female,59,Ludhiana,Digital Marketer,5.0,5.0,More than 8 hours,Unhealthy,No,9,1,Yes,No
+Female,47,Nashik,Doctor,1.0,4.0,5-6 hours,Healthy,No,7,2,Yes,No
+Female,33,Mumbai,Content Writer,1.0,1.0,More than 8 hours,Moderate,Yes,3,4,Yes,No
+Female,22,Vasai-Virar,Electrician,1.0,4.0,More than 8 hours,Healthy,No,8,4,No,No
+Female,51,Vasai-Virar,Teacher,3.0,1.0,5-6 hours,Unhealthy,Yes,7,2,Yes,No
+Male,58,Meerut,Consultant,4.0,5.0,Less than 5 hours,Moderate,Yes,4,2,No,No
+Male,38,Meerut,Teacher,3.0,2.0,7-8 hours,Moderate,No,5,2,No,No
+Female,22,Srinagar,Digital Marketer,3.0,4.0,7-8 hours,Healthy,Yes,2,4,No,No
+Female,34,Patna,Teacher,5.0,2.0,Less than 5 hours,Moderate,Yes,0,5,No,Yes
+Female,53,Ahmedabad,Teacher,1.0,5.0,5-6 hours,Unhealthy,No,5,5,Yes,No
+Female,48,Meerut,Business Analyst,2.0,5.0,More than 8 hours,Moderate,Yes,0,2,No,No
+Male,39,Ghaziabad,HR Manager,5.0,1.0,Less than 5 hours,Unhealthy,No,4,3,Yes,No
+Female,43,Vadodara,Consultant,4.0,3.0,Less than 5 hours,Moderate,No,1,5,Yes,No
+Male,41,Ghaziabad,Plumber,4.0,5.0,7-8 hours,Moderate,Yes,2,2,No,No
+Male,33,Mumbai,Judge,4.0,3.0,5-6 hours,Moderate,No,8,2,No,No
+Male,52,Indore,Lawyer,1.0,3.0,7-8 hours,Moderate,No,11,1,Yes,No
+Male,43,Faridabad,Civil Engineer,3.0,2.0,5-6 hours,Healthy,No,7,4,Yes,No
+Male,60,Ahmedabad,Consultant,2.0,3.0,7-8 hours,Moderate,Yes,12,4,Yes,No
+Male,21,Thane,Marketing Manager,3.0,4.0,Less than 5 hours,Unhealthy,Yes,3,1,No,No
+Female,22,Thane,Educational Consultant,5.0,1.0,Less than 5 hours,Moderate,Yes,9,5,Yes,Yes
+Female,42,Lucknow,Chef,5.0,2.0,More than 8 hours,Unhealthy,Yes,1,3,Yes,No
+Male,40,Varanasi,Judge,2.0,5.0,7-8 hours,Healthy,Yes,8,1,No,No
+Male,50,Visakhapatnam,Lawyer,5.0,1.0,More than 8 hours,Unhealthy,Yes,10,5,Yes,Yes
+Male,29,Rajkot,Teacher,3.0,1.0,7-8 hours,Moderate,Yes,4,1,No,No
+Female,18,Indore,Teacher,2.0,1.0,Less than 5 hours,Unhealthy,Yes,12,4,No,Yes
+Male,37,Indore,Pharmacist,2.0,3.0,More than 8 hours,Moderate,No,9,2,No,No
+Male,29,Jaipur,Doctor,5.0,5.0,5-6 hours,Healthy,No,11,3,Yes,No
+Female,25,Pune,Data Scientist,5.0,4.0,Less than 5 hours,Unhealthy,Yes,1,2,Yes,Yes
+Male,35,Nashik,HR Manager,1.0,5.0,7-8 hours,Healthy,No,8,3,No,No
+Female,57,Chennai,Architect,4.0,5.0,More than 8 hours,Moderate,No,11,5,No,No
+Male,29,Vasai-Virar,HR Manager,1.0,1.0,More than 8 hours,Unhealthy,No,5,5,Yes,No
+Male,29,Kanpur,Electrician,3.0,1.0,Less than 5 hours,Healthy,Yes,11,1,Yes,Yes
+Female,44,Kalyan,Travel Consultant,1.0,4.0,More than 8 hours,Healthy,No,5,5,Yes,No
+Female,41,Bangalore,Doctor,3.0,3.0,Less than 5 hours,Moderate,Yes,4,4,No,No
+Female,56,Faridabad,Digital Marketer,2.0,4.0,7-8 hours,Unhealthy,Yes,11,4,No,No
+Male,36,Kolkata,Sales Executive,2.0,1.0,5-6 hours,Unhealthy,No,4,1,No,No
+Male,27,Kalyan,Teacher,2.0,1.0,7-8 hours,Healthy,Yes,0,4,No,No
+Female,50,Meerut,Teacher,3.0,3.0,7-8 hours,Unhealthy,No,11,5,Yes,No
+Female,48,Visakhapatnam,Architect,1.0,2.0,7-8 hours,Moderate,No,6,5,No,No
+Female,29,Jaipur,Teacher,2.0,3.0,Less than 5 hours,Moderate,Yes,2,5,No,No
+Female,36,Meerut,UX/UI Designer,1.0,3.0,7-8 hours,Healthy,Yes,9,4,Yes,No
+Male,21,Thane,Manager,5.0,3.0,7-8 hours,Moderate,Yes,10,5,No,Yes
+Male,41,Ludhiana,Pharmacist,4.0,4.0,7-8 hours,Healthy,No,4,1,Yes,No
+Male,40,Lucknow,Chef,5.0,4.0,5-6 hours,Unhealthy,No,7,5,No,No
+Male,56,Srinagar,Pharmacist,2.0,2.0,7-8 hours,Moderate,Yes,10,5,Yes,No
+Female,25,Chennai,HR Manager,2.0,4.0,Less than 5 hours,Healthy,Yes,2,1,Yes,No
+Male,41,Ludhiana,Consultant,2.0,3.0,5-6 hours,Unhealthy,No,1,1,No,No
+Male,25,Jaipur,Manager,3.0,1.0,More than 8 hours,Moderate,No,9,3,No,No
+Male,58,Varanasi,Content Writer,2.0,3.0,7-8 hours,Unhealthy,Yes,12,1,No,No
+Male,40,Srinagar,Architect,4.0,3.0,7-8 hours,Unhealthy,Yes,6,2,Yes,No
+Female,59,Chennai,Doctor,5.0,5.0,Less than 5 hours,Moderate,No,3,3,No,No
+Male,23,Kalyan,Teacher,4.0,1.0,7-8 hours,Unhealthy,No,1,2,No,No
+Female,38,Faridabad,Teacher,4.0,5.0,Less than 5 hours,Moderate,Yes,5,3,Yes,No
+Female,47,Hyderabad,Teacher,5.0,1.0,7-8 hours,Unhealthy,Yes,8,4,Yes,Yes
+Female,28,Kalyan,Architect,1.0,5.0,More than 8 hours,Unhealthy,Yes,12,5,Yes,No
+Female,37,Patna,Electrician,1.0,4.0,7-8 hours,Healthy,Yes,11,2,No,No
+Female,44,Hyderabad,Civil Engineer,5.0,3.0,More than 8 hours,Moderate,No,10,2,Yes,No
+Male,38,Vadodara,Data Scientist,5.0,3.0,More than 8 hours,Healthy,Yes,7,5,Yes,Yes
+Female,50,Vadodara,Software Engineer,5.0,3.0,5-6 hours,Healthy,No,1,4,No,No
+Male,26,Hyderabad,Lawyer,3.0,5.0,More than 8 hours,Moderate,No,11,5,Yes,No
+Female,42,Surat,Researcher,5.0,5.0,Less than 5 hours,Moderate,Yes,0,1,Yes,No
+Male,49,Rajkot,Plumber,1.0,3.0,5-6 hours,Unhealthy,No,2,4,No,No
+Female,39,Vadodara,Pilot,4.0,4.0,Less than 5 hours,Moderate,No,7,3,Yes,No
+Male,49,Pune,Finanancial Analyst,5.0,5.0,More than 8 hours,Moderate,No,7,1,No,No
+Female,44,Nashik,Travel Consultant,2.0,2.0,Less than 5 hours,Healthy,Yes,9,4,Yes,No
+Male,41,Nashik,Pharmacist,1.0,1.0,More than 8 hours,Unhealthy,No,11,5,Yes,No
+Male,45,Bhopal,Entrepreneur,4.0,2.0,Less than 5 hours,Healthy,Yes,7,2,Yes,No
+Male,47,Rajkot,Architect,1.0,3.0,7-8 hours,Healthy,Yes,1,4,Yes,No
+Female,37,Ludhiana,Travel Consultant,4.0,5.0,5-6 hours,Healthy,No,1,2,No,No
+Female,44,Ludhiana,Content Writer,2.0,1.0,More than 8 hours,Healthy,Yes,4,3,Yes,No
+Male,42,Hyderabad,Architect,1.0,2.0,Less than 5 hours,Healthy,No,4,4,No,No
+Female,26,Indore,Chemist,1.0,2.0,Less than 5 hours,Moderate,No,1,1,Yes,No
+Male,41,Delhi,Teacher,5.0,2.0,Less than 5 hours,Moderate,No,7,1,Yes,No
+Female,55,Meerut,Finanancial Analyst,5.0,5.0,7-8 hours,Healthy,No,10,4,Yes,No
+Female,18,Ludhiana,Teacher,4.0,2.0,Less than 5 hours,Unhealthy,Yes,7,1,Yes,Yes
+Female,52,Ludhiana,Manager,2.0,2.0,More than 8 hours,Unhealthy,Yes,10,4,No,No
+Male,23,Pune,Plumber,1.0,5.0,7-8 hours,Healthy,No,6,2,Yes,No
+Female,53,Mumbai,Teacher,4.0,3.0,7-8 hours,Unhealthy,Yes,11,2,Yes,No
+Female,41,Kalyan,Teacher,4.0,2.0,7-8 hours,Unhealthy,Yes,1,4,No,No
+Female,59,Vadodara,Doctor,2.0,4.0,5-6 hours,Unhealthy,Yes,9,1,Yes,No
+Male,59,Bhopal,HR Manager,2.0,3.0,Less than 5 hours,Healthy,Yes,1,4,Yes,No
+Male,25,Agra,Customer Support,3.0,2.0,5-6 hours,Unhealthy,No,0,2,No,No
+Male,46,Patna,Pilot,4.0,5.0,5-6 hours,Healthy,No,6,5,No,No
+Male,34,Patna,HR Manager,4.0,4.0,5-6 hours,Unhealthy,Yes,10,5,No,Yes
+Male,33,Vadodara,Teacher,3.0,1.0,7-8 hours,Healthy,No,3,3,No,No
+Male,54,Delhi,Judge,3.0,3.0,Less than 5 hours,Unhealthy,No,11,4,Yes,No
+Female,59,Srinagar,Electrician,5.0,4.0,5-6 hours,Healthy,Yes,7,4,Yes,No
+Female,56,Hyderabad,Doctor,5.0,4.0,Less than 5 hours,Unhealthy,No,10,5,Yes,No
+Male,36,Rajkot,Pharmacist,3.0,4.0,7-8 hours,Unhealthy,No,6,3,Yes,No
+Male,56,Vadodara,Business Analyst,3.0,4.0,Less than 5 hours,Unhealthy,Yes,4,1,Yes,No
+Female,48,Chennai,Civil Engineer,3.0,1.0,7-8 hours,Moderate,Yes,2,1,Yes,No
+Female,47,Vasai-Virar,Architect,4.0,5.0,More than 8 hours,Healthy,Yes,2,2,No,No
+Male,36,Indore,UX/UI Designer,2.0,5.0,Less than 5 hours,Healthy,Yes,6,2,Yes,No
+Male,29,Srinagar,Plumber,1.0,1.0,More than 8 hours,Moderate,Yes,3,2,Yes,No
+Female,57,Thane,Business Analyst,1.0,4.0,Less than 5 hours,Healthy,Yes,10,1,No,No
+Male,38,Faridabad,Doctor,3.0,5.0,5-6 hours,Moderate,No,8,4,No,No
+Male,51,Chennai,Investment Banker,5.0,1.0,5-6 hours,Moderate,Yes,4,3,No,No
+Female,47,Kolkata,Consultant,3.0,2.0,7-8 hours,Healthy,No,3,2,No,No
+Female,19,Bangalore,Teacher,1.0,2.0,5-6 hours,Moderate,Yes,6,5,No,Yes
+Male,37,Kalyan,Accountant,4.0,4.0,Less than 5 hours,Healthy,No,7,4,Yes,No
+Male,55,Patna,Teacher,3.0,2.0,Less than 5 hours,Unhealthy,No,11,4,Yes,No
+Male,23,Agra,Digital Marketer,5.0,4.0,Less than 5 hours,Healthy,Yes,1,1,No,No
+Male,19,Srinagar,Teacher,1.0,5.0,More than 8 hours,Unhealthy,Yes,7,2,No,No
+Female,46,Kanpur,Content Writer,4.0,4.0,More than 8 hours,Unhealthy,No,5,5,No,No
+Male,46,Ludhiana,Architect,4.0,1.0,Less than 5 hours,Moderate,Yes,5,5,Yes,Yes
+Female,52,Kolkata,Consultant,4.0,1.0,7-8 hours,Healthy,No,8,4,Yes,No
+Female,20,Patna,Teacher,3.0,1.0,More than 8 hours,Healthy,Yes,1,1,Yes,Yes
+Female,51,Patna,Pharmacist,4.0,3.0,7-8 hours,Moderate,Yes,1,4,Yes,No
+Female,19,Meerut,Teacher,4.0,4.0,More than 8 hours,Moderate,Yes,8,5,No,Yes
+Female,28,Patna,Content Writer,4.0,4.0,Less than 5 hours,Unhealthy,Yes,0,2,Yes,No
+Male,55,Jaipur,Teacher,4.0,1.0,5-6 hours,Unhealthy,No,6,2,Yes,No
+Female,38,Delhi,Electrician,1.0,4.0,Less than 5 hours,Unhealthy,No,0,2,No,No
+Female,44,Kalyan,Customer Support,1.0,4.0,7-8 hours,Unhealthy,Yes,8,1,No,No
+Male,56,Kanpur,Educational Consultant,5.0,1.0,More than 8 hours,Healthy,No,2,3,Yes,No
+Female,48,Ahmedabad,Pilot,5.0,1.0,7-8 hours,Moderate,Yes,11,5,Yes,Yes
+Female,58,Surat,Researcher,5.0,3.0,More than 8 hours,Healthy,No,4,4,Yes,No
+Female,55,Vadodara,Content Writer,2.0,4.0,More than 8 hours,Moderate,Yes,9,4,No,No
+Female,45,Bhopal,Teacher,4.0,2.0,Less than 5 hours,Moderate,No,5,4,No,No
+Female,55,Hyderabad,Chemist,3.0,5.0,5-6 hours,Unhealthy,Yes,7,1,Yes,No
+Male,27,Kanpur,Teacher,4.0,3.0,7-8 hours,Moderate,No,9,4,No,No
+Female,45,Patna,Chemist,5.0,4.0,7-8 hours,Moderate,Yes,0,5,No,No
+Female,41,Ludhiana,Business Analyst,1.0,2.0,5-6 hours,Moderate,No,0,5,Yes,No
+Male,41,Nagpur,Content Writer,3.0,4.0,7-8 hours,Healthy,No,12,4,Yes,No
+Male,58,Kolkata,Mechanical Engineer,2.0,4.0,More than 8 hours,Healthy,No,12,3,Yes,No
+Female,25,Ahmedabad,Digital Marketer,4.0,4.0,Less than 5 hours,Moderate,No,3,5,Yes,No
+Female,35,Vadodara,Researcher,1.0,1.0,7-8 hours,Moderate,Yes,7,1,Yes,No
+Male,43,Patna,Teacher,1.0,5.0,5-6 hours,Moderate,Yes,4,5,Yes,No
+Female,42,Ludhiana,Finanancial Analyst,2.0,2.0,7-8 hours,Unhealthy,No,12,5,No,No
+Male,33,Hyderabad,Doctor,5.0,1.0,7-8 hours,Healthy,No,4,3,Yes,No
+Male,38,Mumbai,Financial Analyst,1.0,4.0,More than 8 hours,Healthy,No,5,3,No,No
+Male,56,Ludhiana,Teacher,2.0,2.0,7-8 hours,Moderate,No,2,2,Yes,No
+Female,43,Visakhapatnam,Teacher,5.0,5.0,Less than 5 hours,Unhealthy,No,0,5,No,No
+Male,34,Bangalore,Customer Support,2.0,3.0,More than 8 hours,Healthy,No,8,5,Yes,No
+Female,33,Kalyan,HR Manager,4.0,2.0,7-8 hours,Unhealthy,Yes,2,1,Yes,No
+Male,30,Vasai-Virar,Judge,2.0,3.0,More than 8 hours,Healthy,Yes,8,2,No,No
+Female,60,Visakhapatnam,Sales Executive,1.0,3.0,5-6 hours,Moderate,Yes,7,3,No,No
+Female,45,Ludhiana,Educational Consultant,2.0,1.0,Less than 5 hours,Healthy,Yes,2,1,No,No
+Male,21,Nashik,Business Analyst,4.0,5.0,More than 8 hours,Unhealthy,Yes,12,5,No,Yes
+Male,41,Ghaziabad,Lawyer,4.0,4.0,5-6 hours,Moderate,No,2,5,Yes,No
+Male,25,Vasai-Virar,Software Engineer,4.0,1.0,Less than 5 hours,Unhealthy,No,4,3,No,Yes
+Male,38,Ahmedabad,Business Analyst,2.0,5.0,5-6 hours,Healthy,Yes,5,5,Yes,No
+Female,39,Ludhiana,Marketing Manager,2.0,1.0,Less than 5 hours,Unhealthy,Yes,2,2,No,No
+Female,22,Pune,Chef,3.0,4.0,7-8 hours,Unhealthy,Yes,4,5,Yes,Yes
+Male,38,Chennai,Teacher,1.0,5.0,7-8 hours,Unhealthy,Yes,3,1,Yes,No
+Male,23,Ahmedabad,Consultant,5.0,4.0,More than 8 hours,Healthy,Yes,10,2,Yes,Yes
+Male,48,Lucknow,Chef,2.0,1.0,5-6 hours,Unhealthy,No,8,3,No,No
+Male,47,Ahmedabad,Teacher,1.0,4.0,7-8 hours,Unhealthy,No,3,1,No,No
+Female,21,Bangalore,Software Engineer,5.0,5.0,More than 8 hours,Healthy,No,6,3,No,No
+Female,42,Kanpur,Plumber,1.0,2.0,More than 8 hours,Moderate,Yes,0,3,Yes,No
+Male,46,Faridabad,Architect,3.0,1.0,More than 8 hours,Unhealthy,Yes,7,5,Yes,No
+Female,56,Meerut,Pharmacist,3.0,4.0,More than 8 hours,Moderate,Yes,4,5,No,No
+Male,46,Indore,Judge,1.0,2.0,7-8 hours,Unhealthy,Yes,6,3,Yes,No
+Female,54,Srinagar,Content Writer,5.0,5.0,7-8 hours,Healthy,No,4,4,No,No
+Male,49,Bangalore,Content Writer,3.0,5.0,Less than 5 hours,Moderate,No,0,5,No,No
+Female,36,Vadodara,Teacher,1.0,4.0,More than 8 hours,Unhealthy,No,1,5,No,No
+Female,59,Varanasi,Teacher,1.0,4.0,5-6 hours,Moderate,Yes,10,3,Yes,No
+Female,43,Visakhapatnam,Pharmacist,1.0,2.0,7-8 hours,Healthy,Yes,2,1,No,No
+Male,42,Vasai-Virar,Researcher,2.0,1.0,Less than 5 hours,Unhealthy,Yes,10,4,Yes,Yes
+Male,45,Meerut,Teacher,3.0,4.0,Less than 5 hours,Moderate,No,10,3,Yes,No
+Female,41,Mumbai,Teacher,2.0,2.0,7-8 hours,Unhealthy,No,7,1,Yes,No
+Male,47,Mumbai,Pharmacist,5.0,5.0,5-6 hours,Healthy,Yes,2,4,Yes,No
+Male,29,Meerut,Architect,2.0,2.0,More than 8 hours,Unhealthy,No,9,2,No,No
+Female,57,Patna,Teacher,3.0,4.0,Less than 5 hours,Moderate,Yes,9,3,No,No
+Male,42,Agra,Teacher,4.0,4.0,More than 8 hours,Unhealthy,No,5,4,Yes,No
+Female,51,Varanasi,Teacher,5.0,3.0,Less than 5 hours,Moderate,No,2,4,Yes,No
+Female,23,Indore,Sales Executive,1.0,5.0,Less than 5 hours,Unhealthy,Yes,11,2,Yes,No
+Male,18,Kolkata,Teacher,5.0,3.0,More than 8 hours,Unhealthy,Yes,0,3,No,Yes
+Male,34,Patna,Teacher,3.0,4.0,7-8 hours,Healthy,Yes,5,3,Yes,No
+Male,33,Vasai-Virar,Teacher,5.0,2.0,7-8 hours,Unhealthy,Yes,3,2,No,Yes
+Female,44,Srinagar,Teacher,5.0,2.0,Less than 5 hours,Moderate,No,11,3,No,No
+Female,41,Kolkata,Teacher,1.0,2.0,7-8 hours,Unhealthy,Yes,6,3,Yes,No
+Male,53,Nagpur,Teacher,3.0,1.0,Less than 5 hours,Moderate,No,6,4,No,No
+Female,27,Delhi,Entrepreneur,5.0,5.0,Less than 5 hours,Healthy,Yes,1,3,No,No
+Female,53,Nagpur,Sales Executive,3.0,1.0,5-6 hours,Healthy,No,7,2,Yes,No
+Male,43,Kanpur,HR Manager,5.0,1.0,More than 8 hours,Unhealthy,Yes,8,5,Yes,Yes
+Female,26,Delhi,Plumber,2.0,5.0,More than 8 hours,Healthy,No,6,2,Yes,No
+Female,26,Ludhiana,Doctor,1.0,1.0,5-6 hours,Healthy,Yes,10,1,Yes,No
+Female,49,Delhi,Civil Engineer,5.0,5.0,Less than 5 hours,Healthy,Yes,4,1,No,No
+Male,42,Thane,Finanancial Analyst,1.0,5.0,More than 8 hours,Moderate,Yes,8,3,Yes,No
+Male,30,Surat,Graphic Designer,1.0,2.0,5-6 hours,Moderate,No,8,1,No,No
+Male,58,Meerut,Business Analyst,3.0,2.0,7-8 hours,Moderate,No,9,5,No,No
+Female,25,Vasai-Virar,Teacher,4.0,5.0,Less than 5 hours,Healthy,Yes,6,1,No,No
+Female,46,Jaipur,Judge,4.0,3.0,7-8 hours,Moderate,Yes,10,1,No,No
+Female,45,Pune,Sales Executive,1.0,1.0,Less than 5 hours,Moderate,Yes,6,3,Yes,No
+Female,22,Mumbai,Finanancial Analyst,4.0,5.0,5-6 hours,Healthy,No,1,1,Yes,No
+Male,39,Delhi,Digital Marketer,2.0,1.0,5-6 hours,Healthy,Yes,4,4,No,No
+Male,44,Vasai-Virar,Teacher,3.0,5.0,5-6 hours,Unhealthy,No,0,3,Yes,No
+Male,60,Vadodara,Business Analyst,3.0,3.0,Less than 5 hours,Moderate,Yes,1,1,Yes,No
+Male,20,Lucknow,Teacher,4.0,2.0,Less than 5 hours,Unhealthy,No,6,1,Yes,Yes
+Female,52,Ahmedabad,Pharmacist,1.0,5.0,5-6 hours,Unhealthy,Yes,10,4,Yes,No
+Male,60,Vasai-Virar,Teacher,2.0,1.0,Less than 5 hours,Healthy,Yes,1,1,Yes,No
+Male,47,Agra,Teacher,1.0,5.0,Less than 5 hours,Unhealthy,Yes,11,5,Yes,No
+Male,26,Ghaziabad,Teacher,2.0,2.0,More than 8 hours,Healthy,No,5,1,Yes,No
+Male,35,Jaipur,Teacher,2.0,4.0,Less than 5 hours,Unhealthy,Yes,8,5,Yes,Yes
+Male,50,Mumbai,HR Manager,1.0,1.0,More than 8 hours,Healthy,Yes,12,4,No,No
+Male,41,Visakhapatnam,Pharmacist,2.0,2.0,7-8 hours,Moderate,No,7,5,No,No
+Female,28,Bhopal,Educational Consultant,5.0,2.0,More than 8 hours,Unhealthy,No,6,1,Yes,No
+Male,58,Ghaziabad,Graphic Designer,2.0,2.0,7-8 hours,Unhealthy,Yes,7,4,No,No
+Male,58,Thane,Teacher,1.0,3.0,Less than 5 hours,Moderate,Yes,8,4,No,No
+Male,27,Vasai-Virar,Data Scientist,5.0,5.0,7-8 hours,Moderate,Yes,11,1,Yes,No
+Female,41,Varanasi,Digital Marketer,1.0,1.0,More than 8 hours,Moderate,Yes,0,2,No,No
+Male,44,Srinagar,Content Writer,3.0,1.0,More than 8 hours,Unhealthy,Yes,8,3,Yes,No
+Male,45,Rajkot,Chef,4.0,3.0,More than 8 hours,Unhealthy,Yes,3,2,No,No
+Male,46,Mumbai,Consultant,5.0,5.0,7-8 hours,Unhealthy,No,7,2,No,No
+Female,54,Nagpur,Finanancial Analyst,1.0,4.0,More than 8 hours,Moderate,Yes,6,3,No,No
+Male,42,Rajkot,Chef,3.0,4.0,7-8 hours,Unhealthy,No,8,4,Yes,No
+Male,49,Bhopal,Content Writer,4.0,2.0,5-6 hours,Healthy,Yes,2,4,No,No
+Male,37,Jaipur,Pilot,3.0,1.0,5-6 hours,Moderate,No,12,1,Yes,No
+Female,60,Kanpur,Teacher,1.0,1.0,5-6 hours,Unhealthy,Yes,2,1,No,No
+Male,44,Rajkot,Entrepreneur,3.0,3.0,7-8 hours,Unhealthy,Yes,5,3,Yes,No
+Female,57,Chennai,Pharmacist,5.0,4.0,Less than 5 hours,Moderate,Yes,4,1,No,No
+Male,40,Mumbai,Content Writer,5.0,3.0,7-8 hours,Unhealthy,No,5,2,Yes,No
+Male,33,Lucknow,Teacher,4.0,5.0,Less than 5 hours,Healthy,No,0,3,Yes,No
+Female,25,Agra,Doctor,4.0,3.0,7-8 hours,Moderate,No,12,5,No,No
+Male,47,Pune,Plumber,4.0,2.0,Less than 5 hours,Moderate,Yes,9,3,No,No
+Male,52,Ghaziabad,Plumber,2.0,5.0,5-6 hours,Healthy,Yes,5,3,Yes,No
+Male,28,Kolkata,Teacher,1.0,1.0,More than 8 hours,Healthy,No,12,5,No,No
+Female,28,Surat,Chef,3.0,1.0,Less than 5 hours,Healthy,Yes,7,2,No,Yes
+Male,55,Surat,Architect,4.0,5.0,More than 8 hours,Moderate,No,12,2,No,No
+Male,56,Pune,Researcher,4.0,3.0,Less than 5 hours,Healthy,Yes,10,4,Yes,No
+Female,20,Indore,Teacher,3.0,5.0,7-8 hours,Healthy,No,2,1,Yes,No
+Male,29,Faridabad,Lawyer,2.0,5.0,More than 8 hours,Healthy,No,0,2,Yes,No
+Male,49,Bangalore,Business Analyst,2.0,1.0,More than 8 hours,Unhealthy,No,2,1,No,No
+Male,48,Mumbai,Manager,4.0,1.0,Less than 5 hours,Unhealthy,No,0,4,Yes,No
+Male,47,Kolkata,Content Writer,4.0,5.0,Less than 5 hours,Unhealthy,No,9,2,Yes,No
+Female,48,Lucknow,Content Writer,1.0,4.0,Less than 5 hours,Moderate,No,2,2,No,No
+Female,54,Kanpur,UX/UI Designer,2.0,1.0,More than 8 hours,Unhealthy,Yes,10,5,No,No
+Female,60,Varanasi,Teacher,2.0,4.0,More than 8 hours,Healthy,No,3,1,Yes,No
+Male,41,Kanpur,Teacher,5.0,1.0,5-6 hours,Unhealthy,No,11,4,No,No
+Male,33,Kanpur,Teacher,2.0,1.0,5-6 hours,Healthy,Yes,5,1,No,No
+Female,49,Mumbai,Chemist,5.0,2.0,Less than 5 hours,Moderate,Yes,7,2,No,No
+Female,54,Srinagar,Pharmacist,2.0,3.0,5-6 hours,Unhealthy,No,8,5,Yes,No
+Male,20,Mumbai,Teacher,2.0,1.0,5-6 hours,Unhealthy,Yes,7,3,No,Yes
+Male,46,Delhi,Chemist,5.0,2.0,Less than 5 hours,Healthy,Yes,6,1,Yes,No
+Female,30,Nagpur,Teacher,4.0,3.0,5-6 hours,Unhealthy,No,2,4,No,No
+Female,55,Kalyan,Data Scientist,3.0,5.0,7-8 hours,Healthy,No,3,2,No,No
+Male,38,Indore,Judge,1.0,1.0,More than 8 hours,Unhealthy,No,7,2,Yes,No
+Female,39,Bhopal,Chemist,2.0,3.0,More than 8 hours,Moderate,No,3,3,No,No
+Male,36,Visakhapatnam,Pharmacist,5.0,1.0,More than 8 hours,Moderate,No,5,5,Yes,No
+Female,42,Bangalore,Consultant,2.0,4.0,7-8 hours,Moderate,Yes,9,1,No,No
+Male,42,Vasai-Virar,Pharmacist,3.0,4.0,5-6 hours,Healthy,No,5,4,No,No
+Male,52,Pune,Graphic Designer,3.0,2.0,More than 8 hours,Moderate,No,11,1,No,No
+Female,31,Rajkot,Research Analyst,4.0,2.0,Less than 5 hours,Healthy,No,10,1,Yes,No
+Female,26,Vadodara,Customer Support,5.0,4.0,7-8 hours,Healthy,No,7,4,Yes,No
+Female,36,Meerut,Pilot,4.0,1.0,Less than 5 hours,Unhealthy,No,11,2,No,No
+Male,39,Delhi,Judge,3.0,1.0,5-6 hours,Moderate,No,5,2,No,No
+Male,52,Mumbai,Pharmacist,5.0,1.0,7-8 hours,Healthy,No,7,1,No,No
+Male,21,Thane,Civil Engineer,5.0,5.0,7-8 hours,Moderate,Yes,12,2,Yes,Yes
+Male,57,Srinagar,Teacher,2.0,3.0,7-8 hours,Moderate,Yes,8,3,No,No
+Female,59,Kalyan,Consultant,4.0,1.0,7-8 hours,Moderate,No,1,1,Yes,No
+Male,59,Varanasi,HR Manager,2.0,3.0,7-8 hours,Moderate,No,9,3,No,No
+Female,56,Rajkot,Customer Support,4.0,5.0,Less than 5 hours,Healthy,Yes,7,3,No,No
+Male,56,Indore,Data Scientist,3.0,2.0,7-8 hours,Moderate,No,2,4,Yes,No
+Female,54,Ludhiana,Doctor,1.0,4.0,5-6 hours,Healthy,No,11,2,No,No
+Female,57,Faridabad,Lawyer,2.0,4.0,More than 8 hours,Moderate,No,7,4,Yes,No
+Male,53,Vasai-Virar,Lawyer,4.0,3.0,7-8 hours,Moderate,Yes,10,1,No,No
+Female,50,Kalyan,Finanancial Analyst,1.0,4.0,Less than 5 hours,Moderate,Yes,9,1,No,No
+Male,40,Vadodara,Judge,1.0,5.0,More than 8 hours,Healthy,No,9,3,No,No
+Male,35,Agra,Teacher,5.0,2.0,5-6 hours,Moderate,No,3,5,Yes,No
+Male,18,Nashik,Teacher,5.0,4.0,Less than 5 hours,Moderate,Yes,2,5,Yes,Yes
+Female,55,Nashik,Business Analyst,3.0,3.0,5-6 hours,Moderate,Yes,0,1,No,No
+Male,59,Kanpur,Pilot,1.0,2.0,7-8 hours,Moderate,No,4,2,No,No
+Female,24,Chennai,Financial Analyst,2.0,4.0,More than 8 hours,Healthy,No,8,5,No,No
+Male,34,Lucknow,Marketing Manager,4.0,2.0,7-8 hours,Unhealthy,No,12,5,No,No
+Male,42,Bangalore,Data Scientist,2.0,5.0,More than 8 hours,Healthy,Yes,11,3,No,No
+Female,41,Faridabad,Researcher,4.0,3.0,More than 8 hours,Moderate,Yes,2,2,No,No
+Male,37,Faridabad,Research Analyst,1.0,2.0,5-6 hours,Unhealthy,No,3,1,Yes,No
+Male,43,Jaipur,Teacher,2.0,4.0,Less than 5 hours,Healthy,Yes,12,5,Yes,No
+Male,41,Kalyan,Travel Consultant,4.0,2.0,5-6 hours,Moderate,No,1,3,No,No
+Male,53,Meerut,Investment Banker,2.0,1.0,Less than 5 hours,Unhealthy,Yes,6,1,No,No
+Male,45,Ludhiana,Pharmacist,5.0,4.0,5-6 hours,Moderate,Yes,9,2,No,No
+Female,53,Varanasi,Teacher,2.0,4.0,More than 8 hours,Unhealthy,No,11,1,Yes,No
+Male,53,Pune,Mechanical Engineer,5.0,4.0,5-6 hours,Moderate,Yes,2,3,No,No
+Male,47,Hyderabad,Pharmacist,2.0,1.0,7-8 hours,Moderate,Yes,9,1,Yes,No
+Male,54,Surat,Teacher,5.0,3.0,5-6 hours,Unhealthy,Yes,10,2,No,No
+Female,45,Nashik,Marketing Manager,5.0,3.0,5-6 hours,Moderate,No,6,3,Yes,No
+Female,39,Jaipur,Sales Executive,4.0,2.0,Less than 5 hours,Healthy,No,7,5,No,No
+Female,35,Varanasi,Data Scientist,3.0,3.0,5-6 hours,Unhealthy,No,5,3,Yes,No
+Female,43,Ahmedabad,Doctor,4.0,5.0,5-6 hours,Unhealthy,Yes,6,5,Yes,No
+Male,39,Chennai,Content Writer,1.0,3.0,More than 8 hours,Unhealthy,No,12,1,No,No
+Female,44,Srinagar,Marketing Manager,3.0,2.0,5-6 hours,Unhealthy,No,11,3,No,No
+Female,27,Patna,Content Writer,3.0,3.0,7-8 hours,Moderate,Yes,4,2,No,No
+Female,35,Srinagar,Content Writer,1.0,2.0,5-6 hours,Moderate,Yes,8,5,No,No
+Female,39,Jaipur,HR Manager,4.0,4.0,5-6 hours,Unhealthy,Yes,1,4,No,No
+Female,41,Bangalore,HR Manager,3.0,2.0,7-8 hours,Moderate,Yes,0,4,No,No
+Female,59,Chennai,Software Engineer,1.0,3.0,5-6 hours,Moderate,Yes,1,3,No,No
+Female,46,Rajkot,Teacher,3.0,3.0,5-6 hours,Moderate,Yes,3,1,Yes,No
+Female,52,Surat,Chef,3.0,4.0,5-6 hours,Healthy,No,7,5,No,No
+Female,33,Vasai-Virar,Data Scientist,2.0,2.0,More than 8 hours,Healthy,Yes,1,2,Yes,No
+Male,20,Meerut,Teacher,3.0,4.0,Less than 5 hours,Unhealthy,No,7,3,Yes,No
+Male,60,Mumbai,Judge,1.0,5.0,More than 8 hours,Moderate,No,12,2,No,No
+Female,36,Ludhiana,Architect,1.0,1.0,5-6 hours,Moderate,Yes,8,4,Yes,No
+Female,48,Bhopal,Lawyer,3.0,1.0,More than 8 hours,Unhealthy,No,0,3,Yes,No
+Female,34,Nagpur,Plumber,5.0,1.0,More than 8 hours,Healthy,No,5,4,No,No
+Female,27,Indore,Architect,2.0,2.0,5-6 hours,Healthy,No,6,1,No,No
+Male,56,Bhopal,Architect,2.0,5.0,More than 8 hours,Unhealthy,No,0,3,No,No
+Female,22,Pune,Teacher,5.0,2.0,7-8 hours,Moderate,Yes,4,3,No,Yes
+Female,40,Bhopal,Chef,1.0,2.0,More than 8 hours,Moderate,No,8,2,No,No
+Female,34,Bhopal,Business Analyst,3.0,4.0,5-6 hours,Moderate,No,9,5,No,No
+Male,22,Agra,HR Manager,1.0,5.0,7-8 hours,Moderate,No,0,1,Yes,No
+Male,26,Kanpur,Pilot,2.0,3.0,5-6 hours,Healthy,Yes,2,2,No,No
+Male,34,Thane,Teacher,5.0,5.0,Less than 5 hours,Healthy,Yes,9,3,No,No
+Female,54,Vadodara,Teacher,3.0,2.0,7-8 hours,Unhealthy,No,4,5,Yes,No
+Female,60,Rajkot,UX/UI Designer,4.0,5.0,More than 8 hours,Unhealthy,No,11,3,Yes,No
+Male,42,Ghaziabad,Teacher,3.0,2.0,7-8 hours,Moderate,No,8,3,Yes,No
+Male,33,Kanpur,Lawyer,4.0,3.0,7-8 hours,Healthy,Yes,2,2,No,No
+Female,60,Chennai,Teacher,5.0,1.0,Less than 5 hours,Unhealthy,No,3,1,Yes,No
+Male,47,Nagpur,Researcher,3.0,2.0,7-8 hours,Moderate,No,10,5,No,No
+Female,40,Visakhapatnam,Teacher,4.0,1.0,5-6 hours,Healthy,Yes,10,2,No,No
+Female,26,Varanasi,Architect,5.0,1.0,More than 8 hours,Unhealthy,No,0,5,Yes,Yes
+Female,57,Pune,Teacher,1.0,5.0,7-8 hours,Moderate,Yes,5,1,Yes,No
+Female,45,Meerut,Pilot,4.0,5.0,5-6 hours,Unhealthy,No,3,3,No,No
+Female,37,Pune,Chemist,1.0,2.0,More than 8 hours,Moderate,Yes,9,2,No,No
+Male,44,Faridabad,Accountant,2.0,3.0,Less than 5 hours,Healthy,No,10,5,Yes,No
+Male,40,Mumbai,Financial Analyst,5.0,2.0,7-8 hours,Unhealthy,Yes,0,2,Yes,No
+Male,51,Pune,Teacher,5.0,3.0,More than 8 hours,Moderate,No,8,4,No,No
+Female,40,Delhi,Consultant,4.0,5.0,More than 8 hours,Healthy,No,9,4,Yes,No
+Female,38,Chennai,Educational Consultant,1.0,2.0,7-8 hours,Unhealthy,Yes,7,3,No,No
+Female,28,Mumbai,Teacher,5.0,5.0,7-8 hours,Moderate,Yes,6,1,No,No
+Male,24,Faridabad,Educational Consultant,2.0,5.0,7-8 hours,Unhealthy,No,1,2,No,No
+Male,38,Hyderabad,Consultant,3.0,2.0,5-6 hours,Healthy,Yes,8,2,Yes,No
+Female,43,Vadodara,Teacher,2.0,1.0,7-8 hours,Healthy,No,7,2,No,No
+Female,50,Nagpur,Business Analyst,3.0,4.0,7-8 hours,Healthy,Yes,2,4,No,No
+Male,18,Indore,Teacher,4.0,4.0,More than 8 hours,Healthy,No,7,4,No,No
+Male,38,Srinagar,Lawyer,3.0,2.0,5-6 hours,Healthy,Yes,9,3,No,No
+Female,38,Indore,Teacher,5.0,3.0,Less than 5 hours,Moderate,Yes,7,2,No,No
+Male,34,Jaipur,Finanancial Analyst,2.0,3.0,7-8 hours,Unhealthy,Yes,1,3,No,No
+Female,51,Visakhapatnam,Sales Executive,2.0,3.0,7-8 hours,Unhealthy,Yes,10,2,Yes,No
+Male,57,Vadodara,Pharmacist,5.0,1.0,Less than 5 hours,Moderate,Yes,1,5,No,No
+Female,59,Nagpur,Content Writer,1.0,4.0,Less than 5 hours,Unhealthy,No,6,1,Yes,No
+Male,45,Indore,Teacher,1.0,3.0,7-8 hours,Moderate,No,6,2,No,No
+Male,47,Kanpur,Entrepreneur,4.0,1.0,7-8 hours,Unhealthy,Yes,5,4,No,No
+Female,36,Indore,Chemist,2.0,2.0,5-6 hours,Unhealthy,No,3,3,No,No
+Female,37,Srinagar,Chef,1.0,5.0,Less than 5 hours,Healthy,Yes,10,5,Yes,No
+Male,48,Meerut,Data Scientist,4.0,2.0,More than 8 hours,Unhealthy,No,9,4,No,No
+Female,37,Surat,Electrician,5.0,1.0,5-6 hours,Healthy,No,0,5,No,No
+Female,44,Vasai-Virar,Content Writer,3.0,4.0,Less than 5 hours,Healthy,No,2,2,Yes,No
+Female,35,Jaipur,Teacher,1.0,5.0,5-6 hours,Moderate,Yes,6,4,No,No
+Male,41,Surat,Teacher,2.0,3.0,More than 8 hours,Unhealthy,Yes,12,4,No,No
+Male,35,Ahmedabad,HR Manager,5.0,5.0,Less than 5 hours,Healthy,No,11,4,Yes,No
+Female,49,Vasai-Virar,Content Writer,5.0,2.0,5-6 hours,Unhealthy,No,7,2,No,No
+Male,50,Vadodara,UX/UI Designer,1.0,2.0,Less than 5 hours,Unhealthy,Yes,3,5,No,No
+Male,46,Lucknow,Sales Executive,4.0,1.0,7-8 hours,Unhealthy,Yes,9,2,Yes,No
+Male,56,Jaipur,Plumber,5.0,3.0,5-6 hours,Unhealthy,Yes,2,1,No,No
+Female,46,Bhopal,HR Manager,3.0,1.0,More than 8 hours,Unhealthy,Yes,12,3,Yes,No
+Male,60,Rajkot,Business Analyst,2.0,1.0,7-8 hours,Healthy,No,0,2,No,No
+Female,39,Surat,Content Writer,2.0,3.0,More than 8 hours,Healthy,No,0,2,No,No
+Male,56,Vasai-Virar,Content Writer,3.0,5.0,7-8 hours,Unhealthy,Yes,0,4,No,No
+Female,30,Hyderabad,Digital Marketer,2.0,5.0,More than 8 hours,Unhealthy,No,6,3,No,No
+Female,38,Bhopal,Chemist,4.0,3.0,Less than 5 hours,Unhealthy,Yes,3,2,No,No
+Male,51,Mumbai,HR Manager,4.0,5.0,Less than 5 hours,Unhealthy,Yes,4,4,Yes,No
+Female,49,Varanasi,Chef,2.0,2.0,Less than 5 hours,Unhealthy,No,5,5,No,No
+Male,56,Indore,Teacher,1.0,4.0,7-8 hours,Moderate,No,6,4,No,No
+Male,19,Varanasi,Teacher,1.0,5.0,More than 8 hours,Unhealthy,Yes,9,3,Yes,No
+Female,55,Visakhapatnam,Graphic Designer,1.0,5.0,5-6 hours,Healthy,Yes,6,4,Yes,No
+Female,19,Srinagar,Teacher,1.0,5.0,5-6 hours,Unhealthy,Yes,6,3,No,No
+Female,59,Jaipur,Data Scientist,4.0,4.0,Less than 5 hours,Unhealthy,Yes,6,5,Yes,No
+Male,46,Surat,Educational Consultant,1.0,1.0,7-8 hours,Unhealthy,Yes,10,1,No,No
+Male,39,Meerut,Pharmacist,5.0,2.0,7-8 hours,Unhealthy,No,6,3,No,No
+Female,35,Varanasi,Consultant,5.0,2.0,More than 8 hours,Healthy,No,10,1,Yes,No
+Female,58,Bhopal,Travel Consultant,3.0,3.0,Less than 5 hours,Moderate,No,6,2,No,No
+Male,58,Mumbai,HR Manager,5.0,4.0,More than 8 hours,Moderate,Yes,4,2,Yes,No
+Female,25,Lucknow,Business Analyst,1.0,3.0,Less than 5 hours,Moderate,Yes,9,3,Yes,Yes
+Female,47,Hyderabad,Teacher,5.0,4.0,5-6 hours,Moderate,No,7,2,No,No
+Female,57,Thane,Financial Analyst,4.0,1.0,7-8 hours,Unhealthy,Yes,11,2,No,No
+Male,47,Mumbai,Customer Support,1.0,3.0,Less than 5 hours,Moderate,Yes,2,1,Yes,No
+Male,57,Nagpur,Marketing Manager,2.0,1.0,5-6 hours,Unhealthy,Yes,3,2,Yes,No
+Female,46,Agra,Civil Engineer,3.0,1.0,Less than 5 hours,Healthy,No,3,4,No,No
+Female,38,Indore,Financial Analyst,1.0,1.0,5-6 hours,Moderate,Yes,2,1,Yes,No
+Male,56,Vasai-Virar,Pilot,3.0,4.0,Less than 5 hours,Unhealthy,Yes,0,3,Yes,No
+Male,47,Delhi,Data Scientist,3.0,1.0,Less than 5 hours,Moderate,Yes,3,3,No,No
+Male,42,Agra,Business Analyst,4.0,3.0,7-8 hours,Moderate,Yes,0,3,Yes,No
+Female,21,Varanasi,Educational Consultant,3.0,1.0,Less than 5 hours,Moderate,Yes,4,4,Yes,Yes
+Male,22,Ahmedabad,Software Engineer,1.0,3.0,Less than 5 hours,Unhealthy,Yes,7,1,No,No
+Male,48,Meerut,Travel Consultant,3.0,4.0,More than 8 hours,Healthy,Yes,5,2,No,No
+Female,27,Kalyan,Consultant,2.0,2.0,7-8 hours,Unhealthy,No,0,3,No,No
+Female,48,Faridabad,Teacher,4.0,3.0,Less than 5 hours,Unhealthy,Yes,10,2,Yes,No
+Male,56,Vadodara,Plumber,3.0,5.0,More than 8 hours,Unhealthy,No,8,3,No,No
+Female,36,Vasai-Virar,Content Writer,1.0,2.0,More than 8 hours,Healthy,Yes,7,3,Yes,No
+Female,39,Faridabad,Software Engineer,1.0,2.0,7-8 hours,Moderate,Yes,11,3,No,No
+Male,56,Rajkot,Architect,3.0,5.0,7-8 hours,Moderate,No,8,5,No,No
+Female,51,Chennai,Chef,2.0,1.0,5-6 hours,Moderate,No,4,4,Yes,No
+Female,36,Bangalore,Marketing Manager,5.0,2.0,More than 8 hours,Moderate,No,9,2,No,No
+Female,35,Lucknow,Teacher,2.0,1.0,More than 8 hours,Unhealthy,No,4,1,No,No
+Female,58,Kanpur,Graphic Designer,2.0,1.0,More than 8 hours,Unhealthy,Yes,8,2,Yes,No
+Female,48,Mumbai,Teacher,5.0,1.0,Less than 5 hours,Unhealthy,No,0,4,Yes,No
+Male,29,Kolkata,Teacher,4.0,4.0,5-6 hours,Unhealthy,No,1,1,No,No
+Female,34,Kanpur,Teacher,2.0,1.0,5-6 hours,Unhealthy,Yes,1,1,Yes,No
+Male,47,Pune,Teacher,2.0,2.0,Less than 5 hours,Healthy,No,10,3,Yes,No
+Male,45,Rajkot,Teacher,5.0,1.0,7-8 hours,Unhealthy,Yes,3,2,No,No
+Male,51,Ghaziabad,Mechanical Engineer,1.0,5.0,5-6 hours,Unhealthy,Yes,6,5,Yes,No
+Female,23,Nagpur,Teacher,2.0,1.0,7-8 hours,Healthy,No,3,2,Yes,No
+Male,49,Pune,Teacher,2.0,2.0,7-8 hours,Moderate,No,9,4,Yes,No
+Male,35,Vasai-Virar,Teacher,5.0,1.0,7-8 hours,Unhealthy,No,7,2,No,No
+Female,31,Ludhiana,Architect,1.0,5.0,7-8 hours,Unhealthy,No,12,2,Yes,No
+Male,42,Varanasi,Teacher,2.0,1.0,Less than 5 hours,Unhealthy,Yes,7,5,No,Yes
+Female,27,Chennai,Research Analyst,1.0,5.0,More than 8 hours,Moderate,Yes,5,5,No,No
+Female,37,Visakhapatnam,Teacher,4.0,4.0,Less than 5 hours,Healthy,Yes,11,2,No,No
+Male,37,Rajkot,Teacher,2.0,2.0,More than 8 hours,Healthy,No,11,1,No,No
+Female,40,Kalyan,Entrepreneur,3.0,5.0,5-6 hours,Unhealthy,Yes,3,5,No,No
+Female,51,Pune,Digital Marketer,3.0,1.0,More than 8 hours,Moderate,Yes,1,3,Yes,No
+Female,51,Faridabad,Doctor,5.0,5.0,7-8 hours,Moderate,No,1,4,Yes,No
+Male,36,Vadodara,Teacher,3.0,3.0,5-6 hours,Moderate,Yes,10,2,No,No
+Male,28,Agra,Teacher,2.0,2.0,5-6 hours,Healthy,Yes,12,5,No,Yes
+Female,55,Bangalore,Entrepreneur,4.0,1.0,5-6 hours,Unhealthy,Yes,9,1,Yes,No
+Male,21,Mumbai,Researcher,1.0,2.0,More than 8 hours,Unhealthy,No,3,4,Yes,No
+Male,40,Varanasi,Data Scientist,3.0,3.0,Less than 5 hours,Moderate,No,4,5,Yes,No
+Female,20,Visakhapatnam,Teacher,2.0,3.0,7-8 hours,Moderate,No,8,3,No,No
+Female,38,Kanpur,Business Analyst,4.0,1.0,Less than 5 hours,Unhealthy,Yes,7,5,Yes,Yes
+Male,41,Ludhiana,Content Writer,4.0,5.0,7-8 hours,Moderate,No,8,5,Yes,No
+Female,57,Nagpur,HR Manager,2.0,1.0,7-8 hours,Healthy,No,5,5,Yes,No
+Male,47,Agra,Business Analyst,2.0,4.0,More than 8 hours,Unhealthy,Yes,1,2,Yes,No
+Male,26,Thane,Pharmacist,1.0,5.0,More than 8 hours,Healthy,No,3,2,Yes,No
+Female,60,Patna,Customer Support,2.0,4.0,Less than 5 hours,Unhealthy,No,1,1,No,No
+Male,56,Bangalore,Teacher,2.0,1.0,More than 8 hours,Unhealthy,Yes,3,2,No,No
+Male,49,Srinagar,Chemist,4.0,5.0,7-8 hours,Moderate,No,5,5,No,No
+Female,27,Nashik,Entrepreneur,1.0,3.0,7-8 hours,Unhealthy,No,8,2,Yes,No
+Male,48,Lucknow,Pharmacist,2.0,4.0,More than 8 hours,Healthy,No,5,2,No,No
+Male,44,Kolkata,Chemist,2.0,4.0,Less than 5 hours,Healthy,No,10,2,No,No
+Female,35,Surat,Teacher,2.0,5.0,7-8 hours,Unhealthy,Yes,4,1,Yes,No
+Female,20,Ludhiana,Teacher,4.0,2.0,More than 8 hours,Healthy,Yes,9,2,Yes,Yes
+Male,52,Thane,Pilot,4.0,2.0,Less than 5 hours,Unhealthy,No,9,1,Yes,No
+Male,59,Bhopal,HR Manager,2.0,2.0,Less than 5 hours,Healthy,Yes,12,5,No,No
+Male,43,Surat,Civil Engineer,3.0,4.0,7-8 hours,Unhealthy,Yes,6,3,Yes,No
+Male,59,Vasai-Virar,Plumber,5.0,2.0,7-8 hours,Unhealthy,No,9,5,No,No
+Female,49,Ahmedabad,Plumber,1.0,5.0,More than 8 hours,Unhealthy,Yes,0,5,Yes,No
+Female,39,Ahmedabad,Financial Analyst,2.0,1.0,Less than 5 hours,Moderate,No,1,1,Yes,No
+Male,38,Bhopal,HR Manager,4.0,2.0,Less than 5 hours,Moderate,Yes,4,3,No,No
+Female,41,Lucknow,Teacher,3.0,4.0,5-6 hours,Unhealthy,Yes,1,4,No,No
+Male,43,Rajkot,HR Manager,1.0,1.0,Less than 5 hours,Unhealthy,No,10,3,No,No
+Male,52,Patna,Doctor,4.0,2.0,Less than 5 hours,Moderate,Yes,4,1,No,No
+Female,59,Ghaziabad,Consultant,4.0,1.0,5-6 hours,Moderate,Yes,11,4,Yes,No
+Female,34,Varanasi,Teacher,2.0,2.0,5-6 hours,Unhealthy,No,4,3,Yes,No
+Male,50,Vasai-Virar,Teacher,1.0,2.0,7-8 hours,Healthy,No,6,1,Yes,No
+Male,57,Hyderabad,Doctor,2.0,1.0,Less than 5 hours,Moderate,No,5,4,No,No
+Female,59,Ahmedabad,Mechanical Engineer,1.0,4.0,5-6 hours,Healthy,No,5,2,No,No
+Female,47,Hyderabad,Architect,2.0,5.0,5-6 hours,Unhealthy,Yes,0,5,Yes,No
+Female,21,Faridabad,Accountant,4.0,3.0,More than 8 hours,Healthy,Yes,8,4,Yes,Yes
+Female,39,Ludhiana,HR Manager,3.0,2.0,5-6 hours,Unhealthy,No,2,5,Yes,No
+Male,49,Lucknow,Teacher,1.0,3.0,More than 8 hours,Healthy,No,6,1,No,No
+Female,49,Mumbai,Teacher,4.0,1.0,5-6 hours,Moderate,Yes,4,2,Yes,No
+Female,60,Varanasi,UX/UI Designer,4.0,4.0,7-8 hours,Moderate,No,7,1,No,No
+Female,33,Ghaziabad,Business Analyst,3.0,1.0,7-8 hours,Unhealthy,No,10,1,Yes,No
+Female,47,Hyderabad,Teacher,1.0,1.0,Less than 5 hours,Unhealthy,Yes,11,1,No,No
+Female,31,Delhi,Plumber,1.0,2.0,5-6 hours,Unhealthy,No,2,2,Yes,No
+Female,28,Ghaziabad,Teacher,1.0,1.0,Less than 5 hours,Moderate,Yes,12,4,No,Yes
+Male,23,Vadodara,UX/UI Designer,5.0,1.0,Less than 5 hours,Moderate,No,1,3,No,Yes
+Female,52,Varanasi,Educational Consultant,1.0,4.0,7-8 hours,Unhealthy,Yes,12,3,Yes,No
+Female,51,Thane,Doctor,1.0,5.0,5-6 hours,Unhealthy,No,7,1,No,No
+Male,57,Pune,Teacher,1.0,3.0,Less than 5 hours,Moderate,Yes,10,4,Yes,No
+Male,40,Kanpur,Doctor,5.0,1.0,Less than 5 hours,Moderate,No,10,1,Yes,No
+Female,48,Hyderabad,Travel Consultant,5.0,2.0,Less than 5 hours,Moderate,No,1,3,Yes,No
+Male,25,Bangalore,Teacher,3.0,1.0,More than 8 hours,Moderate,No,6,3,No,No
+Male,54,Jaipur,Customer Support,4.0,2.0,Less than 5 hours,Healthy,No,12,2,No,No
+Male,36,Kanpur,Teacher,5.0,1.0,7-8 hours,Unhealthy,No,12,5,Yes,Yes
+Male,34,Kanpur,Entrepreneur,4.0,4.0,7-8 hours,Healthy,Yes,5,1,Yes,No
+Female,54,Indore,Chemist,4.0,4.0,More than 8 hours,Healthy,No,4,3,No,No
+Male,36,Agra,Researcher,1.0,4.0,7-8 hours,Unhealthy,Yes,7,5,Yes,No
+Male,53,Hyderabad,Sales Executive,4.0,1.0,Less than 5 hours,Healthy,No,7,1,Yes,No
+Female,58,Nagpur,Finanancial Analyst,5.0,4.0,7-8 hours,Moderate,No,11,4,Yes,No
+Male,37,Kalyan,Lawyer,2.0,1.0,Less than 5 hours,Moderate,Yes,11,1,No,No
+Female,46,Agra,Teacher,5.0,4.0,7-8 hours,Unhealthy,Yes,9,5,No,No
+Male,31,Rajkot,Financial Analyst,3.0,2.0,More than 8 hours,Moderate,Yes,1,5,Yes,Yes
+Male,37,Nagpur,Business Analyst,5.0,3.0,Less than 5 hours,Moderate,Yes,10,1,Yes,Yes
+Male,51,Nashik,Digital Marketer,5.0,2.0,More than 8 hours,Healthy,No,2,5,Yes,No
+Male,51,Nagpur,Educational Consultant,2.0,3.0,5-6 hours,Unhealthy,Yes,0,3,Yes,No
+Female,54,Mumbai,Travel Consultant,4.0,1.0,More than 8 hours,Moderate,No,8,3,No,No
+Male,49,Srinagar,Entrepreneur,3.0,3.0,Less than 5 hours,Moderate,Yes,11,1,Yes,No
+Male,55,Indore,Consultant,2.0,2.0,7-8 hours,Healthy,No,3,4,Yes,No
+Female,57,Mumbai,Teacher,3.0,5.0,5-6 hours,Moderate,Yes,3,3,Yes,No
+Female,53,Jaipur,Finanancial Analyst,2.0,5.0,Less than 5 hours,Healthy,No,9,5,Yes,No
+Female,29,Srinagar,Graphic Designer,4.0,2.0,7-8 hours,Unhealthy,No,11,1,Yes,No
+Female,55,Jaipur,Accountant,4.0,4.0,5-6 hours,Moderate,Yes,2,3,No,No
+Female,58,Bhopal,Marketing Manager,1.0,3.0,5-6 hours,Moderate,No,3,5,Yes,No
+Male,28,Faridabad,Lawyer,4.0,2.0,5-6 hours,Unhealthy,No,2,5,Yes,Yes
+Male,47,Patna,HR Manager,2.0,5.0,5-6 hours,Unhealthy,No,4,2,Yes,No
+Male,25,Nagpur,HR Manager,1.0,2.0,5-6 hours,Moderate,No,11,2,Yes,No
+Male,34,Hyderabad,Business Analyst,1.0,5.0,7-8 hours,Healthy,No,9,2,No,No
+Male,43,Ahmedabad,Educational Consultant,5.0,4.0,5-6 hours,Unhealthy,Yes,0,4,Yes,No
+Female,58,Chennai,Teacher,1.0,3.0,5-6 hours,Unhealthy,Yes,11,4,No,No
+Male,45,Visakhapatnam,Pharmacist,1.0,4.0,7-8 hours,Moderate,No,10,2,Yes,No
+Male,51,Indore,Accountant,5.0,4.0,5-6 hours,Unhealthy,No,8,3,No,No
+Female,56,Jaipur,Lawyer,4.0,4.0,7-8 hours,Healthy,No,6,2,No,No
+Female,49,Agra,Teacher,5.0,1.0,Less than 5 hours,Unhealthy,Yes,11,3,Yes,Yes
+Female,53,Chennai,Manager,4.0,4.0,5-6 hours,Moderate,Yes,10,3,Yes,No
+Female,47,Lucknow,Content Writer,5.0,5.0,Less than 5 hours,Moderate,No,4,2,Yes,No
+Female,32,Ludhiana,Mechanical Engineer,3.0,4.0,5-6 hours,Moderate,No,8,4,No,No
+Female,59,Kolkata,HR Manager,2.0,3.0,7-8 hours,Healthy,Yes,7,1,Yes,No
+Male,35,Bhopal,Teacher,5.0,3.0,More than 8 hours,Unhealthy,Yes,12,1,Yes,Yes
+Female,30,Faridabad,Marketing Manager,5.0,1.0,7-8 hours,Unhealthy,No,0,2,Yes,No
+Male,59,Kolkata,Content Writer,1.0,1.0,Less than 5 hours,Healthy,No,10,1,No,No
+Male,32,Chennai,Teacher,1.0,1.0,5-6 hours,Moderate,No,10,1,Yes,No
+Female,40,Meerut,Teacher,5.0,4.0,Less than 5 hours,Healthy,No,9,5,No,No
+Female,31,Ahmedabad,Content Writer,4.0,5.0,5-6 hours,Moderate,No,4,4,No,No
+Female,35,Jaipur,Manager,2.0,1.0,7-8 hours,Healthy,Yes,9,3,No,No
+Female,28,Ghaziabad,Judge,5.0,2.0,5-6 hours,Unhealthy,Yes,10,2,No,Yes
+Female,60,Thane,Content Writer,4.0,3.0,7-8 hours,Moderate,No,2,2,No,No
+Male,58,Ahmedabad,Judge,1.0,2.0,7-8 hours,Moderate,No,11,2,No,No
+Male,25,Agra,Entrepreneur,3.0,3.0,5-6 hours,Unhealthy,No,5,2,No,No
+Male,57,Mumbai,Electrician,3.0,1.0,7-8 hours,Unhealthy,No,2,5,No,No
+Male,54,Kanpur,HR Manager,3.0,3.0,7-8 hours,Healthy,No,2,5,No,No
+Female,59,Nagpur,Educational Consultant,5.0,3.0,7-8 hours,Unhealthy,Yes,8,4,No,No
+Male,49,Surat,Teacher,2.0,5.0,More than 8 hours,Moderate,Yes,6,2,No,No
+Female,55,Vadodara,HR Manager,5.0,3.0,5-6 hours,Moderate,Yes,3,3,Yes,No
+Female,31,Ahmedabad,Teacher,1.0,3.0,More than 8 hours,Moderate,No,12,2,No,No
+Male,52,Indore,Accountant,1.0,3.0,7-8 hours,Unhealthy,Yes,5,1,No,No
+Male,42,Patna,Lawyer,3.0,1.0,7-8 hours,Moderate,No,1,4,Yes,No
+Female,47,Mumbai,Judge,5.0,4.0,7-8 hours,Healthy,No,0,4,Yes,No
+Male,46,Varanasi,Electrician,3.0,4.0,5-6 hours,Unhealthy,No,7,4,Yes,No
+Female,43,Kalyan,Chef,5.0,2.0,Less than 5 hours,Healthy,Yes,6,1,Yes,No
+Male,18,Bhopal,Teacher,5.0,4.0,5-6 hours,Moderate,No,11,2,Yes,Yes
+Male,45,Varanasi,Teacher,5.0,4.0,5-6 hours,Moderate,Yes,2,2,No,No
+Female,43,Visakhapatnam,Business Analyst,2.0,2.0,Less than 5 hours,Unhealthy,Yes,12,1,No,No
+Male,44,Bhopal,Content Writer,2.0,4.0,7-8 hours,Unhealthy,No,6,2,Yes,No
+Female,18,Vadodara,Teacher,1.0,1.0,5-6 hours,Healthy,Yes,7,2,Yes,Yes
+Male,54,Bangalore,Travel Consultant,1.0,3.0,5-6 hours,Unhealthy,No,12,5,Yes,No
+Male,34,Srinagar,Teacher,2.0,2.0,7-8 hours,Unhealthy,Yes,8,3,Yes,No
+Female,51,Chennai,Chemist,5.0,5.0,5-6 hours,Moderate,No,12,1,Yes,No
+Male,39,Lucknow,Architect,5.0,5.0,More than 8 hours,Unhealthy,Yes,4,4,No,No
+Female,35,Srinagar,Teacher,3.0,2.0,7-8 hours,Healthy,Yes,9,3,Yes,No
+Female,40,Vasai-Virar,Entrepreneur,4.0,5.0,7-8 hours,Moderate,Yes,8,1,Yes,No
+Female,51,Kolkata,Sales Executive,4.0,5.0,More than 8 hours,Moderate,Yes,2,3,Yes,No
+Male,28,Mumbai,Doctor,1.0,2.0,More than 8 hours,Unhealthy,Yes,10,3,No,No
+Female,48,Ludhiana,Digital Marketer,1.0,4.0,7-8 hours,Unhealthy,No,3,1,Yes,No
+Female,58,Nashik,Financial Analyst,4.0,2.0,Less than 5 hours,Unhealthy,No,5,3,No,No
+Female,49,Vasai-Virar,Pharmacist,2.0,3.0,More than 8 hours,Healthy,Yes,12,2,Yes,No
+Female,29,Delhi,Researcher,5.0,3.0,More than 8 hours,Unhealthy,Yes,7,4,No,Yes
+Male,20,Thane,Teacher,4.0,3.0,More than 8 hours,Healthy,No,0,3,Yes,No
+Male,43,Jaipur,Software Engineer,5.0,5.0,5-6 hours,Healthy,Yes,9,5,No,No
+Female,34,Ahmedabad,Lawyer,2.0,5.0,5-6 hours,Healthy,Yes,5,4,Yes,No
+Female,29,Rajkot,HR Manager,4.0,2.0,7-8 hours,Moderate,Yes,10,2,Yes,Yes
+Female,27,Kanpur,Chef,2.0,5.0,Less than 5 hours,Healthy,Yes,5,1,Yes,No
+Male,18,Thane,Teacher,4.0,4.0,5-6 hours,Unhealthy,No,10,5,No,Yes
+Female,39,Nagpur,Digital Marketer,5.0,2.0,7-8 hours,Unhealthy,Yes,2,2,Yes,No
+Male,50,Nagpur,Manager,4.0,5.0,More than 8 hours,Moderate,No,4,2,Yes,No
+Female,53,Ludhiana,HR Manager,5.0,1.0,7-8 hours,Unhealthy,No,5,2,Yes,No
+Male,57,Nashik,UX/UI Designer,4.0,3.0,More than 8 hours,Moderate,Yes,12,4,Yes,No
+Male,30,Delhi,Electrician,3.0,1.0,7-8 hours,Healthy,No,7,3,Yes,No
+Female,47,Bhopal,Lawyer,2.0,2.0,5-6 hours,Healthy,No,4,1,No,No
+Male,54,Visakhapatnam,Finanancial Analyst,1.0,1.0,7-8 hours,Healthy,Yes,3,5,Yes,No
+Male,29,Ghaziabad,Entrepreneur,5.0,3.0,More than 8 hours,Healthy,Yes,4,1,No,No
+Male,50,Agra,Chef,3.0,3.0,More than 8 hours,Healthy,Yes,7,4,No,No
+Male,54,Meerut,Teacher,5.0,1.0,Less than 5 hours,Moderate,No,0,4,Yes,No
+Female,60,Srinagar,Consultant,3.0,1.0,7-8 hours,Unhealthy,Yes,12,4,No,No
+Female,44,Ghaziabad,Graphic Designer,3.0,3.0,5-6 hours,Unhealthy,No,10,5,No,No
+Male,55,Jaipur,Data Scientist,1.0,5.0,5-6 hours,Unhealthy,No,5,4,Yes,No
+Female,32,Surat,Chemist,2.0,4.0,5-6 hours,Moderate,Yes,1,4,No,No
+Male,30,Ahmedabad,Lawyer,4.0,1.0,5-6 hours,Unhealthy,Yes,2,5,No,Yes
+Male,55,Srinagar,Content Writer,1.0,4.0,7-8 hours,Unhealthy,Yes,10,1,No,No
+Female,45,Jaipur,Mechanical Engineer,1.0,4.0,Less than 5 hours,Unhealthy,Yes,7,1,No,No
+Male,33,Bangalore,Teacher,3.0,2.0,Less than 5 hours,Healthy,No,4,1,Yes,No
+Male,36,Patna,Finanancial Analyst,4.0,5.0,More than 8 hours,Unhealthy,No,2,5,No,No
+Female,50,Varanasi,Chef,4.0,5.0,More than 8 hours,Healthy,Yes,6,4,No,No
+Female,37,Kalyan,Teacher,1.0,1.0,Less than 5 hours,Moderate,No,10,1,Yes,No
+Female,35,Visakhapatnam,Sales Executive,5.0,2.0,7-8 hours,Moderate,No,6,4,No,No
+Female,55,Meerut,Investment Banker,2.0,5.0,5-6 hours,Healthy,Yes,1,2,No,No
+Female,56,Nashik,Teacher,4.0,3.0,More than 8 hours,Moderate,No,12,3,No,No
+Female,38,Ghaziabad,Lawyer,2.0,4.0,More than 8 hours,Unhealthy,Yes,1,1,Yes,No
+Male,57,Kanpur,Teacher,2.0,3.0,More than 8 hours,Unhealthy,Yes,2,3,No,No
+Male,24,Jaipur,Graphic Designer,4.0,3.0,5-6 hours,Unhealthy,No,10,5,Yes,Yes
+Male,55,Mumbai,Architect,3.0,3.0,More than 8 hours,Unhealthy,Yes,9,5,Yes,No
+Male,59,Mumbai,Mechanical Engineer,5.0,2.0,5-6 hours,Unhealthy,Yes,1,3,Yes,No
+Female,47,Ahmedabad,Consultant,1.0,2.0,More than 8 hours,Unhealthy,No,5,5,No,No
+Female,42,Nashik,Content Writer,4.0,1.0,More than 8 hours,Unhealthy,Yes,10,2,No,No
+Male,36,Kanpur,HR Manager,4.0,2.0,More than 8 hours,Healthy,No,10,4,No,No
+Female,50,Faridabad,Entrepreneur,5.0,5.0,Less than 5 hours,Unhealthy,Yes,7,5,No,No
+Male,41,Kalyan,Customer Support,2.0,2.0,More than 8 hours,Healthy,No,3,1,Yes,No
+Female,42,Kanpur,Consultant,2.0,3.0,Less than 5 hours,Healthy,No,3,3,Yes,No
+Male,48,Delhi,UX/UI Designer,3.0,5.0,More than 8 hours,Unhealthy,No,11,5,Yes,No
+Female,22,Vasai-Virar,Entrepreneur,1.0,4.0,More than 8 hours,Unhealthy,No,0,4,Yes,No
+Female,54,Surat,Pharmacist,4.0,1.0,Less than 5 hours,Healthy,Yes,4,2,No,No
+Female,19,Agra,Teacher,2.0,3.0,7-8 hours,Unhealthy,No,11,3,Yes,No
+Male,33,Delhi,Architect,4.0,4.0,7-8 hours,Unhealthy,No,8,4,No,No
+Female,36,Bhopal,Plumber,1.0,5.0,7-8 hours,Healthy,Yes,10,1,Yes,No
+Male,60,Thane,Sales Executive,3.0,4.0,5-6 hours,Moderate,Yes,2,2,No,No
+Male,60,Ludhiana,Chemist,4.0,1.0,7-8 hours,Healthy,No,11,4,No,No
+Female,33,Delhi,HR Manager,2.0,1.0,5-6 hours,Moderate,Yes,5,1,Yes,No
+Female,25,Chennai,Teacher,1.0,1.0,7-8 hours,Unhealthy,No,2,5,Yes,No
+Female,49,Hyderabad,Content Writer,2.0,5.0,5-6 hours,Moderate,Yes,12,1,Yes,No
+Male,27,Jaipur,Mechanical Engineer,1.0,5.0,More than 8 hours,Moderate,Yes,0,1,No,No
+Male,41,Rajkot,Lawyer,3.0,2.0,7-8 hours,Healthy,No,9,2,No,No
+Male,18,Vadodara,Teacher,5.0,4.0,More than 8 hours,Healthy,No,5,2,No,No
+Female,38,Bangalore,Doctor,3.0,2.0,More than 8 hours,Healthy,No,5,5,Yes,No
+Male,33,Kolkata,Pilot,1.0,4.0,7-8 hours,Moderate,No,0,5,No,No
+Female,22,Bangalore,Customer Support,3.0,5.0,5-6 hours,Moderate,Yes,4,1,No,No
+Male,22,Chennai,Researcher,1.0,4.0,More than 8 hours,Healthy,No,2,1,Yes,No
+Male,32,Chennai,Graphic Designer,3.0,5.0,More than 8 hours,Healthy,Yes,3,2,Yes,No
+Male,60,Bhopal,Travel Consultant,5.0,3.0,7-8 hours,Healthy,Yes,3,2,No,No
+Male,46,Indore,Civil Engineer,3.0,4.0,More than 8 hours,Moderate,Yes,3,2,No,No
+Male,32,Nagpur,Pilot,3.0,1.0,More than 8 hours,Healthy,No,3,3,Yes,No
+Female,53,Patna,Entrepreneur,2.0,4.0,Less than 5 hours,Moderate,No,5,1,No,No
+Female,24,Indore,Chemist,1.0,4.0,5-6 hours,Unhealthy,No,3,1,Yes,No
+Male,31,Patna,HR Manager,5.0,3.0,5-6 hours,Moderate,No,5,2,Yes,No
+Female,47,Kalyan,Research Analyst,2.0,5.0,More than 8 hours,Unhealthy,No,6,4,No,No
+Female,58,Meerut,Teacher,4.0,3.0,5-6 hours,Healthy,No,10,4,No,No
+Female,56,Kanpur,Researcher,1.0,3.0,More than 8 hours,Healthy,No,5,1,No,No
+Female,56,Vadodara,Teacher,2.0,3.0,Less than 5 hours,Moderate,Yes,9,4,No,No
+Female,44,Lucknow,Teacher,1.0,5.0,Less than 5 hours,Moderate,Yes,12,2,Yes,No
+Female,38,Hyderabad,Data Scientist,3.0,1.0,Less than 5 hours,Healthy,Yes,11,4,Yes,Yes
+Male,54,Thane,Content Writer,1.0,3.0,5-6 hours,Moderate,No,0,2,No,No
+Male,23,Thane,Teacher,1.0,5.0,5-6 hours,Moderate,No,11,3,No,No
+Female,38,Bhopal,Researcher,3.0,2.0,7-8 hours,Healthy,No,9,5,Yes,No
+Male,42,Bhopal,HR Manager,4.0,2.0,More than 8 hours,Unhealthy,No,3,3,No,No
+Female,48,Chennai,Manager,4.0,5.0,Less than 5 hours,Moderate,No,2,1,Yes,No
+Male,46,Srinagar,Business Analyst,4.0,2.0,Less than 5 hours,Unhealthy,No,4,2,Yes,No
+Male,24,Agra,Pilot,2.0,2.0,7-8 hours,Healthy,Yes,10,1,No,No
+Female,49,Srinagar,Architect,3.0,2.0,5-6 hours,Moderate,No,0,1,No,No
+Male,32,Visakhapatnam,Consultant,3.0,4.0,7-8 hours,Unhealthy,No,11,4,Yes,No
+Female,49,Indore,Financial Analyst,1.0,4.0,More than 8 hours,Healthy,No,9,1,No,No
+Female,18,Indore,Teacher,4.0,2.0,Less than 5 hours,Moderate,No,2,4,Yes,Yes
+Female,42,Srinagar,Teacher,2.0,3.0,Less than 5 hours,Moderate,No,0,4,No,No
+Female,57,Delhi,Architect,3.0,2.0,More than 8 hours,Healthy,No,5,2,No,No
+Female,36,Mumbai,Teacher,3.0,2.0,5-6 hours,Unhealthy,Yes,5,3,No,No
+Male,43,Meerut,Pharmacist,3.0,3.0,5-6 hours,Unhealthy,No,7,5,No,No
+Male,44,Chennai,Teacher,2.0,4.0,Less than 5 hours,Unhealthy,No,9,3,Yes,No
+Female,40,Mumbai,Doctor,5.0,4.0,5-6 hours,Unhealthy,No,6,3,No,No
+Male,38,Kalyan,Business Analyst,1.0,2.0,5-6 hours,Moderate,No,9,4,No,No
+Female,51,Srinagar,Lawyer,4.0,4.0,7-8 hours,Moderate,Yes,7,1,Yes,No
+Male,36,Mumbai,Entrepreneur,5.0,5.0,Less than 5 hours,Healthy,No,9,1,No,No
+Male,55,Agra,HR Manager,2.0,1.0,More than 8 hours,Unhealthy,Yes,9,3,No,No
+Female,43,Agra,Teacher,1.0,1.0,7-8 hours,Moderate,No,9,4,Yes,No
+Male,39,Mumbai,Chemist,5.0,5.0,5-6 hours,Unhealthy,No,8,2,Yes,No
+Male,46,Ludhiana,Data Scientist,5.0,2.0,5-6 hours,Healthy,No,1,1,No,No
+Female,48,Bangalore,Marketing Manager,4.0,3.0,Less than 5 hours,Moderate,Yes,5,4,Yes,No
+Male,41,Surat,Teacher,4.0,5.0,7-8 hours,Unhealthy,No,3,3,No,No
+Female,45,Srinagar,Teacher,1.0,3.0,Less than 5 hours,Healthy,Yes,2,5,Yes,No
+Male,25,Bangalore,Consultant,1.0,5.0,5-6 hours,Healthy,Yes,12,3,Yes,No
+Female,23,Pune,Teacher,3.0,1.0,Less than 5 hours,Moderate,Yes,8,3,No,Yes
+Female,24,Srinagar,HR Manager,1.0,4.0,Less than 5 hours,Moderate,Yes,4,4,No,No
+Female,56,Bangalore,Business Analyst,2.0,3.0,7-8 hours,Healthy,No,4,5,Yes,No
