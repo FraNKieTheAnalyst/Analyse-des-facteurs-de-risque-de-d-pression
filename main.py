@@ -16,11 +16,14 @@ class DonneesEntree(BaseModel):
     Work_Hours:  int
     Financial_Stress: int 
     Family_History_of_Mental_Illness: int
+    City_Villes_de_lOuest: bool 
     Profession_Education_Enseignement: bool 
-    Profession_entrepreneur_consultant: bool
     Profession_Sciences_Recherche: bool
+    Profession_entrepreneur_consultant: bool
     Dietary_Habits_Unhealthy: bool
     Sleep_Duration_Less_than_5_hours: bool
+    
+
 
 # Création de l'instance de l'application Flask
 app = Flask(__name__)
