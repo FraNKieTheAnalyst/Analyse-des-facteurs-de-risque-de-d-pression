@@ -1,8 +1,8 @@
 import requests
 
 # URL de base de l'API
-url_base = 'http://127.0.0.1:8000'
-
+url_base = 'http://127.0.0.1:8080' #a été utilisé pour tester l'API en local
+#url_base = 'https://deploiement-744655853198.europe-west9.run.app' 
 # Test du endpoint d'accueil
 response = requests.get(f"{url_base}/")
 print("Réponse du endpoint d'accueil:", response.text)
@@ -31,7 +31,7 @@ print("Réponse du endpoint de prédiction:", response.text)
 
 
 # Données d'exemple pour la prédiction avec haute probabilité de diabète
-donnees_predire_haute_proba_diabete = {
+donnees_predire_haute_proba_depression = {
     "Age": 22,
     "Work_Pressure": 60,                            
     "Job_Satisfaction": 0,
@@ -45,9 +45,8 @@ donnees_predire_haute_proba_diabete = {
     "Profession_entrepreneur_consultant": 0,
     "Dietary_Habits_Unhealthy": 1,
     "Sleep_Duration_Less_than_5_hours": 1 
-   
 }
 
 # Test du endpoint de prédiction
-response = requests.post(f"{url_base}/predire", json=donnees_predire_haute_proba_diabete)
+response = requests.post(f"{url_base}/predire", json=donnees_predire_haute_proba_depression)
 print("Réponse du endpoint de prédiction:", response.text)

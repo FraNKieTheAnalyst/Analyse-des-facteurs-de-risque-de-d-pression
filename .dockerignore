@@ -16,8 +16,6 @@ test_request            # Ignorer le répertoire 'test' qui peut contenir des sc
 # Ignorer les fichiers PDF
 *.pdf
 
-# Ignorer les fichiers PKL (Pickle)
-*.pkl
 
 # Ignorer les fichiers CSV
 *.csv

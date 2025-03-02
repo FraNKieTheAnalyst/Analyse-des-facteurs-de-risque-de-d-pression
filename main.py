@@ -3,6 +3,8 @@ import numpy as np
 import pandas as pd  
 import joblib  # Utilisé pour charger le modèle sauvegardé
 from flask import Flask, request, jsonify  # Flask est un micro-framework pour les applications web
+import os
+
 
 # Charger le modèle SVM depuis le disque
 modele = joblib.load('Super_Vector_Machine.pkl')
@@ -52,12 +54,12 @@ def predire():
 
         # Utilisation du modèle pour prédire et obtenir les probabilités
         predictions = modele.predict(donnees_df)
-        probabilities = modele.predict_proba(donnees_df)[:, 1]  # Probabilité de la classe positive (diabète)
+        probabilities = modele.predict_proba(donnees_df)[:, 1]  # Probabilité de la classe positive (depression)
 
         # Compilation des résultats dans un dictionnaire
         resultats = donnees.dict()
         resultats['prediction'] = int(predictions[0])
-        resultats['probabilite_diabete'] = probabilities[0]
+        resultats['probabilite_depression'] = probabilities[0]
 
         # Renvoie les résultats sous forme de JSON
         return jsonify({"resultats": resultats})
@@ -67,7 +69,7 @@ def predire():
 
 # Point d'entrée pour exécuter l'application
 if __name__ == "__main__":
-    app.run(debug=True, port=8000)  # Lancement de l'application sur le port 8000 avec le mode debug activé
-    
+    port = int(os.environ.get("PORT", 8080))  # Utilisation du port Cloud Run (par défaut 8080)
+    app.run(debug=True, host="0.0.0.0", port=port) 
 
 
